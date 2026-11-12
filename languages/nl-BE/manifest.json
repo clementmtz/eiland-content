@@ -1,0 +1,2604 @@
+{
+  "schema": 1,
+  "version": "394bccc55597cf7d",
+  "language": {
+    "code": "nl-BE",
+    "name": "Nederlands (België)",
+    "name_fr": "Néerlandais de Belgique",
+    "voice": "nl-BE-DenaNeural"
+  },
+  "islands": [
+    {
+      "id": "intro",
+      "emoji": "🙋",
+      "title_fr": "Me présenter",
+      "order": 10,
+      "sentences": [
+        {
+          "id": "intro-001",
+          "nl": "Dag, ik ben Clément.",
+          "fr": "Bonjour, je suis Clément.",
+          "note": "Remplace par ton prénom en créant ton propre îlot.",
+          "audio": "audio/intro-001-65d656ca367f.mp3",
+          "hash": "65d656ca367f",
+          "bytes": 14256,
+          "durationMs": 2376
+        },
+        {
+          "id": "intro-002",
+          "nl": "Aangenaam!",
+          "fr": "Enchanté !",
+          "note": "Très courant en Belgique pour dire « enchanté ».",
+          "audio": "audio/intro-002-75f3110a25f1.mp3",
+          "hash": "75f3110a25f1",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "intro-003",
+          "nl": "Ik kom uit Frankrijk, maar ik woon nu in België.",
+          "fr": "Je viens de France, mais j'habite maintenant en Belgique.",
+          "audio": "audio/intro-003-5a45d56bf607.mp3",
+          "hash": "5a45d56bf607",
+          "bytes": 22176,
+          "durationMs": 3696
+        },
+        {
+          "id": "intro-004",
+          "nl": "Ik woon al twee jaar in Brussel.",
+          "fr": "J'habite à Bruxelles depuis deux ans.",
+          "note": "« al » + durée = depuis.",
+          "audio": "audio/intro-004-756b8bc25ede.mp3",
+          "hash": "756b8bc25ede",
+          "bytes": 15984,
+          "durationMs": 2664
+        },
+        {
+          "id": "intro-005",
+          "nl": "Ik leer Nederlands, omdat ik met mijn Vlaamse collega's wil praten.",
+          "fr": "J'apprends le néerlandais parce que je veux parler avec mes collègues flamands.",
+          "note": "Après « omdat », le verbe conjugué part à la fin.",
+          "audio": "audio/intro-005-af6283af7d47.mp3",
+          "hash": "af6283af7d47",
+          "bytes": 27792,
+          "durationMs": 4632
+        },
+        {
+          "id": "intro-006",
+          "nl": "Mijn Nederlands is nog niet zo goed, maar ik doe mijn best.",
+          "fr": "Mon néerlandais n'est pas encore très bon, mais je fais de mon mieux.",
+          "audio": "audio/intro-006-95ac96eb103a.mp3",
+          "hash": "95ac96eb103a",
+          "bytes": 24624,
+          "durationMs": 4104
+        },
+        {
+          "id": "intro-007",
+          "nl": "Als u wat trager spreekt, versta ik het beter.",
+          "fr": "Si vous parlez un peu plus lentement, je comprends mieux.",
+          "note": "« verstaan » = comprendre ce qu'on entend, très utilisé en Flandre.",
+          "audio": "audio/intro-007-31b0c1766730.mp3",
+          "hash": "31b0c1766730",
+          "bytes": 21456,
+          "durationMs": 3576
+        },
+        {
+          "id": "intro-008",
+          "nl": "Dank u om geduldig te zijn!",
+          "fr": "Merci d'être patient !",
+          "note": "Tournure belge. Aux Pays-Bas : « bedankt dat u geduldig bent ».",
+          "audio": "audio/intro-008-28d4a053344e.mp3",
+          "hash": "28d4a053344e",
+          "bytes": 15120,
+          "durationMs": 2520
+        },
+        {
+          "id": "intro-009",
+          "nl": "Ik ben dertig jaar.",
+          "fr": "J'ai trente ans.",
+          "note": "En néerlandais, on « est » son âge : ik ben … jaar.",
+          "audio": "audio/intro-009-2e16b01def9f.mp3",
+          "hash": "2e16b01def9f",
+          "bytes": 12240,
+          "durationMs": 2040
+        },
+        {
+          "id": "intro-010",
+          "nl": "Ik woon samen met mijn partner.",
+          "fr": "J'habite avec mon ou ma partenaire.",
+          "audio": "audio/intro-010-d5122a8d3133.mp3",
+          "hash": "d5122a8d3133",
+          "bytes": 15264,
+          "durationMs": 2544
+        },
+        {
+          "id": "intro-011",
+          "nl": "Ik werk als projectleider in een groot bedrijf.",
+          "fr": "Je travaille comme chef de projet dans une grande entreprise.",
+          "note": "« als » + métier, sans article.",
+          "audio": "audio/intro-011-f4c7cb26a483.mp3",
+          "hash": "f4c7cb26a483",
+          "bytes": 20880,
+          "durationMs": 3480
+        },
+        {
+          "id": "intro-012",
+          "nl": "Ik spreek Frans, Engels en een beetje Nederlands.",
+          "fr": "Je parle français, anglais et un peu néerlandais.",
+          "audio": "audio/intro-012-cd9dc0ca1816.mp3",
+          "hash": "cd9dc0ca1816",
+          "bytes": 22752,
+          "durationMs": 3792
+        },
+        {
+          "id": "intro-013",
+          "nl": "Ik heb Nederlands op school geleerd, maar ik ben bijna alles vergeten.",
+          "fr": "J'ai appris le néerlandais à l'école, mais j'ai presque tout oublié.",
+          "note": "Passé composé : hebben ou zijn + participe passé à la fin.",
+          "audio": "audio/intro-013-39a522029235.mp3",
+          "hash": "39a522029235",
+          "bytes": 27360,
+          "durationMs": 4560
+        },
+        {
+          "id": "intro-014",
+          "nl": "Nu wil ik het echt goed leren.",
+          "fr": "Maintenant, je veux vraiment bien l'apprendre.",
+          "audio": "audio/intro-014-6e0a8ecef598.mp3",
+          "hash": "6e0a8ecef598",
+          "bytes": 15120,
+          "durationMs": 2520
+        },
+        {
+          "id": "intro-015",
+          "nl": "Ik oefen elke dag een halfuurtje.",
+          "fr": "Je m'entraîne une petite demi-heure chaque jour.",
+          "note": "« halfuurtje » : diminutif très courant.",
+          "audio": "audio/intro-015-9844b40e62cd.mp3",
+          "hash": "9844b40e62cd",
+          "bytes": 16704,
+          "durationMs": 2784
+        },
+        {
+          "id": "intro-016",
+          "nl": "Mag ik u iets vragen? Waar komt u vandaan?",
+          "fr": "Puis-je vous demander quelque chose ? D'où venez-vous ?",
+          "audio": "audio/intro-016-db917d644bae.mp3",
+          "hash": "db917d644bae",
+          "bytes": 25200,
+          "durationMs": 4200
+        },
+        {
+          "id": "intro-017",
+          "nl": "Spreek gerust Nederlands met mij, zo leer ik het snelst.",
+          "fr": "N'hésitez pas à me parler en néerlandais, c'est comme ça que j'apprends le plus vite.",
+          "note": "Beaucoup de Flamands passent au français ou à l'anglais : cette phrase les en empêche gentiment.",
+          "audio": "audio/intro-017-e337b555bfc7.mp3",
+          "hash": "e337b555bfc7",
+          "bytes": 25632,
+          "durationMs": 4272
+        },
+        {
+          "id": "intro-018",
+          "nl": "Tot de volgende keer!",
+          "fr": "À la prochaine !",
+          "audio": "audio/intro-018-70fc37c945ba.mp3",
+          "hash": "70fc37c945ba",
+          "bytes": 12240,
+          "durationMs": 2040
+        }
+      ]
+    },
+    {
+      "id": "vragen",
+      "emoji": "❓",
+      "title_fr": "Questions de base",
+      "order": 20,
+      "sentences": [
+        {
+          "id": "vragen-001",
+          "nl": "Hoe gaat het met u? – Goed, dank u. En met u?",
+          "fr": "Comment allez-vous ? – Bien, merci. Et vous ?",
+          "audio": "audio/vragen-001-9d32759575ba.mp3",
+          "hash": "9d32759575ba",
+          "bytes": 32976,
+          "durationMs": 5496
+        },
+        {
+          "id": "vragen-002",
+          "nl": "Waar woont u? – Ik woon in Brussel.",
+          "fr": "Où habitez-vous ? – J'habite à Bruxelles.",
+          "audio": "audio/vragen-002-ab0b52d3d940.mp3",
+          "hash": "ab0b52d3d940",
+          "bytes": 21744,
+          "durationMs": 3624
+        },
+        {
+          "id": "vragen-003",
+          "nl": "Hoe lang leert u al Nederlands? – Sinds een paar maanden.",
+          "fr": "Depuis combien de temps apprenez-vous le néerlandais ? – Depuis quelques mois.",
+          "audio": "audio/vragen-003-0ccb163080d2.mp3",
+          "hash": "0ccb163080d2",
+          "bytes": 28224,
+          "durationMs": 4704
+        },
+        {
+          "id": "vragen-004",
+          "nl": "Wat bedoelt u?",
+          "fr": "Que voulez-vous dire ?",
+          "audio": "audio/vragen-004-2b8828678928.mp3",
+          "hash": "2b8828678928",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "vragen-005",
+          "nl": "Hoe zeg je dat in het Nederlands?",
+          "fr": "Comment dit-on ça en néerlandais ?",
+          "audio": "audio/vragen-005-ad20af47194b.mp3",
+          "hash": "ad20af47194b",
+          "bytes": 15840,
+          "durationMs": 2640
+        },
+        {
+          "id": "vragen-006",
+          "nl": "Kunt u dat herhalen, alstublieft?",
+          "fr": "Pouvez-vous répéter, s'il vous plaît ?",
+          "audio": "audio/vragen-006-cef71c9f7570.mp3",
+          "hash": "cef71c9f7570",
+          "bytes": 17856,
+          "durationMs": 2976
+        },
+        {
+          "id": "vragen-007",
+          "nl": "Ik versta het niet goed.",
+          "fr": "Je ne comprends pas bien.",
+          "audio": "audio/vragen-007-7384ca78d5ff.mp3",
+          "hash": "7384ca78d5ff",
+          "bytes": 13536,
+          "durationMs": 2256
+        },
+        {
+          "id": "vragen-008",
+          "nl": "Mag ik iets vragen?",
+          "fr": "Puis-je demander quelque chose ?",
+          "audio": "audio/vragen-008-92bb2da1d457.mp3",
+          "hash": "92bb2da1d457",
+          "bytes": 12240,
+          "durationMs": 2040
+        },
+        {
+          "id": "vragen-009",
+          "nl": "Hoe heet u?",
+          "fr": "Comment vous appelez-vous ?",
+          "audio": "audio/vragen-009-f4d5c0e80d0c.mp3",
+          "hash": "f4d5c0e80d0c",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "vragen-010",
+          "nl": "Hoe oud ben je?",
+          "fr": "Quel âge as-tu ?",
+          "audio": "audio/vragen-010-eacd440092e2.mp3",
+          "hash": "eacd440092e2",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "vragen-011",
+          "nl": "Wat is uw telefoonnummer?",
+          "fr": "Quel est votre numéro de téléphone ?",
+          "audio": "audio/vragen-011-c275f3632346.mp3",
+          "hash": "c275f3632346",
+          "bytes": 13968,
+          "durationMs": 2328
+        },
+        {
+          "id": "vragen-012",
+          "nl": "Hoe laat is het?",
+          "fr": "Quelle heure est-il ?",
+          "audio": "audio/vragen-012-b853d7d273d5.mp3",
+          "hash": "b853d7d273d5",
+          "bytes": 11664,
+          "durationMs": 1944
+        },
+        {
+          "id": "vragen-013",
+          "nl": "Hoeveel kost dat?",
+          "fr": "Combien ça coûte ?",
+          "audio": "audio/vragen-013-bce59324a05a.mp3",
+          "hash": "bce59324a05a",
+          "bytes": 11952,
+          "durationMs": 1992
+        },
+        {
+          "id": "vragen-014",
+          "nl": "Waarom niet?",
+          "fr": "Pourquoi pas ?",
+          "audio": "audio/vragen-014-c431b273d620.mp3",
+          "hash": "c431b273d620",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "vragen-015",
+          "nl": "Wanneer begint het?",
+          "fr": "Quand est-ce que ça commence ?",
+          "audio": "audio/vragen-015-ceddf37bb5ae.mp3",
+          "hash": "ceddf37bb5ae",
+          "bytes": 11952,
+          "durationMs": 1992
+        },
+        {
+          "id": "vragen-016",
+          "nl": "Met wie ga je?",
+          "fr": "Avec qui y vas-tu ?",
+          "audio": "audio/vragen-016-5d17b86b79a7.mp3",
+          "hash": "5d17b86b79a7",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "vragen-017",
+          "nl": "Welke trein moet ik nemen?",
+          "fr": "Quel train dois-je prendre ?",
+          "audio": "audio/vragen-017-53297e9e1520.mp3",
+          "hash": "53297e9e1520",
+          "bytes": 14112,
+          "durationMs": 2352
+        },
+        {
+          "id": "vragen-018",
+          "nl": "Is dat ver van hier?",
+          "fr": "C'est loin d'ici ?",
+          "audio": "audio/vragen-018-1613e968f3a2.mp3",
+          "hash": "1613e968f3a2",
+          "bytes": 12528,
+          "durationMs": 2088
+        },
+        {
+          "id": "vragen-019",
+          "nl": "Kunt u wat trager spreken, alstublieft?",
+          "fr": "Pouvez-vous parler un peu plus lentement, s'il vous plaît ?",
+          "audio": "audio/vragen-019-cdd1753bdb51.mp3",
+          "hash": "cdd1753bdb51",
+          "bytes": 19152,
+          "durationMs": 3192
+        },
+        {
+          "id": "vragen-020",
+          "nl": "Wat betekent dat woord?",
+          "fr": "Que veut dire ce mot ?",
+          "audio": "audio/vragen-020-22f017cfe1db.mp3",
+          "hash": "22f017cfe1db",
+          "bytes": 13536,
+          "durationMs": 2256
+        }
+      ]
+    },
+    {
+      "id": "verbes",
+      "emoji": "🔑",
+      "title_fr": "Les verbes essentiels",
+      "order": 30,
+      "sentences": [
+        {
+          "id": "verbes-001",
+          "nl": "Ik ben moe.",
+          "fr": "Je suis fatigué.",
+          "audio": "audio/verbes-001-40b9e715c9ca.mp3",
+          "hash": "40b9e715c9ca",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "verbes-002",
+          "nl": "Ik heb geen tijd.",
+          "fr": "Je n'ai pas le temps.",
+          "audio": "audio/verbes-002-fe2a22b0a204.mp3",
+          "hash": "fe2a22b0a204",
+          "bytes": 11808,
+          "durationMs": 1968
+        },
+        {
+          "id": "verbes-003",
+          "nl": "Ik ga naar huis.",
+          "fr": "Je rentre à la maison.",
+          "audio": "audio/verbes-003-c8b1215d87b3.mp3",
+          "hash": "c8b1215d87b3",
+          "bytes": 11952,
+          "durationMs": 1992
+        },
+        {
+          "id": "verbes-004",
+          "nl": "Ik kom zo.",
+          "fr": "J'arrive tout de suite.",
+          "audio": "audio/verbes-004-702b1f8179d1.mp3",
+          "hash": "702b1f8179d1",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "verbes-005",
+          "nl": "Ik wil iets drinken.",
+          "fr": "Je veux boire quelque chose.",
+          "audio": "audio/verbes-005-e62d5a4e4021.mp3",
+          "hash": "e62d5a4e4021",
+          "bytes": 12096,
+          "durationMs": 2016
+        },
+        {
+          "id": "verbes-006",
+          "nl": "Ik kan morgen niet komen.",
+          "fr": "Je ne peux pas venir demain.",
+          "note": "Avec kunnen, willen ou moeten, l'infinitif part à la fin.",
+          "audio": "audio/verbes-006-0e0d16c101cd.mp3",
+          "hash": "0e0d16c101cd",
+          "bytes": 13680,
+          "durationMs": 2280
+        },
+        {
+          "id": "verbes-007",
+          "nl": "Ik moet nu vertrekken.",
+          "fr": "Je dois partir maintenant.",
+          "audio": "audio/verbes-007-6dade7d90dfa.mp3",
+          "hash": "6dade7d90dfa",
+          "bytes": 12672,
+          "durationMs": 2112
+        },
+        {
+          "id": "verbes-008",
+          "nl": "Mag ik hier zitten?",
+          "fr": "Puis-je m'asseoir ici ?",
+          "audio": "audio/verbes-008-b0c8d2a6a66f.mp3",
+          "hash": "b0c8d2a6a66f",
+          "bytes": 11520,
+          "durationMs": 1920
+        },
+        {
+          "id": "verbes-009",
+          "nl": "Ik weet het niet.",
+          "fr": "Je ne sais pas.",
+          "audio": "audio/verbes-009-7aec2c7e27bf.mp3",
+          "hash": "7aec2c7e27bf",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "verbes-010",
+          "nl": "Ik denk het wel.",
+          "fr": "Je pense que oui.",
+          "audio": "audio/verbes-010-0c954a865e9a.mp3",
+          "hash": "0c954a865e9a",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "verbes-011",
+          "nl": "Ik vind het goed.",
+          "fr": "Ça me va.",
+          "note": "« Ik vind het goed » = je suis d'accord, ça me convient.",
+          "audio": "audio/verbes-011-6b45dd8429c4.mp3",
+          "hash": "6b45dd8429c4",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "verbes-012",
+          "nl": "Ik zie je morgen.",
+          "fr": "On se voit demain.",
+          "audio": "audio/verbes-012-c2937df68ff5.mp3",
+          "hash": "c2937df68ff5",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "verbes-013",
+          "nl": "Ik zeg het je straks.",
+          "fr": "Je te le dis tout à l'heure.",
+          "note": "« straks » = tout à l'heure, dans un futur proche.",
+          "audio": "audio/verbes-013-27d163bc873c.mp3",
+          "hash": "27d163bc873c",
+          "bytes": 12528,
+          "durationMs": 2088
+        },
+        {
+          "id": "verbes-014",
+          "nl": "Ik doe het morgen.",
+          "fr": "Je le fais demain.",
+          "audio": "audio/verbes-014-979f033e3208.mp3",
+          "hash": "979f033e3208",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "verbes-015",
+          "nl": "Ik heb het gisteren gedaan.",
+          "fr": "Je l'ai fait hier.",
+          "audio": "audio/verbes-015-baf408f4ba3e.mp3",
+          "hash": "baf408f4ba3e",
+          "bytes": 12672,
+          "durationMs": 2112
+        },
+        {
+          "id": "verbes-016",
+          "nl": "Ik ben gisteren thuisgebleven.",
+          "fr": "Je suis resté à la maison hier.",
+          "note": "Les verbes de déplacement ou de changement d'état se conjuguent avec « zijn ».",
+          "audio": "audio/verbes-016-640114493e54.mp3",
+          "hash": "640114493e54",
+          "bytes": 15408,
+          "durationMs": 2568
+        },
+        {
+          "id": "verbes-017",
+          "nl": "Geef me even je pen, alsjeblieft.",
+          "fr": "Donne-moi ton stylo un instant, s'il te plaît.",
+          "note": "« even » adoucit une demande.",
+          "audio": "audio/verbes-017-8bd9aec21839.mp3",
+          "hash": "8bd9aec21839",
+          "bytes": 18720,
+          "durationMs": 3120
+        },
+        {
+          "id": "verbes-018",
+          "nl": "Ik neem de bus.",
+          "fr": "Je prends le bus.",
+          "audio": "audio/verbes-018-858a05979b73.mp3",
+          "hash": "858a05979b73",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "verbes-019",
+          "nl": "Het maakt niet uit.",
+          "fr": "Peu importe.",
+          "audio": "audio/verbes-019-c9dc844f612f.mp3",
+          "hash": "c9dc844f612f",
+          "bytes": 12960,
+          "durationMs": 2160
+        },
+        {
+          "id": "verbes-020",
+          "nl": "Dat klopt.",
+          "fr": "C'est exact.",
+          "audio": "audio/verbes-020-031802120962.mp3",
+          "hash": "031802120962",
+          "bytes": 11232,
+          "durationMs": 1872
+        }
+      ]
+    },
+    {
+      "id": "cafe",
+      "emoji": "🍺",
+      "title_fr": "Au café",
+      "order": 40,
+      "sentences": [
+        {
+          "id": "cafe-001",
+          "nl": "Is deze tafel nog vrij?",
+          "fr": "Cette table est-elle encore libre ?",
+          "audio": "audio/cafe-001-56db69ec2d88.mp3",
+          "hash": "56db69ec2d88",
+          "bytes": 14400,
+          "durationMs": 2400
+        },
+        {
+          "id": "cafe-002",
+          "nl": "Mag ik de kaart, alstublieft?",
+          "fr": "Puis-je avoir la carte, s'il vous plaît ?",
+          "audio": "audio/cafe-002-a5e3a2433715.mp3",
+          "hash": "a5e3a2433715",
+          "bytes": 17136,
+          "durationMs": 2856
+        },
+        {
+          "id": "cafe-003",
+          "nl": "Voor mij een pintje, alstublieft.",
+          "fr": "Pour moi, une bière, s'il vous plaît.",
+          "note": "« een pintje » : la bière pression, typiquement belge.",
+          "audio": "audio/cafe-003-5e5e46b4c464.mp3",
+          "hash": "5e5e46b4c464",
+          "bytes": 17424,
+          "durationMs": 2904
+        },
+        {
+          "id": "cafe-004",
+          "nl": "Wat raadt u aan?",
+          "fr": "Que me conseillez-vous ?",
+          "audio": "audio/cafe-004-91179d237ebe.mp3",
+          "hash": "91179d237ebe",
+          "bytes": 11664,
+          "durationMs": 1944
+        },
+        {
+          "id": "cafe-005",
+          "nl": "Ik neem het stoofvlees met frietjes.",
+          "fr": "Je prends la carbonnade avec des frites.",
+          "note": "stoofvlees = carbonnade flamande.",
+          "audio": "audio/cafe-005-1275407a5aed.mp3",
+          "hash": "1275407a5aed",
+          "bytes": 17136,
+          "durationMs": 2856
+        },
+        {
+          "id": "cafe-006",
+          "nl": "Het was heel lekker, merci!",
+          "fr": "C'était très bon, merci !",
+          "note": "Les Flamands disent souvent « merci » !",
+          "audio": "audio/cafe-006-5962ebf53fd2.mp3",
+          "hash": "5962ebf53fd2",
+          "bytes": 15696,
+          "durationMs": 2616
+        },
+        {
+          "id": "cafe-007",
+          "nl": "Mogen we afrekenen, alstublieft?",
+          "fr": "Pouvons-nous payer, s'il vous plaît ?",
+          "audio": "audio/cafe-007-43ee539844af.mp3",
+          "hash": "43ee539844af",
+          "bytes": 18000,
+          "durationMs": 3000
+        },
+        {
+          "id": "cafe-008",
+          "nl": "Kan ik met Bancontact betalen?",
+          "fr": "Puis-je payer avec Bancontact ?",
+          "note": "Bancontact : la carte de paiement belge.",
+          "audio": "audio/cafe-008-e878cebf7c47.mp3",
+          "hash": "e878cebf7c47",
+          "bytes": 15120,
+          "durationMs": 2520
+        },
+        {
+          "id": "cafe-009",
+          "nl": "Een tafel voor twee, alstublieft.",
+          "fr": "Une table pour deux, s'il vous plaît.",
+          "audio": "audio/cafe-009-415c7fb61cfb.mp3",
+          "hash": "415c7fb61cfb",
+          "bytes": 18720,
+          "durationMs": 3120
+        },
+        {
+          "id": "cafe-010",
+          "nl": "Hebt u een vegetarisch gerecht?",
+          "fr": "Avez-vous un plat végétarien ?",
+          "note": "En Flandre, « hebt u » est courant, à côté de « heeft u ».",
+          "audio": "audio/cafe-010-3247398f3928.mp3",
+          "hash": "3247398f3928",
+          "bytes": 15408,
+          "durationMs": 2568
+        },
+        {
+          "id": "cafe-011",
+          "nl": "Ik ben allergisch voor noten.",
+          "fr": "Je suis allergique aux noix.",
+          "audio": "audio/cafe-011-3e623f2be84d.mp3",
+          "hash": "3e623f2be84d",
+          "bytes": 14544,
+          "durationMs": 2424
+        },
+        {
+          "id": "cafe-012",
+          "nl": "Een spa rood, alstublieft.",
+          "fr": "Une eau pétillante, s'il vous plaît.",
+          "note": "En Belgique : « spa rood » = eau pétillante, « spa blauw » = eau plate, d'après la marque Spa.",
+          "audio": "audio/cafe-012-9a525ee374de.mp3",
+          "hash": "9a525ee374de",
+          "bytes": 16848,
+          "durationMs": 2808
+        },
+        {
+          "id": "cafe-013",
+          "nl": "Wat is de dagschotel?",
+          "fr": "Quel est le plat du jour ?",
+          "audio": "audio/cafe-013-19d1aebdd8de.mp3",
+          "hash": "19d1aebdd8de",
+          "bytes": 13248,
+          "durationMs": 2208
+        },
+        {
+          "id": "cafe-014",
+          "nl": "Mag ik nog een koffie, alstublieft?",
+          "fr": "Puis-je avoir encore un café, s'il vous plaît ?",
+          "audio": "audio/cafe-014-295fe9b42273.mp3",
+          "hash": "295fe9b42273",
+          "bytes": 18000,
+          "durationMs": 3000
+        },
+        {
+          "id": "cafe-015",
+          "nl": "Smakelijk!",
+          "fr": "Bon appétit !",
+          "audio": "audio/cafe-015-3bfa789f25c1.mp3",
+          "hash": "3bfa789f25c1",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "cafe-016",
+          "nl": "Santé!",
+          "fr": "Santé !",
+          "note": "Oui, les Flamands disent souvent « santé » en trinquant.",
+          "audio": "audio/cafe-016-904f0cc5461c.mp3",
+          "hash": "904f0cc5461c",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "cafe-017",
+          "nl": "Kan ik hier ook iets afhalen?",
+          "fr": "Puis-je aussi prendre quelque chose à emporter ici ?",
+          "note": "« afhalen » = à emporter.",
+          "audio": "audio/cafe-017-ebd150ea1cd9.mp3",
+          "hash": "ebd150ea1cd9",
+          "bytes": 14976,
+          "durationMs": 2496
+        },
+        {
+          "id": "cafe-018",
+          "nl": "Waar zijn de toiletten, alstublieft?",
+          "fr": "Où sont les toilettes, s'il vous plaît ?",
+          "audio": "audio/cafe-018-50cdd3a60b55.mp3",
+          "hash": "50cdd3a60b55",
+          "bytes": 17424,
+          "durationMs": 2904
+        },
+        {
+          "id": "cafe-019",
+          "nl": "Het is voor mij, ik trakteer!",
+          "fr": "C'est pour moi, je t'invite !",
+          "note": "« trakteren » = offrir, inviter.",
+          "audio": "audio/cafe-019-e6408bdf89ef.mp3",
+          "hash": "e6408bdf89ef",
+          "bytes": 16848,
+          "durationMs": 2808
+        },
+        {
+          "id": "cafe-020",
+          "nl": "Hou het wisselgeld maar.",
+          "fr": "Gardez la monnaie.",
+          "note": "« maar » adoucit l'ordre.",
+          "audio": "audio/cafe-020-1e06ce5ea9f5.mp3",
+          "hash": "1e06ce5ea9f5",
+          "bytes": 13824,
+          "durationMs": 2304
+        }
+      ]
+    },
+    {
+      "id": "boodsch",
+      "emoji": "🛒",
+      "title_fr": "Faire les courses",
+      "order": 50,
+      "sentences": [
+        {
+          "id": "boodsch-001",
+          "nl": "Ik moet nog boodschappen doen.",
+          "fr": "Je dois encore faire les courses.",
+          "audio": "audio/boodsch-001-d47ae86e2686.mp3",
+          "hash": "d47ae86e2686",
+          "bytes": 13824,
+          "durationMs": 2304
+        },
+        {
+          "id": "boodsch-002",
+          "nl": "Waar vind ik de melk?",
+          "fr": "Où est-ce que je trouve le lait ?",
+          "audio": "audio/boodsch-002-f29232e5d219.mp3",
+          "hash": "f29232e5d219",
+          "bytes": 12816,
+          "durationMs": 2136
+        },
+        {
+          "id": "boodsch-003",
+          "nl": "Een brood, alstublieft. Gesneden, graag.",
+          "fr": "Un pain, s'il vous plaît. Tranché, merci.",
+          "note": "À la boulangerie belge, on demande souvent le pain tranché (gesneden).",
+          "audio": "audio/boodsch-003-d0cb8f1c768b.mp3",
+          "hash": "d0cb8f1c768b",
+          "bytes": 28512,
+          "durationMs": 4752
+        },
+        {
+          "id": "boodsch-004",
+          "nl": "Mag ik vier pistolets?",
+          "fr": "Puis-je avoir quatre pistolets ?",
+          "note": "Le pistolet : petit pain rond typiquement bruxellois.",
+          "audio": "audio/boodsch-004-73cc9ddf6a90.mp3",
+          "hash": "73cc9ddf6a90",
+          "bytes": 14112,
+          "durationMs": 2352
+        },
+        {
+          "id": "boodsch-005",
+          "nl": "Hoeveel kost een kilo appels?",
+          "fr": "Combien coûte un kilo de pommes ?",
+          "audio": "audio/boodsch-005-d5a27d6b7c4c.mp3",
+          "hash": "d5a27d6b7c4c",
+          "bytes": 15840,
+          "durationMs": 2640
+        },
+        {
+          "id": "boodsch-006",
+          "nl": "Een half kilo tomaten, alstublieft.",
+          "fr": "Un demi-kilo de tomates, s'il vous plaît.",
+          "audio": "audio/boodsch-006-c947b0355b51.mp3",
+          "hash": "c947b0355b51",
+          "bytes": 19440,
+          "durationMs": 3240
+        },
+        {
+          "id": "boodsch-007",
+          "nl": "Honderd gram hesp, alstublieft.",
+          "fr": "Cent grammes de jambon, s'il vous plaît.",
+          "note": "« hesp » = jambon en Belgique ; aux Pays-Bas : « ham ».",
+          "audio": "audio/boodsch-007-94b011a952d1.mp3",
+          "hash": "94b011a952d1",
+          "bytes": 17856,
+          "durationMs": 2976
+        },
+        {
+          "id": "boodsch-008",
+          "nl": "Mag het iets meer zijn?",
+          "fr": "Ça peut être un peu plus ?",
+          "note": "La question classique du boucher ou du fromager.",
+          "audio": "audio/boodsch-008-8152783c587b.mp3",
+          "hash": "8152783c587b",
+          "bytes": 12672,
+          "durationMs": 2112
+        },
+        {
+          "id": "boodsch-009",
+          "nl": "Nee, dat is alles, dank u.",
+          "fr": "Non, ce sera tout, merci.",
+          "audio": "audio/boodsch-009-99a9fc1313f6.mp3",
+          "hash": "99a9fc1313f6",
+          "bytes": 18720,
+          "durationMs": 3120
+        },
+        {
+          "id": "boodsch-010",
+          "nl": "Hebt u een zakje?",
+          "fr": "Avez-vous un sachet ?",
+          "audio": "audio/boodsch-010-c7891846efed.mp3",
+          "hash": "c7891846efed",
+          "bytes": 11376,
+          "durationMs": 1896
+        },
+        {
+          "id": "boodsch-011",
+          "nl": "Ik betaal met de kaart.",
+          "fr": "Je paie par carte.",
+          "audio": "audio/boodsch-011-21c6f5721af5.mp3",
+          "hash": "21c6f5721af5",
+          "bytes": 13104,
+          "durationMs": 2184
+        },
+        {
+          "id": "boodsch-012",
+          "nl": "Kan ik contactloos betalen?",
+          "fr": "Puis-je payer sans contact ?",
+          "audio": "audio/boodsch-012-0752ed688f12.mp3",
+          "hash": "0752ed688f12",
+          "bytes": 14400,
+          "durationMs": 2400
+        },
+        {
+          "id": "boodsch-013",
+          "nl": "Het is in promotie.",
+          "fr": "C'est en promotion.",
+          "note": "En Belgique : « in promotie » ; aux Pays-Bas : « in de aanbieding ».",
+          "audio": "audio/boodsch-013-18399561f5a9.mp3",
+          "hash": "18399561f5a9",
+          "bytes": 12384,
+          "durationMs": 2064
+        },
+        {
+          "id": "boodsch-014",
+          "nl": "Is de winkel op zondag open?",
+          "fr": "Le magasin est-il ouvert le dimanche ?",
+          "audio": "audio/boodsch-014-00ee308edc44.mp3",
+          "hash": "00ee308edc44",
+          "bytes": 14976,
+          "durationMs": 2496
+        },
+        {
+          "id": "boodsch-015",
+          "nl": "Het is te duur voor mij.",
+          "fr": "C'est trop cher pour moi.",
+          "audio": "audio/boodsch-015-fb0512e0b050.mp3",
+          "hash": "fb0512e0b050",
+          "bytes": 13248,
+          "durationMs": 2208
+        },
+        {
+          "id": "boodsch-016",
+          "nl": "Mag ik dit ruilen?",
+          "fr": "Puis-je échanger ceci ?",
+          "audio": "audio/boodsch-016-4332060dad99.mp3",
+          "hash": "4332060dad99",
+          "bytes": 12096,
+          "durationMs": 2016
+        },
+        {
+          "id": "boodsch-017",
+          "nl": "Ik heb het kasticket niet meer.",
+          "fr": "Je n'ai plus le ticket de caisse.",
+          "note": "« kasticket » : mot belge ; aux Pays-Bas : « kassabon ».",
+          "audio": "audio/boodsch-017-b11e88ce0568.mp3",
+          "hash": "b11e88ce0568",
+          "bytes": 14832,
+          "durationMs": 2472
+        },
+        {
+          "id": "boodsch-018",
+          "nl": "Ik zoek iets voor een cadeautje.",
+          "fr": "Je cherche quelque chose pour un petit cadeau.",
+          "audio": "audio/boodsch-018-ec4115ecfd37.mp3",
+          "hash": "ec4115ecfd37",
+          "bytes": 14400,
+          "durationMs": 2400
+        }
+      ]
+    },
+    {
+      "id": "werk",
+      "emoji": "💼",
+      "title_fr": "Mon travail",
+      "order": 60,
+      "sentences": [
+        {
+          "id": "werk-001",
+          "nl": "Ik werk in een kantoor in het centrum van de stad.",
+          "fr": "Je travaille dans un bureau au centre-ville.",
+          "audio": "audio/werk-001-1dbfff2d3b0a.mp3",
+          "hash": "1dbfff2d3b0a",
+          "bytes": 20016,
+          "durationMs": 3336
+        },
+        {
+          "id": "werk-002",
+          "nl": "Ik werk al vijf jaar bij hetzelfde bedrijf.",
+          "fr": "Je travaille depuis cinq ans dans la même entreprise.",
+          "audio": "audio/werk-002-914bcf7fc21d.mp3",
+          "hash": "914bcf7fc21d",
+          "bytes": 20016,
+          "durationMs": 3336
+        },
+        {
+          "id": "werk-003",
+          "nl": "Ik begin om negen uur en ik stop rond zes uur.",
+          "fr": "Je commence à neuf heures et je finis vers six heures.",
+          "audio": "audio/werk-003-8a2b6a71b679.mp3",
+          "hash": "8a2b6a71b679",
+          "bytes": 21312,
+          "durationMs": 3552
+        },
+        {
+          "id": "werk-004",
+          "nl": "'s Middags eet ik een boterham met mijn collega's.",
+          "fr": "Le midi, je mange une tartine avec mes collègues.",
+          "note": "Le midi, beaucoup de Flamands mangent des tartines (boterhammen).",
+          "audio": "audio/werk-004-085a27b62ed6.mp3",
+          "hash": "085a27b62ed6",
+          "bytes": 21600,
+          "durationMs": 3600
+        },
+        {
+          "id": "werk-005",
+          "nl": "Ik heb veel vergaderingen, soms te veel!",
+          "fr": "J'ai beaucoup de réunions, parfois trop !",
+          "audio": "audio/werk-005-ffb2c59d120d.mp3",
+          "hash": "ffb2c59d120d",
+          "bytes": 19296,
+          "durationMs": 3216
+        },
+        {
+          "id": "werk-006",
+          "nl": "Twee dagen per week werk ik thuis.",
+          "fr": "Deux jours par semaine, je travaille à la maison.",
+          "note": "Si la phrase commence par un complément, le verbe reste en 2e position.",
+          "audio": "audio/werk-006-6b19dbc488c8.mp3",
+          "hash": "6b19dbc488c8",
+          "bytes": 16704,
+          "durationMs": 2784
+        },
+        {
+          "id": "werk-007",
+          "nl": "Wat ik leuk vind aan mijn werk, is het contact met mensen.",
+          "fr": "Ce que j'aime dans mon travail, c'est le contact avec les gens.",
+          "audio": "audio/werk-007-c449429b1143.mp3",
+          "hash": "c449429b1143",
+          "bytes": 24336,
+          "durationMs": 4056
+        },
+        {
+          "id": "werk-008",
+          "nl": "En u, wat doet u voor werk?",
+          "fr": "Et vous, que faites-vous comme travail ?",
+          "audio": "audio/werk-008-77b23b8fa176.mp3",
+          "hash": "77b23b8fa176",
+          "bytes": 15984,
+          "durationMs": 2664
+        },
+        {
+          "id": "werk-009",
+          "nl": "Ik ben verantwoordelijk voor een klein team.",
+          "fr": "Je suis responsable d'une petite équipe.",
+          "audio": "audio/werk-009-5752d5f7dc14.mp3",
+          "hash": "5752d5f7dc14",
+          "bytes": 17280,
+          "durationMs": 2880
+        },
+        {
+          "id": "werk-010",
+          "nl": "Mijn collega's zijn heel vriendelijk en behulpzaam.",
+          "fr": "Mes collègues sont très gentils et serviables.",
+          "audio": "audio/werk-010-bb90337bc757.mp3",
+          "hash": "bb90337bc757",
+          "bytes": 21744,
+          "durationMs": 3624
+        },
+        {
+          "id": "werk-011",
+          "nl": "Ik neem de trein en daarna de tram naar kantoor.",
+          "fr": "Je prends le train, puis le tram pour aller au bureau.",
+          "audio": "audio/werk-011-b6a4cd5cf1d0.mp3",
+          "hash": "b6a4cd5cf1d0",
+          "bytes": 20592,
+          "durationMs": 3432
+        },
+        {
+          "id": "werk-012",
+          "nl": "'s Morgens lees ik eerst mijn mails.",
+          "fr": "Le matin, je lis d'abord mes mails.",
+          "note": "'s Morgens, 's Middags, 's Avonds : le matin, le midi, le soir.",
+          "audio": "audio/werk-012-ba7632c3dc48.mp3",
+          "hash": "ba7632c3dc48",
+          "bytes": 17712,
+          "durationMs": 2952
+        },
+        {
+          "id": "werk-013",
+          "nl": "Ik heb vandaag een belangrijke vergadering om tien uur.",
+          "fr": "J'ai une réunion importante aujourd'hui à dix heures.",
+          "audio": "audio/werk-013-17a366b0d9bd.mp3",
+          "hash": "17a366b0d9bd",
+          "bytes": 22608,
+          "durationMs": 3768
+        },
+        {
+          "id": "werk-014",
+          "nl": "Kunnen we de vergadering naar donderdag verplaatsen?",
+          "fr": "Pouvons-nous déplacer la réunion à jeudi ?",
+          "audio": "audio/werk-014-fd473f586a7b.mp3",
+          "hash": "fd473f586a7b",
+          "bytes": 19152,
+          "durationMs": 3192
+        },
+        {
+          "id": "werk-015",
+          "nl": "Ik stuur je straks een mail met alle informatie.",
+          "fr": "Je t'envoie tout à l'heure un mail avec toutes les infos.",
+          "audio": "audio/werk-015-32bc97fd4e06.mp3",
+          "hash": "32bc97fd4e06",
+          "bytes": 20592,
+          "durationMs": 3432
+        },
+        {
+          "id": "werk-016",
+          "nl": "Sorry, ik ben een beetje te laat, de trein had vertraging.",
+          "fr": "Désolé, je suis un peu en retard, le train avait du retard.",
+          "audio": "audio/werk-016-7ec022247cbe.mp3",
+          "hash": "7ec022247cbe",
+          "bytes": 25344,
+          "durationMs": 4224
+        },
+        {
+          "id": "werk-017",
+          "nl": "Ik ben deze week heel druk bezig.",
+          "fr": "Je suis très occupé cette semaine.",
+          "note": "« druk » = occupé, chargé.",
+          "audio": "audio/werk-017-ea2ad5e3ede9.mp3",
+          "hash": "ea2ad5e3ede9",
+          "bytes": 16992,
+          "durationMs": 2832
+        },
+        {
+          "id": "werk-018",
+          "nl": "Volgende week neem ik een paar dagen verlof.",
+          "fr": "La semaine prochaine, je prends quelques jours de congé.",
+          "note": "« verlof » : le mot courant en Belgique pour les congés.",
+          "audio": "audio/werk-018-39ad593f63aa.mp3",
+          "hash": "39ad593f63aa",
+          "bytes": 19584,
+          "durationMs": 3264
+        },
+        {
+          "id": "werk-019",
+          "nl": "Op vrijdag gaan we soms samen iets drinken na het werk.",
+          "fr": "Le vendredi, on va parfois boire un verre ensemble après le travail.",
+          "audio": "audio/werk-019-ec18c466cd19.mp3",
+          "hash": "ec18c466cd19",
+          "bytes": 21600,
+          "durationMs": 3600
+        },
+        {
+          "id": "werk-020",
+          "nl": "Ik vind mijn werk interessant, maar soms vermoeiend.",
+          "fr": "Je trouve mon travail intéressant, mais parfois fatigant.",
+          "audio": "audio/werk-020-9c81251d1dbd.mp3",
+          "hash": "9c81251d1dbd",
+          "bytes": 23184,
+          "durationMs": 3864
+        }
+      ]
+    },
+    {
+      "id": "stad",
+      "emoji": "🏙️",
+      "title_fr": "Là où j'habite",
+      "order": 70,
+      "sentences": [
+        {
+          "id": "stad-001",
+          "nl": "Ik woon in een appartement in Brussel.",
+          "fr": "J'habite dans un appartement à Bruxelles.",
+          "audio": "audio/stad-001-3dfcc0cc87f1.mp3",
+          "hash": "3dfcc0cc87f1",
+          "bytes": 17280,
+          "durationMs": 2880
+        },
+        {
+          "id": "stad-002",
+          "nl": "Het is niet groot, maar het is heel gezellig.",
+          "fr": "Il n'est pas grand, mais il est très chaleureux.",
+          "note": "« gezellig » : convivial, chaleureux. Un mot clé de la culture flamande.",
+          "audio": "audio/stad-002-4cdaeba7a916.mp3",
+          "hash": "4cdaeba7a916",
+          "bytes": 20304,
+          "durationMs": 3384
+        },
+        {
+          "id": "stad-003",
+          "nl": "In mijn straat zijn er een bakker en een frituur.",
+          "fr": "Dans ma rue, il y a une boulangerie et une friterie.",
+          "note": "frituur = friterie.",
+          "audio": "audio/stad-003-473513d01595.mp3",
+          "hash": "473513d01595",
+          "bytes": 19152,
+          "durationMs": 3192
+        },
+        {
+          "id": "stad-004",
+          "nl": "Ik neem elke dag de metro naar mijn werk.",
+          "fr": "Je prends le métro tous les jours pour aller au travail.",
+          "audio": "audio/stad-004-e50469eb617b.mp3",
+          "hash": "e50469eb617b",
+          "bytes": 19008,
+          "durationMs": 3168
+        },
+        {
+          "id": "stad-005",
+          "nl": "In het weekend ga ik graag naar Gent of Antwerpen.",
+          "fr": "Le week-end, j'aime aller à Gand ou à Anvers.",
+          "audio": "audio/stad-005-e1faea824177.mp3",
+          "hash": "e1faea824177",
+          "bytes": 20880,
+          "durationMs": 3480
+        },
+        {
+          "id": "stad-006",
+          "nl": "Brussel is een stad met veel talen en culturen.",
+          "fr": "Bruxelles est une ville avec beaucoup de langues et de cultures.",
+          "audio": "audio/stad-006-66ae18dbf115.mp3",
+          "hash": "66ae18dbf115",
+          "bytes": 21168,
+          "durationMs": 3528
+        },
+        {
+          "id": "stad-007",
+          "nl": "Het enige nadeel is het weer: het regent vaak!",
+          "fr": "Le seul inconvénient, c'est la météo : il pleut souvent !",
+          "audio": "audio/stad-007-c111578e7d45.mp3",
+          "hash": "c111578e7d45",
+          "bytes": 22320,
+          "durationMs": 3720
+        },
+        {
+          "id": "stad-008",
+          "nl": "Mijn appartement ligt op de derde verdieping.",
+          "fr": "Mon appartement est au troisième étage.",
+          "audio": "audio/stad-008-9aade9160bcc.mp3",
+          "hash": "9aade9160bcc",
+          "bytes": 19584,
+          "durationMs": 3264
+        },
+        {
+          "id": "stad-009",
+          "nl": "Er is geen lift, dus ik neem altijd de trap.",
+          "fr": "Il n'y a pas d'ascenseur, donc je prends toujours l'escalier.",
+          "audio": "audio/stad-009-3f433ab414f7.mp3",
+          "hash": "3f433ab414f7",
+          "bytes": 21168,
+          "durationMs": 3528
+        },
+        {
+          "id": "stad-010",
+          "nl": "Mijn buren zijn vriendelijk, maar een beetje luid.",
+          "fr": "Mes voisins sont gentils, mais un peu bruyants.",
+          "audio": "audio/stad-010-4d2995bb28d6.mp3",
+          "hash": "4d2995bb28d6",
+          "bytes": 20880,
+          "durationMs": 3480
+        },
+        {
+          "id": "stad-011",
+          "nl": "Op zaterdag is er een markt op het plein.",
+          "fr": "Le samedi, il y a un marché sur la place.",
+          "audio": "audio/stad-011-44e694c353ea.mp3",
+          "hash": "44e694c353ea",
+          "bytes": 18000,
+          "durationMs": 3000
+        },
+        {
+          "id": "stad-012",
+          "nl": "Ik doe mijn boodschappen in de supermarkt om de hoek.",
+          "fr": "Je fais mes courses au supermarché du coin.",
+          "audio": "audio/stad-012-51d90ce44334.mp3",
+          "hash": "51d90ce44334",
+          "bytes": 20016,
+          "durationMs": 3336
+        },
+        {
+          "id": "stad-013",
+          "nl": "Het park is op vijf minuten te voet.",
+          "fr": "Le parc est à cinq minutes à pied.",
+          "note": "Tournure belge « op vijf minuten » ; aux Pays-Bas : « vijf minuten lopen ».",
+          "audio": "audio/stad-013-b53ff734c64c.mp3",
+          "hash": "b53ff734c64c",
+          "bytes": 17136,
+          "durationMs": 2856
+        },
+        {
+          "id": "stad-014",
+          "nl": "Ik woon hier graag, want alles is dichtbij.",
+          "fr": "J'aime habiter ici, car tout est proche.",
+          "audio": "audio/stad-014-352d43d6ef82.mp3",
+          "hash": "352d43d6ef82",
+          "bytes": 21024,
+          "durationMs": 3504
+        },
+        {
+          "id": "stad-015",
+          "nl": "Later wil ik misschien in Gent wonen.",
+          "fr": "Plus tard, je voudrais peut-être habiter à Gand.",
+          "audio": "audio/stad-015-45305101aed1.mp3",
+          "hash": "45305101aed1",
+          "bytes": 17568,
+          "durationMs": 2928
+        },
+        {
+          "id": "stad-016",
+          "nl": "Gent is kleiner en rustiger dan Brussel.",
+          "fr": "Gand est plus petite et plus calme que Bruxelles.",
+          "note": "Comparatif : adjectif + -er + dan.",
+          "audio": "audio/stad-016-37292e6b5f21.mp3",
+          "hash": "37292e6b5f21",
+          "bytes": 18576,
+          "durationMs": 3096
+        },
+        {
+          "id": "stad-017",
+          "nl": "Kom gerust eens langs!",
+          "fr": "Passe donc me voir !",
+          "note": "« eens » rend l'invitation plus douce.",
+          "audio": "audio/stad-017-0eccae31e8bf.mp3",
+          "hash": "0eccae31e8bf",
+          "bytes": 13680,
+          "durationMs": 2280
+        },
+        {
+          "id": "stad-018",
+          "nl": "Mijn adres is Kerkstraat twaalf.",
+          "fr": "Mon adresse, c'est Kerkstraat 12.",
+          "note": "On donne la rue avant le numéro.",
+          "audio": "audio/stad-018-857c44858ed9.mp3",
+          "hash": "857c44858ed9",
+          "bytes": 17712,
+          "durationMs": 2952
+        }
+      ]
+    },
+    {
+      "id": "tijd",
+      "emoji": "🕒",
+      "title_fr": "Heures et rendez-vous",
+      "order": 80,
+      "sentences": [
+        {
+          "id": "tijd-001",
+          "nl": "Het is half negen.",
+          "fr": "Il est huit heures et demie.",
+          "note": "Piège ! « half negen » = la demie avant neuf, donc 8 h 30.",
+          "audio": "audio/tijd-001-8e3a8ce7efa7.mp3",
+          "hash": "8e3a8ce7efa7",
+          "bytes": 12528,
+          "durationMs": 2088
+        },
+        {
+          "id": "tijd-002",
+          "nl": "Het is kwart over drie.",
+          "fr": "Il est trois heures et quart.",
+          "audio": "audio/tijd-002-7025ee472012.mp3",
+          "hash": "7025ee472012",
+          "bytes": 12960,
+          "durationMs": 2160
+        },
+        {
+          "id": "tijd-003",
+          "nl": "Het is kwart voor zeven.",
+          "fr": "Il est sept heures moins le quart.",
+          "audio": "audio/tijd-003-8e61c54e803e.mp3",
+          "hash": "8e61c54e803e",
+          "bytes": 13248,
+          "durationMs": 2208
+        },
+        {
+          "id": "tijd-004",
+          "nl": "Om hoe laat spreken we af?",
+          "fr": "À quelle heure on se donne rendez-vous ?",
+          "note": "« afspreken » : verbe à particule séparable (we spreken af).",
+          "audio": "audio/tijd-004-474412cdc4bf.mp3",
+          "hash": "474412cdc4bf",
+          "bytes": 14544,
+          "durationMs": 2424
+        },
+        {
+          "id": "tijd-005",
+          "nl": "Zullen we om acht uur afspreken?",
+          "fr": "On se retrouve à huit heures ?",
+          "audio": "audio/tijd-005-8a1576bdb084.mp3",
+          "hash": "8a1576bdb084",
+          "bytes": 16128,
+          "durationMs": 2688
+        },
+        {
+          "id": "tijd-006",
+          "nl": "Past dinsdag voor jou?",
+          "fr": "Mardi, ça te va ?",
+          "audio": "audio/tijd-006-d8ba7dcaf437.mp3",
+          "hash": "d8ba7dcaf437",
+          "bytes": 13392,
+          "durationMs": 2232
+        },
+        {
+          "id": "tijd-007",
+          "nl": "Maandag kan ik niet, maar woensdag wel.",
+          "fr": "Lundi je ne peux pas, mais mercredi oui.",
+          "note": "« wel » insiste sur le oui, par contraste avec « niet ».",
+          "audio": "audio/tijd-007-7c7a1e9a475b.mp3",
+          "hash": "7c7a1e9a475b",
+          "bytes": 19728,
+          "durationMs": 3288
+        },
+        {
+          "id": "tijd-008",
+          "nl": "Ik heb een afspraak bij de dokter.",
+          "fr": "J'ai un rendez-vous chez le médecin.",
+          "audio": "audio/tijd-008-140d2d19be20.mp3",
+          "hash": "140d2d19be20",
+          "bytes": 15552,
+          "durationMs": 2592
+        },
+        {
+          "id": "tijd-009",
+          "nl": "Vandaag, morgen of overmorgen?",
+          "fr": "Aujourd'hui, demain ou après-demain ?",
+          "audio": "audio/tijd-009-006a6e470271.mp3",
+          "hash": "006a6e470271",
+          "bytes": 18288,
+          "durationMs": 3048
+        },
+        {
+          "id": "tijd-010",
+          "nl": "Ik ben er binnen tien minuten.",
+          "fr": "J'y suis dans dix minutes.",
+          "audio": "audio/tijd-010-672be88b7eb9.mp3",
+          "hash": "672be88b7eb9",
+          "bytes": 13680,
+          "durationMs": 2280
+        },
+        {
+          "id": "tijd-011",
+          "nl": "Wacht je even op mij?",
+          "fr": "Tu m'attends un instant ?",
+          "audio": "audio/tijd-011-9749f076a2ac.mp3",
+          "hash": "9749f076a2ac",
+          "bytes": 12528,
+          "durationMs": 2088
+        },
+        {
+          "id": "tijd-012",
+          "nl": "Het weekend is altijd te kort.",
+          "fr": "Le week-end est toujours trop court.",
+          "audio": "audio/tijd-012-09b7d18e620c.mp3",
+          "hash": "09b7d18e620c",
+          "bytes": 15840,
+          "durationMs": 2640
+        },
+        {
+          "id": "tijd-013",
+          "nl": "Wat doe je deze zaterdag?",
+          "fr": "Qu'est-ce que tu fais ce samedi ?",
+          "audio": "audio/tijd-013-843eb30bdce3.mp3",
+          "hash": "843eb30bdce3",
+          "bytes": 14400,
+          "durationMs": 2400
+        },
+        {
+          "id": "tijd-014",
+          "nl": "In juli ga ik op vakantie.",
+          "fr": "En juillet, je pars en vacances.",
+          "audio": "audio/tijd-014-e298be0667dc.mp3",
+          "hash": "e298be0667dc",
+          "bytes": 15552,
+          "durationMs": 2592
+        },
+        {
+          "id": "tijd-015",
+          "nl": "Mijn verjaardag is op twaalf mei.",
+          "fr": "Mon anniversaire est le douze mai.",
+          "audio": "audio/tijd-015-444c6e94679b.mp3",
+          "hash": "444c6e94679b",
+          "bytes": 16992,
+          "durationMs": 2832
+        },
+        {
+          "id": "tijd-016",
+          "nl": "Op maandag is de bakker vaak gesloten.",
+          "fr": "Le lundi, la boulangerie est souvent fermée.",
+          "audio": "audio/tijd-016-0a9cc8d2b14d.mp3",
+          "hash": "0a9cc8d2b14d",
+          "bytes": 17856,
+          "durationMs": 2976
+        },
+        {
+          "id": "tijd-017",
+          "nl": "Tot volgende week!",
+          "fr": "À la semaine prochaine !",
+          "audio": "audio/tijd-017-df9919c33265.mp3",
+          "hash": "df9919c33265",
+          "bytes": 11520,
+          "durationMs": 1920
+        },
+        {
+          "id": "tijd-018",
+          "nl": "Tot dan!",
+          "fr": "À ce moment-là, alors !",
+          "audio": "audio/tijd-018-90e8c03a3fa0.mp3",
+          "hash": "90e8c03a3fa0",
+          "bytes": 11232,
+          "durationMs": 1872
+        }
+      ]
+    },
+    {
+      "id": "trein",
+      "emoji": "🚆",
+      "title_fr": "Se déplacer",
+      "order": 90,
+      "sentences": [
+        {
+          "id": "trein-001",
+          "nl": "Een ticket naar Gent, alstublieft.",
+          "fr": "Un billet pour Gand, s'il vous plaît.",
+          "audio": "audio/trein-001-6a58662c58b2.mp3",
+          "hash": "6a58662c58b2",
+          "bytes": 17712,
+          "durationMs": 2952
+        },
+        {
+          "id": "trein-002",
+          "nl": "Enkel of heen en terug?",
+          "fr": "Aller simple ou aller-retour ?",
+          "audio": "audio/trein-002-87d8bc7bbbbd.mp3",
+          "hash": "87d8bc7bbbbd",
+          "bytes": 14544,
+          "durationMs": 2424
+        },
+        {
+          "id": "trein-003",
+          "nl": "Heen en terug, graag.",
+          "fr": "Aller-retour, s'il vous plaît.",
+          "audio": "audio/trein-003-e3e1a8f06ae4.mp3",
+          "hash": "e3e1a8f06ae4",
+          "bytes": 15840,
+          "durationMs": 2640
+        },
+        {
+          "id": "trein-004",
+          "nl": "Van welk perron vertrekt de trein naar Antwerpen?",
+          "fr": "De quel quai part le train pour Anvers ?",
+          "note": "« perron » = quai en Belgique ; aux Pays-Bas : « spoor ».",
+          "audio": "audio/trein-004-8a02dfb51f48.mp3",
+          "hash": "8a02dfb51f48",
+          "bytes": 19872,
+          "durationMs": 3312
+        },
+        {
+          "id": "trein-005",
+          "nl": "Moet ik overstappen?",
+          "fr": "Dois-je changer de train ?",
+          "audio": "audio/trein-005-fcc62de6831e.mp3",
+          "hash": "fcc62de6831e",
+          "bytes": 12240,
+          "durationMs": 2040
+        },
+        {
+          "id": "trein-006",
+          "nl": "De trein heeft twintig minuten vertraging.",
+          "fr": "Le train a vingt minutes de retard.",
+          "audio": "audio/trein-006-1b9013ae5799.mp3",
+          "hash": "1b9013ae5799",
+          "bytes": 18288,
+          "durationMs": 3048
+        },
+        {
+          "id": "trein-007",
+          "nl": "Is deze plaats vrij?",
+          "fr": "Cette place est-elle libre ?",
+          "audio": "audio/trein-007-92a6c074d751.mp3",
+          "hash": "92a6c074d751",
+          "bytes": 13248,
+          "durationMs": 2208
+        },
+        {
+          "id": "trein-008",
+          "nl": "Ik stap uit aan de volgende halte.",
+          "fr": "Je descends au prochain arrêt.",
+          "audio": "audio/trein-008-bed0d8e61765.mp3",
+          "hash": "bed0d8e61765",
+          "bytes": 16416,
+          "durationMs": 2736
+        },
+        {
+          "id": "trein-009",
+          "nl": "Waar is de dichtstbijzijnde metrohalte?",
+          "fr": "Où est la station de métro la plus proche ?",
+          "audio": "audio/trein-009-ab6ec42e0fed.mp3",
+          "hash": "ab6ec42e0fed",
+          "bytes": 18288,
+          "durationMs": 3048
+        },
+        {
+          "id": "trein-010",
+          "nl": "Ga rechtdoor en neem dan de tweede straat links.",
+          "fr": "Allez tout droit, puis prenez la deuxième rue à gauche.",
+          "audio": "audio/trein-010-70ebeeefca70.mp3",
+          "hash": "70ebeeefca70",
+          "bytes": 20448,
+          "durationMs": 3408
+        },
+        {
+          "id": "trein-011",
+          "nl": "Het is niet ver, je kunt te voet gaan.",
+          "fr": "Ce n'est pas loin, tu peux y aller à pied.",
+          "audio": "audio/trein-011-e2c9b88244fe.mp3",
+          "hash": "e2c9b88244fe",
+          "bytes": 18432,
+          "durationMs": 3072
+        },
+        {
+          "id": "trein-012",
+          "nl": "Ik ben verloren gelopen.",
+          "fr": "Je me suis perdu.",
+          "note": "Tournure flamande ; aux Pays-Bas : « ik ben verdwaald ».",
+          "audio": "audio/trein-012-9a028a8a2cf0.mp3",
+          "hash": "9a028a8a2cf0",
+          "bytes": 13392,
+          "durationMs": 2232
+        },
+        {
+          "id": "trein-013",
+          "nl": "Er is veel file op de ring.",
+          "fr": "Il y a beaucoup de bouchons sur le ring.",
+          "note": "« file » = bouchon ; « de ring » = le périphérique de Bruxelles ou d'Anvers.",
+          "audio": "audio/trein-013-9cc5540803f6.mp3",
+          "hash": "9cc5540803f6",
+          "bytes": 14256,
+          "durationMs": 2376
+        },
+        {
+          "id": "trein-014",
+          "nl": "Ik kom met de fiets.",
+          "fr": "Je viens à vélo.",
+          "note": "En Belgique « met de fiets » ; aux Pays-Bas plutôt « op de fiets ».",
+          "audio": "audio/trein-014-3c738e44742b.mp3",
+          "hash": "3c738e44742b",
+          "bytes": 11664,
+          "durationMs": 1944
+        },
+        {
+          "id": "trein-015",
+          "nl": "Waar kan ik parkeren?",
+          "fr": "Où puis-je me garer ?",
+          "audio": "audio/trein-015-241ae80b9fdd.mp3",
+          "hash": "241ae80b9fdd",
+          "bytes": 12528,
+          "durationMs": 2088
+        },
+        {
+          "id": "trein-016",
+          "nl": "Kunt u me zeggen hoe ik naar het station kom?",
+          "fr": "Pouvez-vous me dire comment aller à la gare ?",
+          "note": "Dans une question indirecte, le verbe part à la fin.",
+          "audio": "audio/trein-016-ae98592dcda5.mp3",
+          "hash": "ae98592dcda5",
+          "bytes": 17568,
+          "durationMs": 2928
+        }
+      ]
+    },
+    {
+      "id": "smalltalk",
+      "emoji": "🌦️",
+      "title_fr": "Météo et petites conversations",
+      "order": 100,
+      "sentences": [
+        {
+          "id": "smalltalk-001",
+          "nl": "Wat een mooi weer vandaag!",
+          "fr": "Quel beau temps aujourd'hui !",
+          "audio": "audio/smalltalk-001-38b1ee51f384.mp3",
+          "hash": "38b1ee51f384",
+          "bytes": 13968,
+          "durationMs": 2328
+        },
+        {
+          "id": "smalltalk-002",
+          "nl": "Het regent alweer.",
+          "fr": "Il pleut encore.",
+          "audio": "audio/smalltalk-002-826f9074053a.mp3",
+          "hash": "826f9074053a",
+          "bytes": 12528,
+          "durationMs": 2088
+        },
+        {
+          "id": "smalltalk-003",
+          "nl": "Het is koud, hè?",
+          "fr": "Il fait froid, hein ?",
+          "note": "« hè » en fin de phrase cherche l'accord, comme « hein ».",
+          "audio": "audio/smalltalk-003-ac584de43b03.mp3",
+          "hash": "ac584de43b03",
+          "bytes": 13104,
+          "durationMs": 2184
+        },
+        {
+          "id": "smalltalk-004",
+          "nl": "Morgen zou het beter worden.",
+          "fr": "Demain, ça devrait s'améliorer.",
+          "audio": "audio/smalltalk-004-5d39cac5b875.mp3",
+          "hash": "5d39cac5b875",
+          "bytes": 13824,
+          "durationMs": 2304
+        },
+        {
+          "id": "smalltalk-005",
+          "nl": "Ik heb mijn paraplu vergeten.",
+          "fr": "J'ai oublié mon parapluie.",
+          "audio": "audio/smalltalk-005-61c73ac98c19.mp3",
+          "hash": "61c73ac98c19",
+          "bytes": 14976,
+          "durationMs": 2496
+        },
+        {
+          "id": "smalltalk-006",
+          "nl": "Het is veel te warm om te werken.",
+          "fr": "Il fait beaucoup trop chaud pour travailler.",
+          "audio": "audio/smalltalk-006-ce06a6656856.mp3",
+          "hash": "ce06a6656856",
+          "bytes": 15264,
+          "durationMs": 2544
+        },
+        {
+          "id": "smalltalk-007",
+          "nl": "Hoe was je weekend?",
+          "fr": "Comment s'est passé ton week-end ?",
+          "audio": "audio/smalltalk-007-c6500cad7399.mp3",
+          "hash": "c6500cad7399",
+          "bytes": 11952,
+          "durationMs": 1992
+        },
+        {
+          "id": "smalltalk-008",
+          "nl": "Goed, rustig. En het jouwe?",
+          "fr": "Bien, tranquille. Et le tien ?",
+          "audio": "audio/smalltalk-008-1759d2133426.mp3",
+          "hash": "1759d2133426",
+          "bytes": 21888,
+          "durationMs": 3648
+        },
+        {
+          "id": "smalltalk-009",
+          "nl": "Lang geleden!",
+          "fr": "Ça fait longtemps !",
+          "audio": "audio/smalltalk-009-3c6f2d06ccf0.mp3",
+          "hash": "3c6f2d06ccf0",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "smalltalk-010",
+          "nl": "Alles goed met jou?",
+          "fr": "Tout va bien de ton côté ?",
+          "audio": "audio/smalltalk-010-a25c6224a762.mp3",
+          "hash": "a25c6224a762",
+          "bytes": 12096,
+          "durationMs": 2016
+        },
+        {
+          "id": "smalltalk-011",
+          "nl": "Ça va, en met jou?",
+          "fr": "Ça va, et toi ?",
+          "note": "Beaucoup de Flamands disent « ça va » tel quel !",
+          "audio": "audio/smalltalk-011-17fd2d2b8669.mp3",
+          "hash": "17fd2d2b8669",
+          "bytes": 15264,
+          "durationMs": 2544
+        },
+        {
+          "id": "smalltalk-012",
+          "nl": "Druk, druk, druk!",
+          "fr": "Débordé, débordé !",
+          "audio": "audio/smalltalk-012-0d0a562a78c2.mp3",
+          "hash": "0d0a562a78c2",
+          "bytes": 15408,
+          "durationMs": 2568
+        },
+        {
+          "id": "smalltalk-013",
+          "nl": "Heb je plannen voor de vakantie?",
+          "fr": "Tu as des projets pour les vacances ?",
+          "audio": "audio/smalltalk-013-52fc5ef01f18.mp3",
+          "hash": "52fc5ef01f18",
+          "bytes": 14688,
+          "durationMs": 2448
+        },
+        {
+          "id": "smalltalk-014",
+          "nl": "Ik moet ervandoor, tot later!",
+          "fr": "Je dois filer, à plus tard !",
+          "note": "« ervandoor moeten » = devoir filer.",
+          "audio": "audio/smalltalk-014-6ddee2efc8a8.mp3",
+          "hash": "6ddee2efc8a8",
+          "bytes": 16560,
+          "durationMs": 2760
+        },
+        {
+          "id": "smalltalk-015",
+          "nl": "Nog een fijne dag!",
+          "fr": "Bonne fin de journée !",
+          "audio": "audio/smalltalk-015-b7ceaaafb24d.mp3",
+          "hash": "b7ceaaafb24d",
+          "bytes": 12096,
+          "durationMs": 2016
+        },
+        {
+          "id": "smalltalk-016",
+          "nl": "Goed weekend!",
+          "fr": "Bon week-end !",
+          "audio": "audio/smalltalk-016-0eb1c12fa17e.mp3",
+          "hash": "0eb1c12fa17e",
+          "bytes": 11232,
+          "durationMs": 1872
+        }
+      ]
+    },
+    {
+      "id": "praten",
+      "emoji": "💬",
+      "title_fr": "Donner son avis",
+      "order": 110,
+      "sentences": [
+        {
+          "id": "praten-001",
+          "nl": "Ik vind dat een goed idee.",
+          "fr": "Je trouve que c'est une bonne idée.",
+          "audio": "audio/praten-001-3152bccc4733.mp3",
+          "hash": "3152bccc4733",
+          "bytes": 14256,
+          "durationMs": 2376
+        },
+        {
+          "id": "praten-002",
+          "nl": "Dat is waar.",
+          "fr": "C'est vrai.",
+          "audio": "audio/praten-002-45249e3aad87.mp3",
+          "hash": "45249e3aad87",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "praten-003",
+          "nl": "Ik ben het met je eens.",
+          "fr": "Je suis d'accord avec toi.",
+          "audio": "audio/praten-003-14f43e1f5e93.mp3",
+          "hash": "14f43e1f5e93",
+          "bytes": 12816,
+          "durationMs": 2136
+        },
+        {
+          "id": "praten-004",
+          "nl": "Ik ben het niet helemaal met je eens.",
+          "fr": "Je ne suis pas tout à fait d'accord avec toi.",
+          "audio": "audio/praten-004-2590f417f42b.mp3",
+          "hash": "2590f417f42b",
+          "bytes": 16704,
+          "durationMs": 2784
+        },
+        {
+          "id": "praten-005",
+          "nl": "Volgens mij is dat te duur.",
+          "fr": "Selon moi, c'est trop cher.",
+          "audio": "audio/praten-005-9e8ad4c26d99.mp3",
+          "hash": "9e8ad4c26d99",
+          "bytes": 14544,
+          "durationMs": 2424
+        },
+        {
+          "id": "praten-006",
+          "nl": "Dat hangt ervan af.",
+          "fr": "Ça dépend.",
+          "audio": "audio/praten-006-9c35557e3994.mp3",
+          "hash": "9c35557e3994",
+          "bytes": 13248,
+          "durationMs": 2208
+        },
+        {
+          "id": "praten-007",
+          "nl": "Misschien heb je gelijk.",
+          "fr": "Tu as peut-être raison.",
+          "audio": "audio/praten-007-a9113ebdf59c.mp3",
+          "hash": "a9113ebdf59c",
+          "bytes": 12672,
+          "durationMs": 2112
+        },
+        {
+          "id": "praten-008",
+          "nl": "Ik weet het nog niet zeker.",
+          "fr": "Je ne suis pas encore sûr.",
+          "audio": "audio/praten-008-d69893626d8c.mp3",
+          "hash": "d69893626d8c",
+          "bytes": 13968,
+          "durationMs": 2328
+        },
+        {
+          "id": "praten-009",
+          "nl": "Wat denk jij ervan?",
+          "fr": "Qu'est-ce que tu en penses ?",
+          "audio": "audio/praten-009-4f57f382ce35.mp3",
+          "hash": "4f57f382ce35",
+          "bytes": 12528,
+          "durationMs": 2088
+        },
+        {
+          "id": "praten-010",
+          "nl": "Dat is een goeie vraag!",
+          "fr": "C'est une bonne question !",
+          "note": "« goeie » : forme orale courante de « goede ».",
+          "audio": "audio/praten-010-0c8b00ca0257.mp3",
+          "hash": "0c8b00ca0257",
+          "bytes": 13680,
+          "durationMs": 2280
+        },
+        {
+          "id": "praten-011",
+          "nl": "Ik hoop het!",
+          "fr": "Je l'espère !",
+          "audio": "audio/praten-011-8a00b04e888d.mp3",
+          "hash": "8a00b04e888d",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "praten-012",
+          "nl": "Ik heb er geen zin in.",
+          "fr": "Je n'en ai pas envie.",
+          "audio": "audio/praten-012-4572886e73e6.mp3",
+          "hash": "4572886e73e6",
+          "bytes": 12672,
+          "durationMs": 2112
+        },
+        {
+          "id": "praten-013",
+          "nl": "Wat spijtig!",
+          "fr": "Quel dommage !",
+          "note": "« spijtig » : la forme flamande ; aux Pays-Bas : « jammer ».",
+          "audio": "audio/praten-013-591b009cdb91.mp3",
+          "hash": "591b009cdb91",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "praten-014",
+          "nl": "Dat is plezant!",
+          "fr": "C'est chouette !",
+          "note": "« plezant » = agréable, sympa. Très flamand.",
+          "audio": "audio/praten-014-be062ac8da9d.mp3",
+          "hash": "be062ac8da9d",
+          "bytes": 11808,
+          "durationMs": 1968
+        },
+        {
+          "id": "praten-015",
+          "nl": "Amai, dat had ik niet verwacht!",
+          "fr": "Waouh, je ne m'y attendais pas !",
+          "note": "« Amai ! » : exclamation flamande de surprise.",
+          "audio": "audio/praten-015-3c468827a002.mp3",
+          "hash": "3c468827a002",
+          "bytes": 17136,
+          "durationMs": 2856
+        },
+        {
+          "id": "praten-016",
+          "nl": "Allez, we doen het!",
+          "fr": "Allez, on le fait !",
+          "note": "« allez » s'emploie aussi en Flandre.",
+          "audio": "audio/praten-016-cf0fcf9e7ea6.mp3",
+          "hash": "cf0fcf9e7ea6",
+          "bytes": 13536,
+          "durationMs": 2256
+        },
+        {
+          "id": "praten-017",
+          "nl": "Geen probleem!",
+          "fr": "Pas de problème !",
+          "audio": "audio/praten-017-ef831b0b9216.mp3",
+          "hash": "ef831b0b9216",
+          "bytes": 11232,
+          "durationMs": 1872
+        }
+      ]
+    },
+    {
+      "id": "hobby",
+      "emoji": "🚲",
+      "title_fr": "Mes loisirs",
+      "order": 120,
+      "sentences": [
+        {
+          "id": "hobby-001",
+          "nl": "In mijn vrije tijd lees ik graag.",
+          "fr": "Pendant mon temps libre, j'aime lire.",
+          "audio": "audio/hobby-001-c12d69e1511f.mp3",
+          "hash": "c12d69e1511f",
+          "bytes": 17280,
+          "durationMs": 2880
+        },
+        {
+          "id": "hobby-002",
+          "nl": "Twee keer per week ga ik lopen in het park.",
+          "fr": "Deux fois par semaine, je vais courir au parc.",
+          "note": "En Flandre, « lopen » = courir. Aux Pays-Bas on dit plutôt « hardlopen ».",
+          "audio": "audio/hobby-002-d7ec158ff62b.mp3",
+          "hash": "d7ec158ff62b",
+          "bytes": 18864,
+          "durationMs": 3144
+        },
+        {
+          "id": "hobby-003",
+          "nl": "Ik kook graag, vooral Italiaans eten.",
+          "fr": "J'aime cuisiner, surtout italien.",
+          "audio": "audio/hobby-003-2b35e92cb7a0.mp3",
+          "hash": "2b35e92cb7a0",
+          "bytes": 20160,
+          "durationMs": 3360
+        },
+        {
+          "id": "hobby-004",
+          "nl": "Op zondag ga ik soms fietsen met vrienden.",
+          "fr": "Le dimanche, je fais parfois du vélo avec des amis.",
+          "audio": "audio/hobby-004-927bab5b9b3d.mp3",
+          "hash": "927bab5b9b3d",
+          "bytes": 17856,
+          "durationMs": 2976
+        },
+        {
+          "id": "hobby-005",
+          "nl": "'s Avonds kijk ik graag naar een serie.",
+          "fr": "Le soir, j'aime regarder une série.",
+          "audio": "audio/hobby-005-20d2c9745e98.mp3",
+          "hash": "20d2c9745e98",
+          "bytes": 17712,
+          "durationMs": 2952
+        },
+        {
+          "id": "hobby-006",
+          "nl": "Ik heb goesting om meer te reizen.",
+          "fr": "J'ai envie de voyager davantage.",
+          "note": "« goesting » = envie. Très flamand !",
+          "audio": "audio/hobby-006-ec16f65c7d0f.mp3",
+          "hash": "ec16f65c7d0f",
+          "bytes": 15696,
+          "durationMs": 2616
+        },
+        {
+          "id": "hobby-007",
+          "nl": "Volgende zomer wil ik naar de kust gaan.",
+          "fr": "L'été prochain, je veux aller à la côte.",
+          "note": "« de kust » : la côte belge (Ostende, Knokke…).",
+          "audio": "audio/hobby-007-d21c30983781.mp3",
+          "hash": "d21c30983781",
+          "bytes": 18144,
+          "durationMs": 3024
+        },
+        {
+          "id": "hobby-008",
+          "nl": "Ik speel al tien jaar gitaar.",
+          "fr": "Je joue de la guitare depuis dix ans.",
+          "audio": "audio/hobby-008-be19944f66ef.mp3",
+          "hash": "be19944f66ef",
+          "bytes": 15696,
+          "durationMs": 2616
+        },
+        {
+          "id": "hobby-009",
+          "nl": "Ik luister graag naar muziek als ik kook.",
+          "fr": "J'aime écouter de la musique quand je cuisine.",
+          "note": "Après « als » (quand), le verbe part à la fin.",
+          "audio": "audio/hobby-009-33196a0cc477.mp3",
+          "hash": "33196a0cc477",
+          "bytes": 18864,
+          "durationMs": 3144
+        },
+        {
+          "id": "hobby-010",
+          "nl": "In de winter ga ik graag naar de film.",
+          "fr": "En hiver, j'aime aller au cinéma.",
+          "audio": "audio/hobby-010-9450e3d7ccf8.mp3",
+          "hash": "9450e3d7ccf8",
+          "bytes": 16848,
+          "durationMs": 2808
+        },
+        {
+          "id": "hobby-011",
+          "nl": "Ik ben geen grote sportfan, maar ik kijk wel naar de Rode Duivels.",
+          "fr": "Je ne suis pas un grand fan de sport, mais je regarde quand même les Diables Rouges.",
+          "note": "Les Diables Rouges : l'équipe nationale belge de football.",
+          "audio": "audio/hobby-011-82bbccaf880d.mp3",
+          "hash": "82bbccaf880d",
+          "bytes": 27648,
+          "durationMs": 4608
+        },
+        {
+          "id": "hobby-012",
+          "nl": "Vorig weekend zijn we in het Zoniënwoud gaan wandelen.",
+          "fr": "Le week-end dernier, nous sommes allés nous promener dans la forêt de Soignes.",
+          "audio": "audio/hobby-012-6f14e2526278.mp3",
+          "hash": "6f14e2526278",
+          "bytes": 22176,
+          "durationMs": 3696
+        },
+        {
+          "id": "hobby-013",
+          "nl": "Het was prachtig weer en heel rustig.",
+          "fr": "Il faisait un temps magnifique et c'était très calme.",
+          "audio": "audio/hobby-013-099fe0191ef9.mp3",
+          "hash": "099fe0191ef9",
+          "bytes": 17424,
+          "durationMs": 2904
+        },
+        {
+          "id": "hobby-014",
+          "nl": "Ik wil graag een nieuwe hobby beginnen.",
+          "fr": "J'aimerais commencer un nouveau hobby.",
+          "audio": "audio/hobby-014-f7139bd84997.mp3",
+          "hash": "f7139bd84997",
+          "bytes": 16848,
+          "durationMs": 2808
+        },
+        {
+          "id": "hobby-015",
+          "nl": "Misschien ga ik volgend jaar leren dansen.",
+          "fr": "Peut-être que j'apprendrai à danser l'année prochaine.",
+          "audio": "audio/hobby-015-5b6e23633781.mp3",
+          "hash": "5b6e23633781",
+          "bytes": 18288,
+          "durationMs": 3048
+        },
+        {
+          "id": "hobby-016",
+          "nl": "Wat doe jij graag in je vrije tijd?",
+          "fr": "Qu'est-ce que tu aimes faire pendant ton temps libre ?",
+          "audio": "audio/hobby-016-f1694c3c406d.mp3",
+          "hash": "f1694c3c406d",
+          "bytes": 16992,
+          "durationMs": 2832
+        },
+        {
+          "id": "hobby-017",
+          "nl": "Zin om zondag mee te gaan?",
+          "fr": "Ça te dit de venir dimanche ?",
+          "note": "« zin hebben » = avoir envie, comme « goesting ».",
+          "audio": "audio/hobby-017-ae20590f1ae2.mp3",
+          "hash": "ae20590f1ae2",
+          "bytes": 14688,
+          "durationMs": 2448
+        },
+        {
+          "id": "hobby-018",
+          "nl": "Ik heb vanavond geen tijd, maar morgen wel.",
+          "fr": "Je n'ai pas le temps ce soir, mais demain oui.",
+          "audio": "audio/hobby-018-0600abe1d748.mp3",
+          "hash": "0600abe1d748",
+          "bytes": 20592,
+          "durationMs": 3432
+        }
+      ]
+    },
+    {
+      "id": "familie",
+      "emoji": "👨‍👩‍👧",
+      "title_fr": "Mes proches",
+      "order": 130,
+      "sentences": [
+        {
+          "id": "familie-001",
+          "nl": "Ik heb een broer en twee zussen.",
+          "fr": "J'ai un frère et deux sœurs.",
+          "audio": "audio/familie-001-f9c677c802b4.mp3",
+          "hash": "f9c677c802b4",
+          "bytes": 15120,
+          "durationMs": 2520
+        },
+        {
+          "id": "familie-002",
+          "nl": "Mijn ouders wonen nog in Frankrijk.",
+          "fr": "Mes parents habitent encore en France.",
+          "audio": "audio/familie-002-07336130a1e4.mp3",
+          "hash": "07336130a1e4",
+          "bytes": 16848,
+          "durationMs": 2808
+        },
+        {
+          "id": "familie-003",
+          "nl": "Mijn moeder is lerares en mijn vader is gepensioneerd.",
+          "fr": "Ma mère est enseignante et mon père est retraité.",
+          "note": "Le métier se dit sans article : « ze is lerares ».",
+          "audio": "audio/familie-003-8ed66a051de0.mp3",
+          "hash": "8ed66a051de0",
+          "bytes": 24768,
+          "durationMs": 4128
+        },
+        {
+          "id": "familie-004",
+          "nl": "Ik bel mijn moeder elke zondag.",
+          "fr": "J'appelle ma mère tous les dimanches.",
+          "audio": "audio/familie-004-b234df905c8d.mp3",
+          "hash": "b234df905c8d",
+          "bytes": 16128,
+          "durationMs": 2688
+        },
+        {
+          "id": "familie-005",
+          "nl": "Mijn zus heeft een dochtertje van drie.",
+          "fr": "Ma sœur a une petite fille de trois ans.",
+          "note": "Diminutif en -tje : dochtertje.",
+          "audio": "audio/familie-005-df0b89442945.mp3",
+          "hash": "df0b89442945",
+          "bytes": 16416,
+          "durationMs": 2736
+        },
+        {
+          "id": "familie-006",
+          "nl": "Ik ben dus nonkel!",
+          "fr": "Je suis donc tonton !",
+          "note": "« nonkel » = oncle en Flandre, du français « mon oncle » ; standard : « oom ».",
+          "audio": "audio/familie-006-7472442b07b9.mp3",
+          "hash": "7472442b07b9",
+          "bytes": 12096,
+          "durationMs": 2016
+        },
+        {
+          "id": "familie-007",
+          "nl": "Mijn grootouders zijn al heel oud.",
+          "fr": "Mes grands-parents sont déjà très âgés.",
+          "audio": "audio/familie-007-634b52bad3a7.mp3",
+          "hash": "634b52bad3a7",
+          "bytes": 17856,
+          "durationMs": 2976
+        },
+        {
+          "id": "familie-008",
+          "nl": "Met Kerstmis komt de hele familie samen.",
+          "fr": "À Noël, toute la famille se réunit.",
+          "audio": "audio/familie-008-fcf11260e30c.mp3",
+          "hash": "fcf11260e30c",
+          "bytes": 19008,
+          "durationMs": 3168
+        },
+        {
+          "id": "familie-009",
+          "nl": "Mijn beste vriend woont in Leuven.",
+          "fr": "Mon meilleur ami habite à Louvain.",
+          "audio": "audio/familie-009-ef0a04fb9211.mp3",
+          "hash": "ef0a04fb9211",
+          "bytes": 16560,
+          "durationMs": 2760
+        },
+        {
+          "id": "familie-010",
+          "nl": "We kennen elkaar al sinds de middelbare school.",
+          "fr": "On se connaît depuis le lycée.",
+          "audio": "audio/familie-010-c8d4d2619f76.mp3",
+          "hash": "c8d4d2619f76",
+          "bytes": 19728,
+          "durationMs": 3288
+        },
+        {
+          "id": "familie-011",
+          "nl": "We zien elkaar niet zo vaak, maar we bellen veel.",
+          "fr": "On ne se voit pas si souvent, mais on s'appelle beaucoup.",
+          "audio": "audio/familie-011-0bba25f29321.mp3",
+          "hash": "0bba25f29321",
+          "bytes": 21888,
+          "durationMs": 3648
+        },
+        {
+          "id": "familie-012",
+          "nl": "Hoe gaat het met je ouders?",
+          "fr": "Comment vont tes parents ?",
+          "audio": "audio/familie-012-ee45932cc390.mp3",
+          "hash": "ee45932cc390",
+          "bytes": 13824,
+          "durationMs": 2304
+        },
+        {
+          "id": "familie-013",
+          "nl": "Doe de groetjes aan je vrouw!",
+          "fr": "Passe le bonjour à ta femme !",
+          "note": "« de groetjes doen aan » = passer le bonjour à.",
+          "audio": "audio/familie-013-8fa957cccb38.mp3",
+          "hash": "8fa957cccb38",
+          "bytes": 14256,
+          "durationMs": 2376
+        },
+        {
+          "id": "familie-014",
+          "nl": "Mijn neef gaat volgende maand trouwen.",
+          "fr": "Mon cousin se marie le mois prochain.",
+          "note": "« neef » = cousin ou neveu ; « nicht » = cousine ou nièce.",
+          "audio": "audio/familie-014-c88d395c6a9f.mp3",
+          "hash": "c88d395c6a9f",
+          "bytes": 17424,
+          "durationMs": 2904
+        },
+        {
+          "id": "familie-015",
+          "nl": "Ik mis mijn familie soms.",
+          "fr": "Ma famille me manque parfois.",
+          "note": "« missen » marche à l'envers du français : ik mis X = X me manque.",
+          "audio": "audio/familie-015-40200b6007b2.mp3",
+          "hash": "40200b6007b2",
+          "bytes": 14976,
+          "durationMs": 2496
+        }
+      ]
+    },
+    {
+      "id": "gezond",
+      "emoji": "🩺",
+      "title_fr": "Santé",
+      "order": 140,
+      "sentences": [
+        {
+          "id": "gezond-001",
+          "nl": "Ik voel me niet goed.",
+          "fr": "Je ne me sens pas bien.",
+          "audio": "audio/gezond-001-b181592a58f8.mp3",
+          "hash": "b181592a58f8",
+          "bytes": 12240,
+          "durationMs": 2040
+        },
+        {
+          "id": "gezond-002",
+          "nl": "Ik heb hoofdpijn.",
+          "fr": "J'ai mal à la tête.",
+          "audio": "audio/gezond-002-d155f352c0a9.mp3",
+          "hash": "d155f352c0a9",
+          "bytes": 11808,
+          "durationMs": 1968
+        },
+        {
+          "id": "gezond-003",
+          "nl": "Ik heb keelpijn en ik hoest veel.",
+          "fr": "J'ai mal à la gorge et je tousse beaucoup.",
+          "audio": "audio/gezond-003-269a24b41357.mp3",
+          "hash": "269a24b41357",
+          "bytes": 16416,
+          "durationMs": 2736
+        },
+        {
+          "id": "gezond-004",
+          "nl": "Ik denk dat ik koorts heb.",
+          "fr": "Je pense que j'ai de la fièvre.",
+          "note": "Après « dat », le verbe part à la fin.",
+          "audio": "audio/gezond-004-07aff60e343e.mp3",
+          "hash": "07aff60e343e",
+          "bytes": 13104,
+          "durationMs": 2184
+        },
+        {
+          "id": "gezond-005",
+          "nl": "Ik ben verkouden.",
+          "fr": "Je suis enrhumé.",
+          "audio": "audio/gezond-005-6db7eccb792d.mp3",
+          "hash": "6db7eccb792d",
+          "bytes": 11520,
+          "durationMs": 1920
+        },
+        {
+          "id": "gezond-006",
+          "nl": "Ik wil graag een afspraak maken bij de huisdokter.",
+          "fr": "J'aimerais prendre rendez-vous chez le médecin généraliste.",
+          "note": "Belgique : « huisdokter » ; aux Pays-Bas : « huisarts ».",
+          "audio": "audio/gezond-006-068a1c684b66.mp3",
+          "hash": "068a1c684b66",
+          "bytes": 20880,
+          "durationMs": 3480
+        },
+        {
+          "id": "gezond-007",
+          "nl": "Sinds wanneer hebt u die klachten?",
+          "fr": "Depuis quand avez-vous ces symptômes ?",
+          "audio": "audio/gezond-007-4c18d034bd81.mp3",
+          "hash": "4c18d034bd81",
+          "bytes": 15264,
+          "durationMs": 2544
+        },
+        {
+          "id": "gezond-008",
+          "nl": "Sinds gisteren.",
+          "fr": "Depuis hier.",
+          "audio": "audio/gezond-008-8ccd5aeddc35.mp3",
+          "hash": "8ccd5aeddc35",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "gezond-009",
+          "nl": "Waar doet het pijn?",
+          "fr": "Où avez-vous mal ?",
+          "audio": "audio/gezond-009-1fefbc32cd25.mp3",
+          "hash": "1fefbc32cd25",
+          "bytes": 11376,
+          "durationMs": 1896
+        },
+        {
+          "id": "gezond-010",
+          "nl": "Hier, aan mijn rug.",
+          "fr": "Ici, au dos.",
+          "audio": "audio/gezond-010-4e3552d1a266.mp3",
+          "hash": "4e3552d1a266",
+          "bytes": 14256,
+          "durationMs": 2376
+        },
+        {
+          "id": "gezond-011",
+          "nl": "Hebt u iets tegen hoofdpijn?",
+          "fr": "Avez-vous quelque chose contre le mal de tête ?",
+          "audio": "audio/gezond-011-27759b09715a.mp3",
+          "hash": "27759b09715a",
+          "bytes": 14688,
+          "durationMs": 2448
+        },
+        {
+          "id": "gezond-012",
+          "nl": "Hoeveel keer per dag moet ik dit nemen?",
+          "fr": "Combien de fois par jour dois-je prendre ceci ?",
+          "audio": "audio/gezond-012-0fe6c09014ae.mp3",
+          "hash": "0fe6c09014ae",
+          "bytes": 17280,
+          "durationMs": 2880
+        },
+        {
+          "id": "gezond-013",
+          "nl": "Ik ben vandaag ziek, ik kom niet werken.",
+          "fr": "Je suis malade aujourd'hui, je ne viens pas travailler.",
+          "audio": "audio/gezond-013-ab979bc9a0e3.mp3",
+          "hash": "ab979bc9a0e3",
+          "bytes": 18720,
+          "durationMs": 3120
+        },
+        {
+          "id": "gezond-014",
+          "nl": "Ik heb een doktersbriefje nodig.",
+          "fr": "J'ai besoin d'un certificat médical.",
+          "note": "« doktersbriefje » : le certificat médical, en langage courant.",
+          "audio": "audio/gezond-014-dfbc53fe087a.mp3",
+          "hash": "dfbc53fe087a",
+          "bytes": 15120,
+          "durationMs": 2520
+        },
+        {
+          "id": "gezond-015",
+          "nl": "Beterschap!",
+          "fr": "Bon rétablissement !",
+          "audio": "audio/gezond-015-1a2c7060dfaf.mp3",
+          "hash": "1a2c7060dfaf",
+          "bytes": 11232,
+          "durationMs": 1872
+        },
+        {
+          "id": "gezond-016",
+          "nl": "Bel honderd twaalf!",
+          "fr": "Appelle le 112 !",
+          "note": "Le 112 : numéro d'urgence en Belgique et dans toute l'Europe.",
+          "audio": "audio/gezond-016-e482b13ab137.mp3",
+          "hash": "e482b13ab137",
+          "bytes": 13248,
+          "durationMs": 2208
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "emoji": "📄",
+      "title_fr": "Démarches et services",
+      "order": 150,
+      "sentences": [
+        {
+          "id": "admin-001",
+          "nl": "Ik wil me inschrijven in de gemeente.",
+          "fr": "Je voudrais m'inscrire à la commune.",
+          "note": "En Belgique, on s'inscrit au « gemeentehuis » (la maison communale).",
+          "audio": "audio/admin-001-7c701a1712f5.mp3",
+          "hash": "7c701a1712f5",
+          "bytes": 16848,
+          "durationMs": 2808
+        },
+        {
+          "id": "admin-002",
+          "nl": "Welke documenten moet ik meebrengen?",
+          "fr": "Quels documents dois-je apporter ?",
+          "audio": "audio/admin-002-a00d00b0d187.mp3",
+          "hash": "a00d00b0d187",
+          "bytes": 16128,
+          "durationMs": 2688
+        },
+        {
+          "id": "admin-003",
+          "nl": "Hier is mijn identiteitskaart.",
+          "fr": "Voici ma carte d'identité.",
+          "note": "On dit souvent « eID » ou « identiteitskaart ».",
+          "audio": "audio/admin-003-6c7dbd73ad27.mp3",
+          "hash": "6c7dbd73ad27",
+          "bytes": 16704,
+          "durationMs": 2784
+        },
+        {
+          "id": "admin-004",
+          "nl": "Moet ik een afspraak maken?",
+          "fr": "Dois-je prendre rendez-vous ?",
+          "audio": "audio/admin-004-2fa4119f1076.mp3",
+          "hash": "2fa4119f1076",
+          "bytes": 13968,
+          "durationMs": 2328
+        },
+        {
+          "id": "admin-005",
+          "nl": "Ik heb een formulier ingevuld.",
+          "fr": "J'ai rempli un formulaire.",
+          "audio": "audio/admin-005-a22746b3dfc9.mp3",
+          "hash": "a22746b3dfc9",
+          "bytes": 15696,
+          "durationMs": 2616
+        },
+        {
+          "id": "admin-006",
+          "nl": "Kunt u me helpen dit formulier in te vullen?",
+          "fr": "Pouvez-vous m'aider à remplir ce formulaire ?",
+          "audio": "audio/admin-006-549dab7fd08e.mp3",
+          "hash": "549dab7fd08e",
+          "bytes": 18000,
+          "durationMs": 3000
+        },
+        {
+          "id": "admin-007",
+          "nl": "Ik heb een probleem met mijn internetverbinding.",
+          "fr": "J'ai un problème avec ma connexion internet.",
+          "audio": "audio/admin-007-885b632eeb89.mp3",
+          "hash": "885b632eeb89",
+          "bytes": 19152,
+          "durationMs": 3192
+        },
+        {
+          "id": "admin-008",
+          "nl": "De verwarming werkt niet.",
+          "fr": "Le chauffage ne marche pas.",
+          "audio": "audio/admin-008-5a0225661eeb.mp3",
+          "hash": "5a0225661eeb",
+          "bytes": 13248,
+          "durationMs": 2208
+        },
+        {
+          "id": "admin-009",
+          "nl": "Wanneer kan de technieker komen?",
+          "fr": "Quand le technicien peut-il venir ?",
+          "note": "« technieker » : mot belge ; aux Pays-Bas : « monteur ».",
+          "audio": "audio/admin-009-ec166cd41203.mp3",
+          "hash": "ec166cd41203",
+          "bytes": 14976,
+          "durationMs": 2496
+        },
+        {
+          "id": "admin-010",
+          "nl": "Ik wacht op een pakje.",
+          "fr": "J'attends un colis.",
+          "audio": "audio/admin-010-52abe85901ca.mp3",
+          "hash": "52abe85901ca",
+          "bytes": 12528,
+          "durationMs": 2088
+        },
+        {
+          "id": "admin-011",
+          "nl": "Kunt u het pakje bij de buren afgeven?",
+          "fr": "Pouvez-vous déposer le colis chez les voisins ?",
+          "audio": "audio/admin-011-03e1701e3d62.mp3",
+          "hash": "03e1701e3d62",
+          "bytes": 17280,
+          "durationMs": 2880
+        },
+        {
+          "id": "admin-012",
+          "nl": "Ik wil graag een rekening openen.",
+          "fr": "Je voudrais ouvrir un compte.",
+          "audio": "audio/admin-012-5dc09c6f9965.mp3",
+          "hash": "5dc09c6f9965",
+          "bytes": 16416,
+          "durationMs": 2736
+        },
+        {
+          "id": "admin-013",
+          "nl": "Mijn kaart is geblokkeerd.",
+          "fr": "Ma carte est bloquée.",
+          "audio": "audio/admin-013-190da87cc618.mp3",
+          "hash": "190da87cc618",
+          "bytes": 14688,
+          "durationMs": 2448
+        },
+        {
+          "id": "admin-014",
+          "nl": "Kan ik dat ook online regelen?",
+          "fr": "Puis-je aussi régler ça en ligne ?",
+          "audio": "audio/admin-014-bcb4c3207e9d.mp3",
+          "hash": "bcb4c3207e9d",
+          "bytes": 15408,
+          "durationMs": 2568
+        },
+        {
+          "id": "admin-015",
+          "nl": "Kunt u dat even spellen, alstublieft?",
+          "fr": "Pouvez-vous épeler ça, s'il vous plaît ?",
+          "audio": "audio/admin-015-b341e72f4eff.mp3",
+          "hash": "b341e72f4eff",
+          "bytes": 18432,
+          "durationMs": 3072
+        },
+        {
+          "id": "admin-016",
+          "nl": "Mijn voornaam schrijf je met een accent op de e.",
+          "fr": "Mon prénom s'écrit avec un accent sur le e.",
+          "audio": "audio/admin-016-dffd00363240.mp3",
+          "hash": "dffd00363240",
+          "bytes": 22176,
+          "durationMs": 3696
+        }
+      ]
+    }
+  ]
+}

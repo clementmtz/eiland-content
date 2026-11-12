@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "languages": [
+    {
+      "code": "nl-BE",
+      "name": "Nederlands (België)",
+      "name_fr": "Néerlandais de Belgique",
+      "version": "394bccc55597cf7d",
+      "islands": 15,
+      "sentences": 266
+    }
+  ]
+}
