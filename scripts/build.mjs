@@ -93,16 +93,23 @@ function validateLanguage(code, dir) {
   return { errors, lang, islands };
 }
 
-function audioName(lang, s) {
-  const hash = sha(JSON.stringify([s.nl.trim(), lang.voice, lang.rate, OUTPUT_FORMAT, SSML_VERSION])).slice(0, 12);
-  return { hash, file: `${s.id}-${hash}.mp3` };
+/// Les pistes audio d'une langue : la phrase apprise, et sa traduction si `voice_fr` est défini.
+function tracks(lang) {
+  const t = [{ key: "nl", text: (s) => s.nl, voice: lang.voice, xmlLang: lang.code, suffix: "" }];
+  if (lang.voice_fr) t.push({ key: "fr", text: (s) => s.fr, voice: lang.voice_fr, xmlLang: lang.voice_fr.slice(0, 5), suffix: "-fr" });
+  return t;
 }
 
-function ssml(lang, text) {
-  return `<speak version="1.0" xml:lang="${lang.code}" xmlns="http://www.w3.org/2001/10/synthesis"><voice name="${lang.voice}"><prosody rate="${lang.rate}">${xmlEsc(text.trim())}</prosody></voice></speak>`;
+function audioName(lang, tr, s) {
+  const hash = sha(JSON.stringify([tr.text(s).trim(), tr.voice, lang.rate, OUTPUT_FORMAT, SSML_VERSION])).slice(0, 12);
+  return { hash, file: `${s.id}${tr.suffix}-${hash}.mp3` };
 }
 
-async function synth(lang, text, key, region) {
+function ssml(lang, tr, text) {
+  return `<speak version="1.0" xml:lang="${tr.xmlLang}" xmlns="http://www.w3.org/2001/10/synthesis"><voice name="${tr.voice}"><prosody rate="${lang.rate}">${xmlEsc(text.trim())}</prosody></voice></speak>`;
+}
+
+async function synth(lang, tr, text, key, region) {
   const url = `https://${region}.tts.speech.microsoft.com/cognitiveservices/v1`;
   for (let attempt = 1; ; attempt++) {
     await throttle();
@@ -114,7 +121,7 @@ async function synth(lang, text, key, region) {
         "X-Microsoft-OutputFormat": OUTPUT_FORMAT,
         "User-Agent": "eiland-content-build",
       },
-      body: ssml(lang, text),
+      body: ssml(lang, tr, text),
     });
     if (res.ok) {
       const buf = Buffer.from(await res.arrayBuffer());
@@ -144,7 +151,8 @@ async function buildLanguage(code) {
   const audioDir = path.join(dir, "audio");
   fs.mkdirSync(audioDir, { recursive: true });
   const wanted = new Map();
-  for (const isl of islands) for (const s of isl.sentences) wanted.set(s.id, { s, ...audioName(lang, s) });
+  const trs = tracks(lang);
+  for (const isl of islands) for (const s of isl.sentences) for (const tr of trs) wanted.set(`${s.id}|${tr.key}`, { s, tr, ...audioName(lang, tr, s) });
   const present = new Set(fs.readdirSync(audioDir).filter((f) => f.endsWith(".mp3")));
   const missing = [...wanted.values()].filter((w) => !present.has(w.file));
   const keep = new Set([...wanted.values()].map((w) => w.file));
@@ -153,7 +161,7 @@ async function buildLanguage(code) {
   console.log(`${code} : ${missing.length} audio(s) à générer, ${orphans.length} orphelin(s) à supprimer`);
   if (missing.length && !DRY) console.log(`  débit : ${RPM} par minute, environ ${Math.ceil(missing.length / RPM)} min`);
   if (DRY) {
-    missing.forEach((w) => console.log(`  + ${w.file}  « ${w.s.nl} »`));
+    missing.forEach((w) => console.log(`  + ${w.file}  « ${w.tr.text(w.s)} »`));
     orphans.forEach((f) => console.log(`  - ${f}`));
     return { code, errors: [] };
   }
@@ -165,11 +173,11 @@ async function buildLanguage(code) {
     let done = 0;
     await pool(missing, CONCURRENCY, async (w) => {
       try {
-        const buf = await synth(lang, w.s.nl, key, region);
+        const buf = await synth(lang, w.tr, w.tr.text(w.s), key, region);
         fs.writeFileSync(path.join(audioDir, w.file), buf);
         done++;
         if (done % 20 === 0 || done === missing.length) console.log(`  ${done}/${missing.length}`);
-      } catch (e) { failed.push(`${code}/${w.s.id} : ${e.message}`); }
+      } catch (e) { failed.push(`${code}/${w.s.id} (${w.tr.key}) : ${e.message}`); }
     });
     if (failed.length) return { code, errors: failed };
   }
@@ -181,18 +189,21 @@ async function buildLanguage(code) {
     .map((isl) => ({
       id: isl.id, emoji: isl.emoji, title_fr: isl.title_fr, order: isl.order,
       sentences: isl.sentences.map((s) => {
-        const w = wanted.get(s.id);
-        const size = fs.statSync(path.join(audioDir, w.file)).size;
         const o = { id: s.id, nl: s.nl.trim(), fr: s.fr.trim() };
         if (s.note) o.note = s.note.trim();
-        o.audio = `audio/${w.file}`;
-        o.hash = w.hash;
-        o.bytes = size;
-        o.durationMs = Math.round((size * 8) / KBPS); // MP3 à débit constant
+        for (const tr of trs) {
+          const w = wanted.get(`${s.id}|${tr.key}`);
+          const size = fs.statSync(path.join(audioDir, w.file)).size;
+          const k = tr.key === "nl" ? "" : `_${tr.key}`;
+          o[`audio${k}`] = `audio/${w.file}`;
+          o[`hash${k}`] = w.hash;
+          o[`bytes${k}`] = size;
+          o[`durationMs${k}`] = Math.round((size * 8) / KBPS); // MP3 à débit constant
+        }
         return o;
       }),
     }));
-  const body = { schema: SCHEMA, language: { code: lang.code, name: lang.name, name_fr: lang.name_fr || lang.name, voice: lang.voice }, islands: manifestIslands };
+  const body = { schema: SCHEMA, language: { code: lang.code, name: lang.name, name_fr: lang.name_fr || lang.name, voice: lang.voice, ...(lang.voice_fr ? { voice_fr: lang.voice_fr } : {}) }, islands: manifestIslands };
   const version = sha(JSON.stringify(body)).slice(0, 16);
   const out = JSON.stringify({ schema: SCHEMA, version, language: body.language, islands: manifestIslands }, null, 2) + "\n";
   const changed = writeIfChanged(path.join(dir, "manifest.json"), out);

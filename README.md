@@ -64,7 +64,9 @@ Pour générer en local, définis `AZURE_SPEECH_KEY` et `AZURE_SPEECH_REGION` da
 2. Ajoute ses îlots dans `languages/<code>/islands/`. Les ids de phrase doivent être uniques dans la langue. Le champ `nl` contient la phrase dans la langue apprise, quelle qu'elle soit.
 3. Pousse : l'Action génère l'audio, `languages/<code>/manifest.json` et met à jour `languages/index.json`.
 
-Changer `voice` ou `rate` dans `language.json` régénère tous les audios de la langue.
+`voice_fr` (facultatif) fait aussi enregistrer la traduction française de chaque phrase (fichiers `<id>-fr-<hash>.mp3`). Sans ce champ, l'app lit la traduction avec la voix du téléphone.
+
+Changer `voice`, `voice_fr` ou `rate` dans `language.json` régénère les audios concernés.
 
 ## Réglages GitHub (une seule fois)
 
