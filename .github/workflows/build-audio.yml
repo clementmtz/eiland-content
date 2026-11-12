@@ -34,6 +34,7 @@ jobs:
   build:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
+    timeout-minutes: 40
     permissions:
       contents: write
     steps:
@@ -49,6 +50,7 @@ jobs:
         env:
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
           AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+          AZURE_TTS_RPM: ${{ vars.AZURE_TTS_RPM }}
         run: node scripts/build.mjs
 
       - name: Commiter le résultat

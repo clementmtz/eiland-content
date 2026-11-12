@@ -19,6 +19,15 @@ const KBPS = 48;
 const SSML_VERSION = 1; // incrémenter si le gabarit SSML change → tout est régénéré
 const SCHEMA = 1;
 const CONCURRENCY = 4;
+// Palier gratuit Azure (F0) : 20 synthèses par minute. Monter AZURE_TTS_RPM en palier payant (S0).
+const RPM = Math.max(1, Number(process.env.AZURE_TTS_RPM) || 18);
+let nextSlot = 0;
+async function throttle() {
+  const now = Date.now();
+  const at = Math.max(now, nextSlot);
+  nextSlot = at + 60000 / RPM;
+  if (at > now) await new Promise((r) => setTimeout(r, at - now));
+}
 
 const args = process.argv.slice(2);
 const flag = (f) => args.includes(f);
@@ -96,6 +105,7 @@ function ssml(lang, text) {
 async function synth(lang, text, key, region) {
   const url = `https://${region}.tts.speech.microsoft.com/cognitiveservices/v1`;
   for (let attempt = 1; ; attempt++) {
+    await throttle();
     const res = await fetch(url, {
       method: "POST",
       headers: {
@@ -112,8 +122,8 @@ async function synth(lang, text, key, region) {
       return buf;
     }
     const retry = res.status === 429 || res.status >= 500;
-    if (!retry || attempt >= 5) throw new Error(`Azure HTTP ${res.status} ${(await res.text()).slice(0, 200)}`);
-    const wait = Number(res.headers.get("retry-after")) * 1000 || 1000 * 2 ** attempt;
+    if (!retry || attempt >= 8) throw new Error(`Azure HTTP ${res.status} ${(await res.text()).slice(0, 200)}`);
+    const wait = Math.min(60000, Number(res.headers.get("retry-after")) * 1000 || 3000 * 2 ** attempt);
     await new Promise((r) => setTimeout(r, wait));
   }
 }
@@ -141,6 +151,7 @@ async function buildLanguage(code) {
   const orphans = [...present].filter((f) => !keep.has(f));
 
   console.log(`${code} : ${missing.length} audio(s) à générer, ${orphans.length} orphelin(s) à supprimer`);
+  if (missing.length && !DRY) console.log(`  débit : ${RPM} par minute, environ ${Math.ceil(missing.length / RPM)} min`);
   if (DRY) {
     missing.forEach((w) => console.log(`  + ${w.file}  « ${w.s.nl} »`));
     orphans.forEach((f) => console.log(`  - ${f}`));

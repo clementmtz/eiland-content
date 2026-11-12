@@ -71,6 +71,8 @@ Changer `voice` ou `rate` dans `language.json` régénère tous les audios de la
 - **Settings → Secrets and variables → Actions** : ajoute `AZURE_SPEECH_KEY` et `AZURE_SPEECH_REGION` (par exemple `westeurope`).
 - **Settings → Actions → General → Workflow permissions** : « Read and write permissions ».
 
+Facultatif : la variable `AZURE_TTS_RPM` (onglet Variables) règle le débit. Par défaut 18 synthèses par minute, pour rester sous la limite du palier gratuit F0. En palier payant S0, tu peux mettre 300.
+
 La clé reste dans les secrets GitHub. Elle n'est jamais dans le dépôt ni dans l'app.
 
 ## Adresses utilisées par l'app
