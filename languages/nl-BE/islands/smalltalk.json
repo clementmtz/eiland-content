@@ -1,0 +1,91 @@
+{
+  "id": "smalltalk",
+  "emoji": "🌦️",
+  "title_fr": "Météo et petites conversations",
+  "order": 100,
+  "sentences": [
+    {
+      "id": "smalltalk-001",
+      "nl": "Wat een mooi weer vandaag!",
+      "fr": "Quel beau temps aujourd'hui !"
+    },
+    {
+      "id": "smalltalk-002",
+      "nl": "Het regent alweer.",
+      "fr": "Il pleut encore."
+    },
+    {
+      "id": "smalltalk-003",
+      "nl": "Het is koud, hè?",
+      "fr": "Il fait froid, hein ?",
+      "note": "« hè » en fin de phrase cherche l'accord, comme « hein »."
+    },
+    {
+      "id": "smalltalk-004",
+      "nl": "Morgen zou het beter worden.",
+      "fr": "Demain, ça devrait s'améliorer."
+    },
+    {
+      "id": "smalltalk-005",
+      "nl": "Ik heb mijn paraplu vergeten.",
+      "fr": "J'ai oublié mon parapluie."
+    },
+    {
+      "id": "smalltalk-006",
+      "nl": "Het is veel te warm om te werken.",
+      "fr": "Il fait beaucoup trop chaud pour travailler."
+    },
+    {
+      "id": "smalltalk-007",
+      "nl": "Hoe was je weekend?",
+      "fr": "Comment s'est passé ton week-end ?"
+    },
+    {
+      "id": "smalltalk-008",
+      "nl": "Goed, rustig. En het jouwe?",
+      "fr": "Bien, tranquille. Et le tien ?"
+    },
+    {
+      "id": "smalltalk-009",
+      "nl": "Lang geleden!",
+      "fr": "Ça fait longtemps !"
+    },
+    {
+      "id": "smalltalk-010",
+      "nl": "Alles goed met jou?",
+      "fr": "Tout va bien de ton côté ?"
+    },
+    {
+      "id": "smalltalk-011",
+      "nl": "Ça va, en met jou?",
+      "fr": "Ça va, et toi ?",
+      "note": "Beaucoup de Flamands disent « ça va » tel quel !"
+    },
+    {
+      "id": "smalltalk-012",
+      "nl": "Druk, druk, druk!",
+      "fr": "Débordé, débordé !"
+    },
+    {
+      "id": "smalltalk-013",
+      "nl": "Heb je plannen voor de vakantie?",
+      "fr": "Tu as des projets pour les vacances ?"
+    },
+    {
+      "id": "smalltalk-014",
+      "nl": "Ik moet ervandoor, tot later!",
+      "fr": "Je dois filer, à plus tard !",
+      "note": "« ervandoor moeten » = devoir filer."
+    },
+    {
+      "id": "smalltalk-015",
+      "nl": "Nog een fijne dag!",
+      "fr": "Bonne fin de journée !"
+    },
+    {
+      "id": "smalltalk-016",
+      "nl": "Goed weekend!",
+      "fr": "Bon week-end !"
+    }
+  ]
+}

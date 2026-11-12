@@ -1,0 +1,89 @@
+{
+  "id": "familie",
+  "emoji": "👨‍👩‍👧",
+  "title_fr": "Mes proches",
+  "order": 130,
+  "sentences": [
+    {
+      "id": "familie-001",
+      "nl": "Ik heb een broer en twee zussen.",
+      "fr": "J'ai un frère et deux sœurs."
+    },
+    {
+      "id": "familie-002",
+      "nl": "Mijn ouders wonen nog in Frankrijk.",
+      "fr": "Mes parents habitent encore en France."
+    },
+    {
+      "id": "familie-003",
+      "nl": "Mijn moeder is lerares en mijn vader is gepensioneerd.",
+      "fr": "Ma mère est enseignante et mon père est retraité.",
+      "note": "Le métier se dit sans article : « ze is lerares »."
+    },
+    {
+      "id": "familie-004",
+      "nl": "Ik bel mijn moeder elke zondag.",
+      "fr": "J'appelle ma mère tous les dimanches."
+    },
+    {
+      "id": "familie-005",
+      "nl": "Mijn zus heeft een dochtertje van drie.",
+      "fr": "Ma sœur a une petite fille de trois ans.",
+      "note": "Diminutif en -tje : dochtertje."
+    },
+    {
+      "id": "familie-006",
+      "nl": "Ik ben dus nonkel!",
+      "fr": "Je suis donc tonton !",
+      "note": "« nonkel » = oncle en Flandre, du français « mon oncle » ; standard : « oom »."
+    },
+    {
+      "id": "familie-007",
+      "nl": "Mijn grootouders zijn al heel oud.",
+      "fr": "Mes grands-parents sont déjà très âgés."
+    },
+    {
+      "id": "familie-008",
+      "nl": "Met Kerstmis komt de hele familie samen.",
+      "fr": "À Noël, toute la famille se réunit."
+    },
+    {
+      "id": "familie-009",
+      "nl": "Mijn beste vriend woont in Leuven.",
+      "fr": "Mon meilleur ami habite à Louvain."
+    },
+    {
+      "id": "familie-010",
+      "nl": "We kennen elkaar al sinds de middelbare school.",
+      "fr": "On se connaît depuis le lycée."
+    },
+    {
+      "id": "familie-011",
+      "nl": "We zien elkaar niet zo vaak, maar we bellen veel.",
+      "fr": "On ne se voit pas si souvent, mais on s'appelle beaucoup."
+    },
+    {
+      "id": "familie-012",
+      "nl": "Hoe gaat het met je ouders?",
+      "fr": "Comment vont tes parents ?"
+    },
+    {
+      "id": "familie-013",
+      "nl": "Doe de groetjes aan je vrouw!",
+      "fr": "Passe le bonjour à ta femme !",
+      "note": "« de groetjes doen aan » = passer le bonjour à."
+    },
+    {
+      "id": "familie-014",
+      "nl": "Mijn neef gaat volgende maand trouwen.",
+      "fr": "Mon cousin se marie le mois prochain.",
+      "note": "« neef » = cousin ou neveu ; « nicht » = cousine ou nièce."
+    },
+    {
+      "id": "familie-015",
+      "nl": "Ik mis mijn familie soms.",
+      "fr": "Ma famille me manque parfois.",
+      "note": "« missen » marche à l'envers du français : ik mis X = X me manque."
+    }
+  ]
+}

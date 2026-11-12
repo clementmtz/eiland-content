@@ -1,0 +1,93 @@
+{
+  "id": "trein",
+  "emoji": "🚆",
+  "title_fr": "Se déplacer",
+  "order": 90,
+  "sentences": [
+    {
+      "id": "trein-001",
+      "nl": "Een ticket naar Gent, alstublieft.",
+      "fr": "Un billet pour Gand, s'il vous plaît."
+    },
+    {
+      "id": "trein-002",
+      "nl": "Enkel of heen en terug?",
+      "fr": "Aller simple ou aller-retour ?"
+    },
+    {
+      "id": "trein-003",
+      "nl": "Heen en terug, graag.",
+      "fr": "Aller-retour, s'il vous plaît."
+    },
+    {
+      "id": "trein-004",
+      "nl": "Van welk perron vertrekt de trein naar Antwerpen?",
+      "fr": "De quel quai part le train pour Anvers ?",
+      "note": "« perron » = quai en Belgique ; aux Pays-Bas : « spoor »."
+    },
+    {
+      "id": "trein-005",
+      "nl": "Moet ik overstappen?",
+      "fr": "Dois-je changer de train ?"
+    },
+    {
+      "id": "trein-006",
+      "nl": "De trein heeft twintig minuten vertraging.",
+      "fr": "Le train a vingt minutes de retard."
+    },
+    {
+      "id": "trein-007",
+      "nl": "Is deze plaats vrij?",
+      "fr": "Cette place est-elle libre ?"
+    },
+    {
+      "id": "trein-008",
+      "nl": "Ik stap uit aan de volgende halte.",
+      "fr": "Je descends au prochain arrêt."
+    },
+    {
+      "id": "trein-009",
+      "nl": "Waar is de dichtstbijzijnde metrohalte?",
+      "fr": "Où est la station de métro la plus proche ?"
+    },
+    {
+      "id": "trein-010",
+      "nl": "Ga rechtdoor en neem dan de tweede straat links.",
+      "fr": "Allez tout droit, puis prenez la deuxième rue à gauche."
+    },
+    {
+      "id": "trein-011",
+      "nl": "Het is niet ver, je kunt te voet gaan.",
+      "fr": "Ce n'est pas loin, tu peux y aller à pied."
+    },
+    {
+      "id": "trein-012",
+      "nl": "Ik ben verloren gelopen.",
+      "fr": "Je me suis perdu.",
+      "note": "Tournure flamande ; aux Pays-Bas : « ik ben verdwaald »."
+    },
+    {
+      "id": "trein-013",
+      "nl": "Er is veel file op de ring.",
+      "fr": "Il y a beaucoup de bouchons sur le ring.",
+      "note": "« file » = bouchon ; « de ring » = le périphérique de Bruxelles ou d'Anvers."
+    },
+    {
+      "id": "trein-014",
+      "nl": "Ik kom met de fiets.",
+      "fr": "Je viens à vélo.",
+      "note": "En Belgique « met de fiets » ; aux Pays-Bas plutôt « op de fiets »."
+    },
+    {
+      "id": "trein-015",
+      "nl": "Waar kan ik parkeren?",
+      "fr": "Où puis-je me garer ?"
+    },
+    {
+      "id": "trein-016",
+      "nl": "Kunt u me zeggen hoe ik naar het station kom?",
+      "fr": "Pouvez-vous me dire comment aller à la gare ?",
+      "note": "Dans une question indirecte, le verbe part à la fin."
+    }
+  ]
+}

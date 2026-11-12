@@ -1,0 +1,104 @@
+{
+  "id": "boodsch",
+  "emoji": "🛒",
+  "title_fr": "Faire les courses",
+  "order": 50,
+  "sentences": [
+    {
+      "id": "boodsch-001",
+      "nl": "Ik moet nog boodschappen doen.",
+      "fr": "Je dois encore faire les courses."
+    },
+    {
+      "id": "boodsch-002",
+      "nl": "Waar vind ik de melk?",
+      "fr": "Où est-ce que je trouve le lait ?"
+    },
+    {
+      "id": "boodsch-003",
+      "nl": "Een brood, alstublieft. Gesneden, graag.",
+      "fr": "Un pain, s'il vous plaît. Tranché, merci.",
+      "note": "À la boulangerie belge, on demande souvent le pain tranché (gesneden)."
+    },
+    {
+      "id": "boodsch-004",
+      "nl": "Mag ik vier pistolets?",
+      "fr": "Puis-je avoir quatre pistolets ?",
+      "note": "Le pistolet : petit pain rond typiquement bruxellois."
+    },
+    {
+      "id": "boodsch-005",
+      "nl": "Hoeveel kost een kilo appels?",
+      "fr": "Combien coûte un kilo de pommes ?"
+    },
+    {
+      "id": "boodsch-006",
+      "nl": "Een half kilo tomaten, alstublieft.",
+      "fr": "Un demi-kilo de tomates, s'il vous plaît."
+    },
+    {
+      "id": "boodsch-007",
+      "nl": "Honderd gram hesp, alstublieft.",
+      "fr": "Cent grammes de jambon, s'il vous plaît.",
+      "note": "« hesp » = jambon en Belgique ; aux Pays-Bas : « ham »."
+    },
+    {
+      "id": "boodsch-008",
+      "nl": "Mag het iets meer zijn?",
+      "fr": "Ça peut être un peu plus ?",
+      "note": "La question classique du boucher ou du fromager."
+    },
+    {
+      "id": "boodsch-009",
+      "nl": "Nee, dat is alles, dank u.",
+      "fr": "Non, ce sera tout, merci."
+    },
+    {
+      "id": "boodsch-010",
+      "nl": "Hebt u een zakje?",
+      "fr": "Avez-vous un sachet ?"
+    },
+    {
+      "id": "boodsch-011",
+      "nl": "Ik betaal met de kaart.",
+      "fr": "Je paie par carte."
+    },
+    {
+      "id": "boodsch-012",
+      "nl": "Kan ik contactloos betalen?",
+      "fr": "Puis-je payer sans contact ?"
+    },
+    {
+      "id": "boodsch-013",
+      "nl": "Het is in promotie.",
+      "fr": "C'est en promotion.",
+      "note": "En Belgique : « in promotie » ; aux Pays-Bas : « in de aanbieding »."
+    },
+    {
+      "id": "boodsch-014",
+      "nl": "Is de winkel op zondag open?",
+      "fr": "Le magasin est-il ouvert le dimanche ?"
+    },
+    {
+      "id": "boodsch-015",
+      "nl": "Het is te duur voor mij.",
+      "fr": "C'est trop cher pour moi."
+    },
+    {
+      "id": "boodsch-016",
+      "nl": "Mag ik dit ruilen?",
+      "fr": "Puis-je échanger ceci ?"
+    },
+    {
+      "id": "boodsch-017",
+      "nl": "Ik heb het kasticket niet meer.",
+      "fr": "Je n'ai plus le ticket de caisse.",
+      "note": "« kasticket » : mot belge ; aux Pays-Bas : « kassabon »."
+    },
+    {
+      "id": "boodsch-018",
+      "nl": "Ik zoek iets voor een cadeautje.",
+      "fr": "Je cherche quelque chose pour un petit cadeau."
+    }
+  ]
+}

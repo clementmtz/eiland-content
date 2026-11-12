@@ -1,0 +1,118 @@
+{
+  "id": "cafe",
+  "emoji": "🍺",
+  "title_fr": "Au café",
+  "order": 40,
+  "sentences": [
+    {
+      "id": "cafe-001",
+      "nl": "Is deze tafel nog vrij?",
+      "fr": "Cette table est-elle encore libre ?"
+    },
+    {
+      "id": "cafe-002",
+      "nl": "Mag ik de kaart, alstublieft?",
+      "fr": "Puis-je avoir la carte, s'il vous plaît ?"
+    },
+    {
+      "id": "cafe-003",
+      "nl": "Voor mij een pintje, alstublieft.",
+      "fr": "Pour moi, une bière, s'il vous plaît.",
+      "note": "« een pintje » : la bière pression, typiquement belge."
+    },
+    {
+      "id": "cafe-004",
+      "nl": "Wat raadt u aan?",
+      "fr": "Que me conseillez-vous ?"
+    },
+    {
+      "id": "cafe-005",
+      "nl": "Ik neem het stoofvlees met frietjes.",
+      "fr": "Je prends la carbonnade avec des frites.",
+      "note": "stoofvlees = carbonnade flamande."
+    },
+    {
+      "id": "cafe-006",
+      "nl": "Het was heel lekker, merci!",
+      "fr": "C'était très bon, merci !",
+      "note": "Les Flamands disent souvent « merci » !"
+    },
+    {
+      "id": "cafe-007",
+      "nl": "Mogen we afrekenen, alstublieft?",
+      "fr": "Pouvons-nous payer, s'il vous plaît ?"
+    },
+    {
+      "id": "cafe-008",
+      "nl": "Kan ik met Bancontact betalen?",
+      "fr": "Puis-je payer avec Bancontact ?",
+      "note": "Bancontact : la carte de paiement belge."
+    },
+    {
+      "id": "cafe-009",
+      "nl": "Een tafel voor twee, alstublieft.",
+      "fr": "Une table pour deux, s'il vous plaît."
+    },
+    {
+      "id": "cafe-010",
+      "nl": "Hebt u een vegetarisch gerecht?",
+      "fr": "Avez-vous un plat végétarien ?",
+      "note": "En Flandre, « hebt u » est courant, à côté de « heeft u »."
+    },
+    {
+      "id": "cafe-011",
+      "nl": "Ik ben allergisch voor noten.",
+      "fr": "Je suis allergique aux noix."
+    },
+    {
+      "id": "cafe-012",
+      "nl": "Een spa rood, alstublieft.",
+      "fr": "Une eau pétillante, s'il vous plaît.",
+      "note": "En Belgique : « spa rood » = eau pétillante, « spa blauw » = eau plate, d'après la marque Spa."
+    },
+    {
+      "id": "cafe-013",
+      "nl": "Wat is de dagschotel?",
+      "fr": "Quel est le plat du jour ?"
+    },
+    {
+      "id": "cafe-014",
+      "nl": "Mag ik nog een koffie, alstublieft?",
+      "fr": "Puis-je avoir encore un café, s'il vous plaît ?"
+    },
+    {
+      "id": "cafe-015",
+      "nl": "Smakelijk!",
+      "fr": "Bon appétit !"
+    },
+    {
+      "id": "cafe-016",
+      "nl": "Santé!",
+      "fr": "Santé !",
+      "note": "Oui, les Flamands disent souvent « santé » en trinquant."
+    },
+    {
+      "id": "cafe-017",
+      "nl": "Kan ik hier ook iets afhalen?",
+      "fr": "Puis-je aussi prendre quelque chose à emporter ici ?",
+      "note": "« afhalen » = à emporter."
+    },
+    {
+      "id": "cafe-018",
+      "nl": "Waar zijn de toiletten, alstublieft?",
+      "fr": "Où sont les toilettes, s'il vous plaît ?"
+    },
+    {
+      "id": "cafe-019",
+      "nl": "Het is voor mij, ik trakteer!",
+      "fr": "C'est pour moi, je t'invite !",
+      "note": "« trakteren » = offrir, inviter."
+    },
+    {
+      "id": "cafe-020",
+      "nl": "Hou het wisselgeld maar.",
+      "fr": "Gardez la monnaie.",
+      "note": "« maar » adoucit l'ordre."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "hobby",
+  "emoji": "🚲",
+  "title_fr": "Mes loisirs",
+  "order": 120,
+  "sentences": [
+    {
+      "id": "hobby-001",
+      "nl": "In mijn vrije tijd lees ik graag.",
+      "fr": "Pendant mon temps libre, j'aime lire."
+    },
+    {
+      "id": "hobby-002",
+      "nl": "Twee keer per week ga ik lopen in het park.",
+      "fr": "Deux fois par semaine, je vais courir au parc.",
+      "note": "En Flandre, « lopen » = courir. Aux Pays-Bas on dit plutôt « hardlopen »."
+    },
+    {
+      "id": "hobby-003",
+      "nl": "Ik kook graag, vooral Italiaans eten.",
+      "fr": "J'aime cuisiner, surtout italien."
+    },
+    {
+      "id": "hobby-004",
+      "nl": "Op zondag ga ik soms fietsen met vrienden.",
+      "fr": "Le dimanche, je fais parfois du vélo avec des amis."
+    },
+    {
+      "id": "hobby-005",
+      "nl": "'s Avonds kijk ik graag naar een serie.",
+      "fr": "Le soir, j'aime regarder une série."
+    },
+    {
+      "id": "hobby-006",
+      "nl": "Ik heb goesting om meer te reizen.",
+      "fr": "J'ai envie de voyager davantage.",
+      "note": "« goesting » = envie. Très flamand !"
+    },
+    {
+      "id": "hobby-007",
+      "nl": "Volgende zomer wil ik naar de kust gaan.",
+      "fr": "L'été prochain, je veux aller à la côte.",
+      "note": "« de kust » : la côte belge (Ostende, Knokke…)."
+    },
+    {
+      "id": "hobby-008",
+      "nl": "Ik speel al tien jaar gitaar.",
+      "fr": "Je joue de la guitare depuis dix ans."
+    },
+    {
+      "id": "hobby-009",
+      "nl": "Ik luister graag naar muziek als ik kook.",
+      "fr": "J'aime écouter de la musique quand je cuisine.",
+      "note": "Après « als » (quand), le verbe part à la fin."
+    },
+    {
+      "id": "hobby-010",
+      "nl": "In de winter ga ik graag naar de film.",
+      "fr": "En hiver, j'aime aller au cinéma."
+    },
+    {
+      "id": "hobby-011",
+      "nl": "Ik ben geen grote sportfan, maar ik kijk wel naar de Rode Duivels.",
+      "fr": "Je ne suis pas un grand fan de sport, mais je regarde quand même les Diables Rouges.",
+      "note": "Les Diables Rouges : l'équipe nationale belge de football."
+    },
+    {
+      "id": "hobby-012",
+      "nl": "Vorig weekend zijn we in het Zoniënwoud gaan wandelen.",
+      "fr": "Le week-end dernier, nous sommes allés nous promener dans la forêt de Soignes."
+    },
+    {
+      "id": "hobby-013",
+      "nl": "Het was prachtig weer en heel rustig.",
+      "fr": "Il faisait un temps magnifique et c'était très calme."
+    },
+    {
+      "id": "hobby-014",
+      "nl": "Ik wil graag een nieuwe hobby beginnen.",
+      "fr": "J'aimerais commencer un nouveau hobby."
+    },
+    {
+      "id": "hobby-015",
+      "nl": "Misschien ga ik volgend jaar leren dansen.",
+      "fr": "Peut-être que j'apprendrai à danser l'année prochaine."
+    },
+    {
+      "id": "hobby-016",
+      "nl": "Wat doe jij graag in je vrije tijd?",
+      "fr": "Qu'est-ce que tu aimes faire pendant ton temps libre ?"
+    },
+    {
+      "id": "hobby-017",
+      "nl": "Zin om zondag mee te gaan?",
+      "fr": "Ça te dit de venir dimanche ?",
+      "note": "« zin hebben » = avoir envie, comme « goesting »."
+    },
+    {
+      "id": "hobby-018",
+      "nl": "Ik heb vanavond geen tijd, maar morgen wel.",
+      "fr": "Je n'ai pas le temps ce soir, mais demain oui."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "verbes",
+  "emoji": "🔑",
+  "title_fr": "Les verbes essentiels",
+  "order": 30,
+  "sentences": [
+    {
+      "id": "verbes-001",
+      "nl": "Ik ben moe.",
+      "fr": "Je suis fatigué."
+    },
+    {
+      "id": "verbes-002",
+      "nl": "Ik heb geen tijd.",
+      "fr": "Je n'ai pas le temps."
+    },
+    {
+      "id": "verbes-003",
+      "nl": "Ik ga naar huis.",
+      "fr": "Je rentre à la maison."
+    },
+    {
+      "id": "verbes-004",
+      "nl": "Ik kom zo.",
+      "fr": "J'arrive tout de suite."
+    },
+    {
+      "id": "verbes-005",
+      "nl": "Ik wil iets drinken.",
+      "fr": "Je veux boire quelque chose."
+    },
+    {
+      "id": "verbes-006",
+      "nl": "Ik kan morgen niet komen.",
+      "fr": "Je ne peux pas venir demain.",
+      "note": "Avec kunnen, willen ou moeten, l'infinitif part à la fin."
+    },
+    {
+      "id": "verbes-007",
+      "nl": "Ik moet nu vertrekken.",
+      "fr": "Je dois partir maintenant."
+    },
+    {
+      "id": "verbes-008",
+      "nl": "Mag ik hier zitten?",
+      "fr": "Puis-je m'asseoir ici ?"
+    },
+    {
+      "id": "verbes-009",
+      "nl": "Ik weet het niet.",
+      "fr": "Je ne sais pas."
+    },
+    {
+      "id": "verbes-010",
+      "nl": "Ik denk het wel.",
+      "fr": "Je pense que oui."
+    },
+    {
+      "id": "verbes-011",
+      "nl": "Ik vind het goed.",
+      "fr": "Ça me va.",
+      "note": "« Ik vind het goed » = je suis d'accord, ça me convient."
+    },
+    {
+      "id": "verbes-012",
+      "nl": "Ik zie je morgen.",
+      "fr": "On se voit demain."
+    },
+    {
+      "id": "verbes-013",
+      "nl": "Ik zeg het je straks.",
+      "fr": "Je te le dis tout à l'heure.",
+      "note": "« straks » = tout à l'heure, dans un futur proche."
+    },
+    {
+      "id": "verbes-014",
+      "nl": "Ik doe het morgen.",
+      "fr": "Je le fais demain."
+    },
+    {
+      "id": "verbes-015",
+      "nl": "Ik heb het gisteren gedaan.",
+      "fr": "Je l'ai fait hier."
+    },
+    {
+      "id": "verbes-016",
+      "nl": "Ik ben gisteren thuisgebleven.",
+      "fr": "Je suis resté à la maison hier.",
+      "note": "Les verbes de déplacement ou de changement d'état se conjuguent avec « zijn »."
+    },
+    {
+      "id": "verbes-017",
+      "nl": "Geef me even je pen, alsjeblieft.",
+      "fr": "Donne-moi ton stylo un instant, s'il te plaît.",
+      "note": "« even » adoucit une demande."
+    },
+    {
+      "id": "verbes-018",
+      "nl": "Ik neem de bus.",
+      "fr": "Je prends le bus."
+    },
+    {
+      "id": "verbes-019",
+      "nl": "Het maakt niet uit.",
+      "fr": "Peu importe."
+    },
+    {
+      "id": "verbes-020",
+      "nl": "Dat klopt.",
+      "fr": "C'est exact."
+    }
+  ]
+}

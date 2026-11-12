@@ -1,0 +1,108 @@
+{
+  "id": "vragen",
+  "emoji": "❓",
+  "title_fr": "Questions de base",
+  "order": 20,
+  "sentences": [
+    {
+      "id": "vragen-001",
+      "nl": "Hoe gaat het met u? – Goed, dank u. En met u?",
+      "fr": "Comment allez-vous ? – Bien, merci. Et vous ?"
+    },
+    {
+      "id": "vragen-002",
+      "nl": "Waar woont u? – Ik woon in Brussel.",
+      "fr": "Où habitez-vous ? – J'habite à Bruxelles."
+    },
+    {
+      "id": "vragen-003",
+      "nl": "Hoe lang leert u al Nederlands? – Sinds een paar maanden.",
+      "fr": "Depuis combien de temps apprenez-vous le néerlandais ? – Depuis quelques mois."
+    },
+    {
+      "id": "vragen-004",
+      "nl": "Wat bedoelt u?",
+      "fr": "Que voulez-vous dire ?"
+    },
+    {
+      "id": "vragen-005",
+      "nl": "Hoe zeg je dat in het Nederlands?",
+      "fr": "Comment dit-on ça en néerlandais ?"
+    },
+    {
+      "id": "vragen-006",
+      "nl": "Kunt u dat herhalen, alstublieft?",
+      "fr": "Pouvez-vous répéter, s'il vous plaît ?"
+    },
+    {
+      "id": "vragen-007",
+      "nl": "Ik versta het niet goed.",
+      "fr": "Je ne comprends pas bien."
+    },
+    {
+      "id": "vragen-008",
+      "nl": "Mag ik iets vragen?",
+      "fr": "Puis-je demander quelque chose ?"
+    },
+    {
+      "id": "vragen-009",
+      "nl": "Hoe heet u?",
+      "fr": "Comment vous appelez-vous ?"
+    },
+    {
+      "id": "vragen-010",
+      "nl": "Hoe oud ben je?",
+      "fr": "Quel âge as-tu ?"
+    },
+    {
+      "id": "vragen-011",
+      "nl": "Wat is uw telefoonnummer?",
+      "fr": "Quel est votre numéro de téléphone ?"
+    },
+    {
+      "id": "vragen-012",
+      "nl": "Hoe laat is het?",
+      "fr": "Quelle heure est-il ?"
+    },
+    {
+      "id": "vragen-013",
+      "nl": "Hoeveel kost dat?",
+      "fr": "Combien ça coûte ?"
+    },
+    {
+      "id": "vragen-014",
+      "nl": "Waarom niet?",
+      "fr": "Pourquoi pas ?"
+    },
+    {
+      "id": "vragen-015",
+      "nl": "Wanneer begint het?",
+      "fr": "Quand est-ce que ça commence ?"
+    },
+    {
+      "id": "vragen-016",
+      "nl": "Met wie ga je?",
+      "fr": "Avec qui y vas-tu ?"
+    },
+    {
+      "id": "vragen-017",
+      "nl": "Welke trein moet ik nemen?",
+      "fr": "Quel train dois-je prendre ?"
+    },
+    {
+      "id": "vragen-018",
+      "nl": "Is dat ver van hier?",
+      "fr": "C'est loin d'ici ?"
+    },
+    {
+      "id": "vragen-019",
+      "nl": "Kunt u wat trager spreken, alstublieft?",
+      "fr": "Pouvez-vous parler un peu plus lentement, s'il vous plaît ?"
+    },
+    {
+      "id": "vragen-020",
+      "nl": "Wat betekent dat woord?",
+      "fr": "Que veut dire ce mot ?"
+    }
+  ]
+}

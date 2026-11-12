@@ -1,0 +1,92 @@
+{
+  "id": "gezond",
+  "emoji": "🩺",
+  "title_fr": "Santé",
+  "order": 140,
+  "sentences": [
+    {
+      "id": "gezond-001",
+      "nl": "Ik voel me niet goed.",
+      "fr": "Je ne me sens pas bien."
+    },
+    {
+      "id": "gezond-002",
+      "nl": "Ik heb hoofdpijn.",
+      "fr": "J'ai mal à la tête."
+    },
+    {
+      "id": "gezond-003",
+      "nl": "Ik heb keelpijn en ik hoest veel.",
+      "fr": "J'ai mal à la gorge et je tousse beaucoup."
+    },
+    {
+      "id": "gezond-004",
+      "nl": "Ik denk dat ik koorts heb.",
+      "fr": "Je pense que j'ai de la fièvre.",
+      "note": "Après « dat », le verbe part à la fin."
+    },
+    {
+      "id": "gezond-005",
+      "nl": "Ik ben verkouden.",
+      "fr": "Je suis enrhumé."
+    },
+    {
+      "id": "gezond-006",
+      "nl": "Ik wil graag een afspraak maken bij de huisdokter.",
+      "fr": "J'aimerais prendre rendez-vous chez le médecin généraliste.",
+      "note": "Belgique : « huisdokter » ; aux Pays-Bas : « huisarts »."
+    },
+    {
+      "id": "gezond-007",
+      "nl": "Sinds wanneer hebt u die klachten?",
+      "fr": "Depuis quand avez-vous ces symptômes ?"
+    },
+    {
+      "id": "gezond-008",
+      "nl": "Sinds gisteren.",
+      "fr": "Depuis hier."
+    },
+    {
+      "id": "gezond-009",
+      "nl": "Waar doet het pijn?",
+      "fr": "Où avez-vous mal ?"
+    },
+    {
+      "id": "gezond-010",
+      "nl": "Hier, aan mijn rug.",
+      "fr": "Ici, au dos."
+    },
+    {
+      "id": "gezond-011",
+      "nl": "Hebt u iets tegen hoofdpijn?",
+      "fr": "Avez-vous quelque chose contre le mal de tête ?"
+    },
+    {
+      "id": "gezond-012",
+      "nl": "Hoeveel keer per dag moet ik dit nemen?",
+      "fr": "Combien de fois par jour dois-je prendre ceci ?"
+    },
+    {
+      "id": "gezond-013",
+      "nl": "Ik ben vandaag ziek, ik kom niet werken.",
+      "fr": "Je suis malade aujourd'hui, je ne viens pas travailler."
+    },
+    {
+      "id": "gezond-014",
+      "nl": "Ik heb een doktersbriefje nodig.",
+      "fr": "J'ai besoin d'un certificat médical.",
+      "note": "« doktersbriefje » : le certificat médical, en langage courant."
+    },
+    {
+      "id": "gezond-015",
+      "nl": "Beterschap!",
+      "fr": "Bon rétablissement !"
+    },
+    {
+      "id": "gezond-016",
+      "nl": "Bel honderd twaalf!",
+      "fr": "Appelle le 112 !",
+      "note": "Le 112 : numéro d'urgence en Belgique et dans toute l'Europe."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "praten",
+  "emoji": "💬",
+  "title_fr": "Donner son avis",
+  "order": 110,
+  "sentences": [
+    {
+      "id": "praten-001",
+      "nl": "Ik vind dat een goed idee.",
+      "fr": "Je trouve que c'est une bonne idée."
+    },
+    {
+      "id": "praten-002",
+      "nl": "Dat is waar.",
+      "fr": "C'est vrai."
+    },
+    {
+      "id": "praten-003",
+      "nl": "Ik ben het met je eens.",
+      "fr": "Je suis d'accord avec toi."
+    },
+    {
+      "id": "praten-004",
+      "nl": "Ik ben het niet helemaal met je eens.",
+      "fr": "Je ne suis pas tout à fait d'accord avec toi."
+    },
+    {
+      "id": "praten-005",
+      "nl": "Volgens mij is dat te duur.",
+      "fr": "Selon moi, c'est trop cher."
+    },
+    {
+      "id": "praten-006",
+      "nl": "Dat hangt ervan af.",
+      "fr": "Ça dépend."
+    },
+    {
+      "id": "praten-007",
+      "nl": "Misschien heb je gelijk.",
+      "fr": "Tu as peut-être raison."
+    },
+    {
+      "id": "praten-008",
+      "nl": "Ik weet het nog niet zeker.",
+      "fr": "Je ne suis pas encore sûr."
+    },
+    {
+      "id": "praten-009",
+      "nl": "Wat denk jij ervan?",
+      "fr": "Qu'est-ce que tu en penses ?"
+    },
+    {
+      "id": "praten-010",
+      "nl": "Dat is een goeie vraag!",
+      "fr": "C'est une bonne question !",
+      "note": "« goeie » : forme orale courante de « goede »."
+    },
+    {
+      "id": "praten-011",
+      "nl": "Ik hoop het!",
+      "fr": "Je l'espère !"
+    },
+    {
+      "id": "praten-012",
+      "nl": "Ik heb er geen zin in.",
+      "fr": "Je n'en ai pas envie."
+    },
+    {
+      "id": "praten-013",
+      "nl": "Wat spijtig!",
+      "fr": "Quel dommage !",
+      "note": "« spijtig » : la forme flamande ; aux Pays-Bas : « jammer »."
+    },
+    {
+      "id": "praten-014",
+      "nl": "Dat is plezant!",
+      "fr": "C'est chouette !",
+      "note": "« plezant » = agréable, sympa. Très flamand."
+    },
+    {
+      "id": "praten-015",
+      "nl": "Amai, dat had ik niet verwacht!",
+      "fr": "Waouh, je ne m'y attendais pas !",
+      "note": "« Amai ! » : exclamation flamande de surprise."
+    },
+    {
+      "id": "praten-016",
+      "nl": "Allez, we doen het!",
+      "fr": "Allez, on le fait !",
+      "note": "« allez » s'emploie aussi en Flandre."
+    },
+    {
+      "id": "praten-017",
+      "nl": "Geen probleem!",
+      "fr": "Pas de problème !"
+    }
+  ]
+}

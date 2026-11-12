@@ -1,0 +1,113 @@
+{
+  "id": "werk",
+  "emoji": "💼",
+  "title_fr": "Mon travail",
+  "order": 60,
+  "sentences": [
+    {
+      "id": "werk-001",
+      "nl": "Ik werk in een kantoor in het centrum van de stad.",
+      "fr": "Je travaille dans un bureau au centre-ville."
+    },
+    {
+      "id": "werk-002",
+      "nl": "Ik werk al vijf jaar bij hetzelfde bedrijf.",
+      "fr": "Je travaille depuis cinq ans dans la même entreprise."
+    },
+    {
+      "id": "werk-003",
+      "nl": "Ik begin om negen uur en ik stop rond zes uur.",
+      "fr": "Je commence à neuf heures et je finis vers six heures."
+    },
+    {
+      "id": "werk-004",
+      "nl": "'s Middags eet ik een boterham met mijn collega's.",
+      "fr": "Le midi, je mange une tartine avec mes collègues.",
+      "note": "Le midi, beaucoup de Flamands mangent des tartines (boterhammen)."
+    },
+    {
+      "id": "werk-005",
+      "nl": "Ik heb veel vergaderingen, soms te veel!",
+      "fr": "J'ai beaucoup de réunions, parfois trop !"
+    },
+    {
+      "id": "werk-006",
+      "nl": "Twee dagen per week werk ik thuis.",
+      "fr": "Deux jours par semaine, je travaille à la maison.",
+      "note": "Si la phrase commence par un complément, le verbe reste en 2e position."
+    },
+    {
+      "id": "werk-007",
+      "nl": "Wat ik leuk vind aan mijn werk, is het contact met mensen.",
+      "fr": "Ce que j'aime dans mon travail, c'est le contact avec les gens."
+    },
+    {
+      "id": "werk-008",
+      "nl": "En u, wat doet u voor werk?",
+      "fr": "Et vous, que faites-vous comme travail ?"
+    },
+    {
+      "id": "werk-009",
+      "nl": "Ik ben verantwoordelijk voor een klein team.",
+      "fr": "Je suis responsable d'une petite équipe."
+    },
+    {
+      "id": "werk-010",
+      "nl": "Mijn collega's zijn heel vriendelijk en behulpzaam.",
+      "fr": "Mes collègues sont très gentils et serviables."
+    },
+    {
+      "id": "werk-011",
+      "nl": "Ik neem de trein en daarna de tram naar kantoor.",
+      "fr": "Je prends le train, puis le tram pour aller au bureau."
+    },
+    {
+      "id": "werk-012",
+      "nl": "'s Morgens lees ik eerst mijn mails.",
+      "fr": "Le matin, je lis d'abord mes mails.",
+      "note": "'s Morgens, 's Middags, 's Avonds : le matin, le midi, le soir."
+    },
+    {
+      "id": "werk-013",
+      "nl": "Ik heb vandaag een belangrijke vergadering om tien uur.",
+      "fr": "J'ai une réunion importante aujourd'hui à dix heures."
+    },
+    {
+      "id": "werk-014",
+      "nl": "Kunnen we de vergadering naar donderdag verplaatsen?",
+      "fr": "Pouvons-nous déplacer la réunion à jeudi ?"
+    },
+    {
+      "id": "werk-015",
+      "nl": "Ik stuur je straks een mail met alle informatie.",
+      "fr": "Je t'envoie tout à l'heure un mail avec toutes les infos."
+    },
+    {
+      "id": "werk-016",
+      "nl": "Sorry, ik ben een beetje te laat, de trein had vertraging.",
+      "fr": "Désolé, je suis un peu en retard, le train avait du retard."
+    },
+    {
+      "id": "werk-017",
+      "nl": "Ik ben deze week heel druk bezig.",
+      "fr": "Je suis très occupé cette semaine.",
+      "note": "« druk » = occupé, chargé."
+    },
+    {
+      "id": "werk-018",
+      "nl": "Volgende week neem ik een paar dagen verlof.",
+      "fr": "La semaine prochaine, je prends quelques jours de congé.",
+      "note": "« verlof » : le mot courant en Belgique pour les congés."
+    },
+    {
+      "id": "werk-019",
+      "nl": "Op vrijdag gaan we soms samen iets drinken na het werk.",
+      "fr": "Le vendredi, on va parfois boire un verre ensemble après le travail."
+    },
+    {
+      "id": "werk-020",
+      "nl": "Ik vind mijn werk interessant, maar soms vermoeiend.",
+      "fr": "Je trouve mon travail intéressant, mais parfois fatigant."
+    }
+  ]
+}

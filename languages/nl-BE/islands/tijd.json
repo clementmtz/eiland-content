@@ -1,0 +1,101 @@
+{
+  "id": "tijd",
+  "emoji": "🕒",
+  "title_fr": "Heures et rendez-vous",
+  "order": 80,
+  "sentences": [
+    {
+      "id": "tijd-001",
+      "nl": "Het is half negen.",
+      "fr": "Il est huit heures et demie.",
+      "note": "Piège ! « half negen » = la demie avant neuf, donc 8 h 30."
+    },
+    {
+      "id": "tijd-002",
+      "nl": "Het is kwart over drie.",
+      "fr": "Il est trois heures et quart."
+    },
+    {
+      "id": "tijd-003",
+      "nl": "Het is kwart voor zeven.",
+      "fr": "Il est sept heures moins le quart."
+    },
+    {
+      "id": "tijd-004",
+      "nl": "Om hoe laat spreken we af?",
+      "fr": "À quelle heure on se donne rendez-vous ?",
+      "note": "« afspreken » : verbe à particule séparable (we spreken af)."
+    },
+    {
+      "id": "tijd-005",
+      "nl": "Zullen we om acht uur afspreken?",
+      "fr": "On se retrouve à huit heures ?"
+    },
+    {
+      "id": "tijd-006",
+      "nl": "Past dinsdag voor jou?",
+      "fr": "Mardi, ça te va ?"
+    },
+    {
+      "id": "tijd-007",
+      "nl": "Maandag kan ik niet, maar woensdag wel.",
+      "fr": "Lundi je ne peux pas, mais mercredi oui.",
+      "note": "« wel » insiste sur le oui, par contraste avec « niet »."
+    },
+    {
+      "id": "tijd-008",
+      "nl": "Ik heb een afspraak bij de dokter.",
+      "fr": "J'ai un rendez-vous chez le médecin."
+    },
+    {
+      "id": "tijd-009",
+      "nl": "Vandaag, morgen of overmorgen?",
+      "fr": "Aujourd'hui, demain ou après-demain ?"
+    },
+    {
+      "id": "tijd-010",
+      "nl": "Ik ben er binnen tien minuten.",
+      "fr": "J'y suis dans dix minutes."
+    },
+    {
+      "id": "tijd-011",
+      "nl": "Wacht je even op mij?",
+      "fr": "Tu m'attends un instant ?"
+    },
+    {
+      "id": "tijd-012",
+      "nl": "Het weekend is altijd te kort.",
+      "fr": "Le week-end est toujours trop court."
+    },
+    {
+      "id": "tijd-013",
+      "nl": "Wat doe je deze zaterdag?",
+      "fr": "Qu'est-ce que tu fais ce samedi ?"
+    },
+    {
+      "id": "tijd-014",
+      "nl": "In juli ga ik op vakantie.",
+      "fr": "En juillet, je pars en vacances."
+    },
+    {
+      "id": "tijd-015",
+      "nl": "Mijn verjaardag is op twaalf mei.",
+      "fr": "Mon anniversaire est le douze mai."
+    },
+    {
+      "id": "tijd-016",
+      "nl": "Op maandag is de bakker vaak gesloten.",
+      "fr": "Le lundi, la boulangerie est souvent fermée."
+    },
+    {
+      "id": "tijd-017",
+      "nl": "Tot volgende week!",
+      "fr": "À la semaine prochaine !"
+    },
+    {
+      "id": "tijd-018",
+      "nl": "Tot dan!",
+      "fr": "À ce moment-là, alors !"
+    }
+  ]
+}

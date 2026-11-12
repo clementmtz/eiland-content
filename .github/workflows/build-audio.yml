@@ -1,0 +1,65 @@
+name: Build audio
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "languages/**/islands/**"
+      - "languages/**/language.json"
+      - "scripts/**"
+      - ".github/workflows/build-audio.yml"
+  pull_request:
+    paths:
+      - "languages/**"
+      - "scripts/**"
+  workflow_dispatch:
+
+concurrency:
+  group: build-audio-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/build.mjs --validate-only
+
+  build:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Valider les îlots
+        run: node scripts/build.mjs --validate-only
+
+      - name: Générer les audios et les manifests
+        env:
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+        run: node scripts/build.mjs
+
+      - name: Commiter le résultat
+        run: |
+          git add -A languages
+          if git diff --cached --quiet; then
+            echo "Rien à commiter."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(audio): génération audio et manifest [skip ci]"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

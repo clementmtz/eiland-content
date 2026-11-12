@@ -1,0 +1,104 @@
+{
+  "id": "stad",
+  "emoji": "🏙️",
+  "title_fr": "Là où j'habite",
+  "order": 70,
+  "sentences": [
+    {
+      "id": "stad-001",
+      "nl": "Ik woon in een appartement in Brussel.",
+      "fr": "J'habite dans un appartement à Bruxelles."
+    },
+    {
+      "id": "stad-002",
+      "nl": "Het is niet groot, maar het is heel gezellig.",
+      "fr": "Il n'est pas grand, mais il est très chaleureux.",
+      "note": "« gezellig » : convivial, chaleureux. Un mot clé de la culture flamande."
+    },
+    {
+      "id": "stad-003",
+      "nl": "In mijn straat zijn er een bakker en een frituur.",
+      "fr": "Dans ma rue, il y a une boulangerie et une friterie.",
+      "note": "frituur = friterie."
+    },
+    {
+      "id": "stad-004",
+      "nl": "Ik neem elke dag de metro naar mijn werk.",
+      "fr": "Je prends le métro tous les jours pour aller au travail."
+    },
+    {
+      "id": "stad-005",
+      "nl": "In het weekend ga ik graag naar Gent of Antwerpen.",
+      "fr": "Le week-end, j'aime aller à Gand ou à Anvers."
+    },
+    {
+      "id": "stad-006",
+      "nl": "Brussel is een stad met veel talen en culturen.",
+      "fr": "Bruxelles est une ville avec beaucoup de langues et de cultures."
+    },
+    {
+      "id": "stad-007",
+      "nl": "Het enige nadeel is het weer: het regent vaak!",
+      "fr": "Le seul inconvénient, c'est la météo : il pleut souvent !"
+    },
+    {
+      "id": "stad-008",
+      "nl": "Mijn appartement ligt op de derde verdieping.",
+      "fr": "Mon appartement est au troisième étage."
+    },
+    {
+      "id": "stad-009",
+      "nl": "Er is geen lift, dus ik neem altijd de trap.",
+      "fr": "Il n'y a pas d'ascenseur, donc je prends toujours l'escalier."
+    },
+    {
+      "id": "stad-010",
+      "nl": "Mijn buren zijn vriendelijk, maar een beetje luid.",
+      "fr": "Mes voisins sont gentils, mais un peu bruyants."
+    },
+    {
+      "id": "stad-011",
+      "nl": "Op zaterdag is er een markt op het plein.",
+      "fr": "Le samedi, il y a un marché sur la place."
+    },
+    {
+      "id": "stad-012",
+      "nl": "Ik doe mijn boodschappen in de supermarkt om de hoek.",
+      "fr": "Je fais mes courses au supermarché du coin."
+    },
+    {
+      "id": "stad-013",
+      "nl": "Het park is op vijf minuten te voet.",
+      "fr": "Le parc est à cinq minutes à pied.",
+      "note": "Tournure belge « op vijf minuten » ; aux Pays-Bas : « vijf minuten lopen »."
+    },
+    {
+      "id": "stad-014",
+      "nl": "Ik woon hier graag, want alles is dichtbij.",
+      "fr": "J'aime habiter ici, car tout est proche."
+    },
+    {
+      "id": "stad-015",
+      "nl": "Later wil ik misschien in Gent wonen.",
+      "fr": "Plus tard, je voudrais peut-être habiter à Gand."
+    },
+    {
+      "id": "stad-016",
+      "nl": "Gent is kleiner en rustiger dan Brussel.",
+      "fr": "Gand est plus petite et plus calme que Bruxelles.",
+      "note": "Comparatif : adjectif + -er + dan."
+    },
+    {
+      "id": "stad-017",
+      "nl": "Kom gerust eens langs!",
+      "fr": "Passe donc me voir !",
+      "note": "« eens » rend l'invitation plus douce."
+    },
+    {
+      "id": "stad-018",
+      "nl": "Mijn adres is Kerkstraat twaalf.",
+      "fr": "Mon adresse, c'est Kerkstraat 12.",
+      "note": "On donne la rue avant le numéro."
+    }
+  ]
+}

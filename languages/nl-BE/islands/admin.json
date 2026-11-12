@@ -1,0 +1,91 @@
+{
+  "id": "admin",
+  "emoji": "📄",
+  "title_fr": "Démarches et services",
+  "order": 150,
+  "sentences": [
+    {
+      "id": "admin-001",
+      "nl": "Ik wil me inschrijven in de gemeente.",
+      "fr": "Je voudrais m'inscrire à la commune.",
+      "note": "En Belgique, on s'inscrit au « gemeentehuis » (la maison communale)."
+    },
+    {
+      "id": "admin-002",
+      "nl": "Welke documenten moet ik meebrengen?",
+      "fr": "Quels documents dois-je apporter ?"
+    },
+    {
+      "id": "admin-003",
+      "nl": "Hier is mijn identiteitskaart.",
+      "fr": "Voici ma carte d'identité.",
+      "note": "On dit souvent « eID » ou « identiteitskaart »."
+    },
+    {
+      "id": "admin-004",
+      "nl": "Moet ik een afspraak maken?",
+      "fr": "Dois-je prendre rendez-vous ?"
+    },
+    {
+      "id": "admin-005",
+      "nl": "Ik heb een formulier ingevuld.",
+      "fr": "J'ai rempli un formulaire."
+    },
+    {
+      "id": "admin-006",
+      "nl": "Kunt u me helpen dit formulier in te vullen?",
+      "fr": "Pouvez-vous m'aider à remplir ce formulaire ?"
+    },
+    {
+      "id": "admin-007",
+      "nl": "Ik heb een probleem met mijn internetverbinding.",
+      "fr": "J'ai un problème avec ma connexion internet."
+    },
+    {
+      "id": "admin-008",
+      "nl": "De verwarming werkt niet.",
+      "fr": "Le chauffage ne marche pas."
+    },
+    {
+      "id": "admin-009",
+      "nl": "Wanneer kan de technieker komen?",
+      "fr": "Quand le technicien peut-il venir ?",
+      "note": "« technieker » : mot belge ; aux Pays-Bas : « monteur »."
+    },
+    {
+      "id": "admin-010",
+      "nl": "Ik wacht op een pakje.",
+      "fr": "J'attends un colis."
+    },
+    {
+      "id": "admin-011",
+      "nl": "Kunt u het pakje bij de buren afgeven?",
+      "fr": "Pouvez-vous déposer le colis chez les voisins ?"
+    },
+    {
+      "id": "admin-012",
+      "nl": "Ik wil graag een rekening openen.",
+      "fr": "Je voudrais ouvrir un compte."
+    },
+    {
+      "id": "admin-013",
+      "nl": "Mijn kaart is geblokkeerd.",
+      "fr": "Ma carte est bloquée."
+    },
+    {
+      "id": "admin-014",
+      "nl": "Kan ik dat ook online regelen?",
+      "fr": "Puis-je aussi régler ça en ligne ?"
+    },
+    {
+      "id": "admin-015",
+      "nl": "Kunt u dat even spellen, alstublieft?",
+      "fr": "Pouvez-vous épeler ça, s'il vous plaît ?"
+    },
+    {
+      "id": "admin-016",
+      "nl": "Mijn voornaam schrijf je met een accent op de e.",
+      "fr": "Mon prénom s'écrit avec un accent sur le e."
+    }
+  ]
+}

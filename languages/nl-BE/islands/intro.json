@@ -1,0 +1,109 @@
+{
+  "id": "intro",
+  "emoji": "🙋",
+  "title_fr": "Me présenter",
+  "order": 10,
+  "sentences": [
+    {
+      "id": "intro-001",
+      "nl": "Dag, ik ben Clément.",
+      "fr": "Bonjour, je suis Clément.",
+      "note": "Remplace par ton prénom en créant ton propre îlot."
+    },
+    {
+      "id": "intro-002",
+      "nl": "Aangenaam!",
+      "fr": "Enchanté !",
+      "note": "Très courant en Belgique pour dire « enchanté »."
+    },
+    {
+      "id": "intro-003",
+      "nl": "Ik kom uit Frankrijk, maar ik woon nu in België.",
+      "fr": "Je viens de France, mais j'habite maintenant en Belgique."
+    },
+    {
+      "id": "intro-004",
+      "nl": "Ik woon al twee jaar in Brussel.",
+      "fr": "J'habite à Bruxelles depuis deux ans.",
+      "note": "« al » + durée = depuis."
+    },
+    {
+      "id": "intro-005",
+      "nl": "Ik leer Nederlands, omdat ik met mijn Vlaamse collega's wil praten.",
+      "fr": "J'apprends le néerlandais parce que je veux parler avec mes collègues flamands.",
+      "note": "Après « omdat », le verbe conjugué part à la fin."
+    },
+    {
+      "id": "intro-006",
+      "nl": "Mijn Nederlands is nog niet zo goed, maar ik doe mijn best.",
+      "fr": "Mon néerlandais n'est pas encore très bon, mais je fais de mon mieux."
+    },
+    {
+      "id": "intro-007",
+      "nl": "Als u wat trager spreekt, versta ik het beter.",
+      "fr": "Si vous parlez un peu plus lentement, je comprends mieux.",
+      "note": "« verstaan » = comprendre ce qu'on entend, très utilisé en Flandre."
+    },
+    {
+      "id": "intro-008",
+      "nl": "Dank u om geduldig te zijn!",
+      "fr": "Merci d'être patient !",
+      "note": "Tournure belge. Aux Pays-Bas : « bedankt dat u geduldig bent »."
+    },
+    {
+      "id": "intro-009",
+      "nl": "Ik ben dertig jaar.",
+      "fr": "J'ai trente ans.",
+      "note": "En néerlandais, on « est » son âge : ik ben … jaar."
+    },
+    {
+      "id": "intro-010",
+      "nl": "Ik woon samen met mijn partner.",
+      "fr": "J'habite avec mon ou ma partenaire."
+    },
+    {
+      "id": "intro-011",
+      "nl": "Ik werk als projectleider in een groot bedrijf.",
+      "fr": "Je travaille comme chef de projet dans une grande entreprise.",
+      "note": "« als » + métier, sans article."
+    },
+    {
+      "id": "intro-012",
+      "nl": "Ik spreek Frans, Engels en een beetje Nederlands.",
+      "fr": "Je parle français, anglais et un peu néerlandais."
+    },
+    {
+      "id": "intro-013",
+      "nl": "Ik heb Nederlands op school geleerd, maar ik ben bijna alles vergeten.",
+      "fr": "J'ai appris le néerlandais à l'école, mais j'ai presque tout oublié.",
+      "note": "Passé composé : hebben ou zijn + participe passé à la fin."
+    },
+    {
+      "id": "intro-014",
+      "nl": "Nu wil ik het echt goed leren.",
+      "fr": "Maintenant, je veux vraiment bien l'apprendre."
+    },
+    {
+      "id": "intro-015",
+      "nl": "Ik oefen elke dag een halfuurtje.",
+      "fr": "Je m'entraîne une petite demi-heure chaque jour.",
+      "note": "« halfuurtje » : diminutif très courant."
+    },
+    {
+      "id": "intro-016",
+      "nl": "Mag ik u iets vragen? Waar komt u vandaan?",
+      "fr": "Puis-je vous demander quelque chose ? D'où venez-vous ?"
+    },
+    {
+      "id": "intro-017",
+      "nl": "Spreek gerust Nederlands met mij, zo leer ik het snelst.",
+      "fr": "N'hésitez pas à me parler en néerlandais, c'est comme ça que j'apprends le plus vite.",
+      "note": "Beaucoup de Flamands passent au français ou à l'anglais : cette phrase les en empêche gentiment."
+    },
+    {
+      "id": "intro-018",
+      "nl": "Tot de volgende keer!",
+      "fr": "À la prochaine !"
+    }
+  ]
+}
