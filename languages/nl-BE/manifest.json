@@ -1,11 +1,12 @@
 {
   "schema": 1,
-  "version": "394bccc55597cf7d",
+  "version": "e2ab69b1157b5f4f",
   "language": {
     "code": "nl-BE",
     "name": "Nederlands (België)",
     "name_fr": "Néerlandais de Belgique",
-    "voice": "nl-BE-DenaNeural"
+    "voice": "nl-BE-DenaNeural",
+    "voice_fr": "fr-FR-DeniseNeural"
   },
   "islands": [
     {
@@ -22,7 +23,11 @@
           "audio": "audio/intro-001-65d656ca367f.mp3",
           "hash": "65d656ca367f",
           "bytes": 14256,
-          "durationMs": 2376
+          "durationMs": 2376,
+          "audio_fr": "audio/intro-001-fr-fe9939dac225.mp3",
+          "hash_fr": "fe9939dac225",
+          "bytes_fr": 15840,
+          "durationMs_fr": 2640
         },
         {
           "id": "intro-002",
@@ -32,7 +37,11 @@
           "audio": "audio/intro-002-75f3110a25f1.mp3",
           "hash": "75f3110a25f1",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/intro-002-fr-b048203e79d4.mp3",
+          "hash_fr": "b048203e79d4",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "intro-003",
@@ -41,7 +50,11 @@
           "audio": "audio/intro-003-5a45d56bf607.mp3",
           "hash": "5a45d56bf607",
           "bytes": 22176,
-          "durationMs": 3696
+          "durationMs": 3696,
+          "audio_fr": "audio/intro-003-fr-50929fa488b5.mp3",
+          "hash_fr": "50929fa488b5",
+          "bytes_fr": 24336,
+          "durationMs_fr": 4056
         },
         {
           "id": "intro-004",
@@ -51,7 +64,11 @@
           "audio": "audio/intro-004-756b8bc25ede.mp3",
           "hash": "756b8bc25ede",
           "bytes": 15984,
-          "durationMs": 2664
+          "durationMs": 2664,
+          "audio_fr": "audio/intro-004-fr-07d151b412bb.mp3",
+          "hash_fr": "07d151b412bb",
+          "bytes_fr": 17136,
+          "durationMs_fr": 2856
         },
         {
           "id": "intro-005",
@@ -61,7 +78,11 @@
           "audio": "audio/intro-005-af6283af7d47.mp3",
           "hash": "af6283af7d47",
           "bytes": 27792,
-          "durationMs": 4632
+          "durationMs": 4632,
+          "audio_fr": "audio/intro-005-fr-c08e7cba7706.mp3",
+          "hash_fr": "c08e7cba7706",
+          "bytes_fr": 26784,
+          "durationMs_fr": 4464
         },
         {
           "id": "intro-006",
@@ -70,7 +91,11 @@
           "audio": "audio/intro-006-95ac96eb103a.mp3",
           "hash": "95ac96eb103a",
           "bytes": 24624,
-          "durationMs": 4104
+          "durationMs": 4104,
+          "audio_fr": "audio/intro-006-fr-929c497311a7.mp3",
+          "hash_fr": "929c497311a7",
+          "bytes_fr": 24624,
+          "durationMs_fr": 4104
         },
         {
           "id": "intro-007",
@@ -80,7 +105,11 @@
           "audio": "audio/intro-007-31b0c1766730.mp3",
           "hash": "31b0c1766730",
           "bytes": 21456,
-          "durationMs": 3576
+          "durationMs": 3576,
+          "audio_fr": "audio/intro-007-fr-c6f841ccf4bf.mp3",
+          "hash_fr": "c6f841ccf4bf",
+          "bytes_fr": 21456,
+          "durationMs_fr": 3576
         },
         {
           "id": "intro-008",
@@ -90,7 +119,11 @@
           "audio": "audio/intro-008-28d4a053344e.mp3",
           "hash": "28d4a053344e",
           "bytes": 15120,
-          "durationMs": 2520
+          "durationMs": 2520,
+          "audio_fr": "audio/intro-008-fr-fa7dcfd66eaa.mp3",
+          "hash_fr": "fa7dcfd66eaa",
+          "bytes_fr": 12672,
+          "durationMs_fr": 2112
         },
         {
           "id": "intro-009",
@@ -100,7 +133,11 @@
           "audio": "audio/intro-009-2e16b01def9f.mp3",
           "hash": "2e16b01def9f",
           "bytes": 12240,
-          "durationMs": 2040
+          "durationMs": 2040,
+          "audio_fr": "audio/intro-009-fr-03cb64eff77c.mp3",
+          "hash_fr": "03cb64eff77c",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "intro-010",
@@ -109,7 +146,11 @@
           "audio": "audio/intro-010-d5122a8d3133.mp3",
           "hash": "d5122a8d3133",
           "bytes": 15264,
-          "durationMs": 2544
+          "durationMs": 2544,
+          "audio_fr": "audio/intro-010-fr-5f32d8a28dd4.mp3",
+          "hash_fr": "5f32d8a28dd4",
+          "bytes_fr": 18000,
+          "durationMs_fr": 3000
         },
         {
           "id": "intro-011",
@@ -119,7 +160,11 @@
           "audio": "audio/intro-011-f4c7cb26a483.mp3",
           "hash": "f4c7cb26a483",
           "bytes": 20880,
-          "durationMs": 3480
+          "durationMs": 3480,
+          "audio_fr": "audio/intro-011-fr-e78e90349ff0.mp3",
+          "hash_fr": "e78e90349ff0",
+          "bytes_fr": 23616,
+          "durationMs_fr": 3936
         },
         {
           "id": "intro-012",
@@ -128,7 +173,11 @@
           "audio": "audio/intro-012-cd9dc0ca1816.mp3",
           "hash": "cd9dc0ca1816",
           "bytes": 22752,
-          "durationMs": 3792
+          "durationMs": 3792,
+          "audio_fr": "audio/intro-012-fr-d50994638c9b.mp3",
+          "hash_fr": "d50994638c9b",
+          "bytes_fr": 22608,
+          "durationMs_fr": 3768
         },
         {
           "id": "intro-013",
@@ -138,7 +187,11 @@
           "audio": "audio/intro-013-39a522029235.mp3",
           "hash": "39a522029235",
           "bytes": 27360,
-          "durationMs": 4560
+          "durationMs": 4560,
+          "audio_fr": "audio/intro-013-fr-849ebad5e4c1.mp3",
+          "hash_fr": "849ebad5e4c1",
+          "bytes_fr": 27648,
+          "durationMs_fr": 4608
         },
         {
           "id": "intro-014",
@@ -147,7 +200,11 @@
           "audio": "audio/intro-014-6e0a8ecef598.mp3",
           "hash": "6e0a8ecef598",
           "bytes": 15120,
-          "durationMs": 2520
+          "durationMs": 2520,
+          "audio_fr": "audio/intro-014-fr-543b81c849f7.mp3",
+          "hash_fr": "543b81c849f7",
+          "bytes_fr": 19872,
+          "durationMs_fr": 3312
         },
         {
           "id": "intro-015",
@@ -157,7 +214,11 @@
           "audio": "audio/intro-015-9844b40e62cd.mp3",
           "hash": "9844b40e62cd",
           "bytes": 16704,
-          "durationMs": 2784
+          "durationMs": 2784,
+          "audio_fr": "audio/intro-015-fr-29352d7d1504.mp3",
+          "hash_fr": "29352d7d1504",
+          "bytes_fr": 19296,
+          "durationMs_fr": 3216
         },
         {
           "id": "intro-016",
@@ -166,7 +227,11 @@
           "audio": "audio/intro-016-db917d644bae.mp3",
           "hash": "db917d644bae",
           "bytes": 25200,
-          "durationMs": 4200
+          "durationMs": 4200,
+          "audio_fr": "audio/intro-016-fr-cedb967a9f59.mp3",
+          "hash_fr": "cedb967a9f59",
+          "bytes_fr": 26064,
+          "durationMs_fr": 4344
         },
         {
           "id": "intro-017",
@@ -176,7 +241,11 @@
           "audio": "audio/intro-017-e337b555bfc7.mp3",
           "hash": "e337b555bfc7",
           "bytes": 25632,
-          "durationMs": 4272
+          "durationMs": 4272,
+          "audio_fr": "audio/intro-017-fr-8c2bc03d527a.mp3",
+          "hash_fr": "8c2bc03d527a",
+          "bytes_fr": 30528,
+          "durationMs_fr": 5088
         },
         {
           "id": "intro-018",
@@ -185,7 +254,11 @@
           "audio": "audio/intro-018-70fc37c945ba.mp3",
           "hash": "70fc37c945ba",
           "bytes": 12240,
-          "durationMs": 2040
+          "durationMs": 2040,
+          "audio_fr": "audio/intro-018-fr-90f0c523911d.mp3",
+          "hash_fr": "90f0c523911d",
+          "bytes_fr": 11376,
+          "durationMs_fr": 1896
         }
       ]
     },
@@ -202,7 +275,11 @@
           "audio": "audio/vragen-001-9d32759575ba.mp3",
           "hash": "9d32759575ba",
           "bytes": 32976,
-          "durationMs": 5496
+          "durationMs": 5496,
+          "audio_fr": "audio/vragen-001-fr-af4480cadf28.mp3",
+          "hash_fr": "af4480cadf28",
+          "bytes_fr": 31536,
+          "durationMs_fr": 5256
         },
         {
           "id": "vragen-002",
@@ -211,7 +288,11 @@
           "audio": "audio/vragen-002-ab0b52d3d940.mp3",
           "hash": "ab0b52d3d940",
           "bytes": 21744,
-          "durationMs": 3624
+          "durationMs": 3624,
+          "audio_fr": "audio/vragen-002-fr-717f7cda4c63.mp3",
+          "hash_fr": "717f7cda4c63",
+          "bytes_fr": 23904,
+          "durationMs_fr": 3984
         },
         {
           "id": "vragen-003",
@@ -220,7 +301,11 @@
           "audio": "audio/vragen-003-0ccb163080d2.mp3",
           "hash": "0ccb163080d2",
           "bytes": 28224,
-          "durationMs": 4704
+          "durationMs": 4704,
+          "audio_fr": "audio/vragen-003-fr-d6d34506b5db.mp3",
+          "hash_fr": "d6d34506b5db",
+          "bytes_fr": 30816,
+          "durationMs_fr": 5136
         },
         {
           "id": "vragen-004",
@@ -229,7 +314,11 @@
           "audio": "audio/vragen-004-2b8828678928.mp3",
           "hash": "2b8828678928",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/vragen-004-fr-9e8e500c0fcd.mp3",
+          "hash_fr": "9e8e500c0fcd",
+          "bytes_fr": 12096,
+          "durationMs_fr": 2016
         },
         {
           "id": "vragen-005",
@@ -238,7 +327,11 @@
           "audio": "audio/vragen-005-ad20af47194b.mp3",
           "hash": "ad20af47194b",
           "bytes": 15840,
-          "durationMs": 2640
+          "durationMs": 2640,
+          "audio_fr": "audio/vragen-005-fr-62fa4981b4d9.mp3",
+          "hash_fr": "62fa4981b4d9",
+          "bytes_fr": 15696,
+          "durationMs_fr": 2616
         },
         {
           "id": "vragen-006",
@@ -247,7 +340,11 @@
           "audio": "audio/vragen-006-cef71c9f7570.mp3",
           "hash": "cef71c9f7570",
           "bytes": 17856,
-          "durationMs": 2976
+          "durationMs": 2976,
+          "audio_fr": "audio/vragen-006-fr-b6665bfed796.mp3",
+          "hash_fr": "b6665bfed796",
+          "bytes_fr": 17568,
+          "durationMs_fr": 2928
         },
         {
           "id": "vragen-007",
@@ -256,7 +353,11 @@
           "audio": "audio/vragen-007-7384ca78d5ff.mp3",
           "hash": "7384ca78d5ff",
           "bytes": 13536,
-          "durationMs": 2256
+          "durationMs": 2256,
+          "audio_fr": "audio/vragen-007-fr-743973278743.mp3",
+          "hash_fr": "743973278743",
+          "bytes_fr": 13392,
+          "durationMs_fr": 2232
         },
         {
           "id": "vragen-008",
@@ -265,7 +366,11 @@
           "audio": "audio/vragen-008-92bb2da1d457.mp3",
           "hash": "92bb2da1d457",
           "bytes": 12240,
-          "durationMs": 2040
+          "durationMs": 2040,
+          "audio_fr": "audio/vragen-008-fr-8bebf2114d87.mp3",
+          "hash_fr": "8bebf2114d87",
+          "bytes_fr": 15264,
+          "durationMs_fr": 2544
         },
         {
           "id": "vragen-009",
@@ -274,7 +379,11 @@
           "audio": "audio/vragen-009-f4d5c0e80d0c.mp3",
           "hash": "f4d5c0e80d0c",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/vragen-009-fr-46947ac54a10.mp3",
+          "hash_fr": "46947ac54a10",
+          "bytes_fr": 12096,
+          "durationMs_fr": 2016
         },
         {
           "id": "vragen-010",
@@ -283,7 +392,11 @@
           "audio": "audio/vragen-010-eacd440092e2.mp3",
           "hash": "eacd440092e2",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/vragen-010-fr-6f355f53183a.mp3",
+          "hash_fr": "6f355f53183a",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "vragen-011",
@@ -292,7 +405,11 @@
           "audio": "audio/vragen-011-c275f3632346.mp3",
           "hash": "c275f3632346",
           "bytes": 13968,
-          "durationMs": 2328
+          "durationMs": 2328,
+          "audio_fr": "audio/vragen-011-fr-f4d94d8f43b6.mp3",
+          "hash_fr": "f4d94d8f43b6",
+          "bytes_fr": 16848,
+          "durationMs_fr": 2808
         },
         {
           "id": "vragen-012",
@@ -301,7 +418,11 @@
           "audio": "audio/vragen-012-b853d7d273d5.mp3",
           "hash": "b853d7d273d5",
           "bytes": 11664,
-          "durationMs": 1944
+          "durationMs": 1944,
+          "audio_fr": "audio/vragen-012-fr-35901be6f3c7.mp3",
+          "hash_fr": "35901be6f3c7",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "vragen-013",
@@ -310,7 +431,11 @@
           "audio": "audio/vragen-013-bce59324a05a.mp3",
           "hash": "bce59324a05a",
           "bytes": 11952,
-          "durationMs": 1992
+          "durationMs": 1992,
+          "audio_fr": "audio/vragen-013-fr-3ec7ee584127.mp3",
+          "hash_fr": "3ec7ee584127",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "vragen-014",
@@ -319,7 +444,11 @@
           "audio": "audio/vragen-014-c431b273d620.mp3",
           "hash": "c431b273d620",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/vragen-014-fr-98d6a84bcc2f.mp3",
+          "hash_fr": "98d6a84bcc2f",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "vragen-015",
@@ -328,7 +457,11 @@
           "audio": "audio/vragen-015-ceddf37bb5ae.mp3",
           "hash": "ceddf37bb5ae",
           "bytes": 11952,
-          "durationMs": 1992
+          "durationMs": 1992,
+          "audio_fr": "audio/vragen-015-fr-206d5a179134.mp3",
+          "hash_fr": "206d5a179134",
+          "bytes_fr": 13248,
+          "durationMs_fr": 2208
         },
         {
           "id": "vragen-016",
@@ -337,7 +470,11 @@
           "audio": "audio/vragen-016-5d17b86b79a7.mp3",
           "hash": "5d17b86b79a7",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/vragen-016-fr-118e5626a5e9.mp3",
+          "hash_fr": "118e5626a5e9",
+          "bytes_fr": 11808,
+          "durationMs_fr": 1968
         },
         {
           "id": "vragen-017",
@@ -346,7 +483,11 @@
           "audio": "audio/vragen-017-53297e9e1520.mp3",
           "hash": "53297e9e1520",
           "bytes": 14112,
-          "durationMs": 2352
+          "durationMs": 2352,
+          "audio_fr": "audio/vragen-017-fr-b6fb74520b0a.mp3",
+          "hash_fr": "b6fb74520b0a",
+          "bytes_fr": 12960,
+          "durationMs_fr": 2160
         },
         {
           "id": "vragen-018",
@@ -355,7 +496,11 @@
           "audio": "audio/vragen-018-1613e968f3a2.mp3",
           "hash": "1613e968f3a2",
           "bytes": 12528,
-          "durationMs": 2088
+          "durationMs": 2088,
+          "audio_fr": "audio/vragen-018-fr-28587d526a60.mp3",
+          "hash_fr": "28587d526a60",
+          "bytes_fr": 11952,
+          "durationMs_fr": 1992
         },
         {
           "id": "vragen-019",
@@ -364,7 +509,11 @@
           "audio": "audio/vragen-019-cdd1753bdb51.mp3",
           "hash": "cdd1753bdb51",
           "bytes": 19152,
-          "durationMs": 3192
+          "durationMs": 3192,
+          "audio_fr": "audio/vragen-019-fr-aa9cd5c308a4.mp3",
+          "hash_fr": "aa9cd5c308a4",
+          "bytes_fr": 21312,
+          "durationMs_fr": 3552
         },
         {
           "id": "vragen-020",
@@ -373,7 +522,11 @@
           "audio": "audio/vragen-020-22f017cfe1db.mp3",
           "hash": "22f017cfe1db",
           "bytes": 13536,
-          "durationMs": 2256
+          "durationMs": 2256,
+          "audio_fr": "audio/vragen-020-fr-aff70f1b5ed3.mp3",
+          "hash_fr": "aff70f1b5ed3",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         }
       ]
     },
@@ -390,7 +543,11 @@
           "audio": "audio/verbes-001-40b9e715c9ca.mp3",
           "hash": "40b9e715c9ca",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/verbes-001-fr-a648f9d86a43.mp3",
+          "hash_fr": "a648f9d86a43",
+          "bytes_fr": 12096,
+          "durationMs_fr": 2016
         },
         {
           "id": "verbes-002",
@@ -399,7 +556,11 @@
           "audio": "audio/verbes-002-fe2a22b0a204.mp3",
           "hash": "fe2a22b0a204",
           "bytes": 11808,
-          "durationMs": 1968
+          "durationMs": 1968,
+          "audio_fr": "audio/verbes-002-fr-252b92d2900b.mp3",
+          "hash_fr": "252b92d2900b",
+          "bytes_fr": 11376,
+          "durationMs_fr": 1896
         },
         {
           "id": "verbes-003",
@@ -408,7 +569,11 @@
           "audio": "audio/verbes-003-c8b1215d87b3.mp3",
           "hash": "c8b1215d87b3",
           "bytes": 11952,
-          "durationMs": 1992
+          "durationMs": 1992,
+          "audio_fr": "audio/verbes-003-fr-dd2d2ed7cfbb.mp3",
+          "hash_fr": "dd2d2ed7cfbb",
+          "bytes_fr": 13248,
+          "durationMs_fr": 2208
         },
         {
           "id": "verbes-004",
@@ -417,7 +582,11 @@
           "audio": "audio/verbes-004-702b1f8179d1.mp3",
           "hash": "702b1f8179d1",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/verbes-004-fr-7f7ab05a6073.mp3",
+          "hash_fr": "7f7ab05a6073",
+          "bytes_fr": 13824,
+          "durationMs_fr": 2304
         },
         {
           "id": "verbes-005",
@@ -426,7 +595,11 @@
           "audio": "audio/verbes-005-e62d5a4e4021.mp3",
           "hash": "e62d5a4e4021",
           "bytes": 12096,
-          "durationMs": 2016
+          "durationMs": 2016,
+          "audio_fr": "audio/verbes-005-fr-7f3a3d078d7e.mp3",
+          "hash_fr": "7f3a3d078d7e",
+          "bytes_fr": 14976,
+          "durationMs_fr": 2496
         },
         {
           "id": "verbes-006",
@@ -436,7 +609,11 @@
           "audio": "audio/verbes-006-0e0d16c101cd.mp3",
           "hash": "0e0d16c101cd",
           "bytes": 13680,
-          "durationMs": 2280
+          "durationMs": 2280,
+          "audio_fr": "audio/verbes-006-fr-d3af65f3466f.mp3",
+          "hash_fr": "d3af65f3466f",
+          "bytes_fr": 14400,
+          "durationMs_fr": 2400
         },
         {
           "id": "verbes-007",
@@ -445,7 +622,11 @@
           "audio": "audio/verbes-007-6dade7d90dfa.mp3",
           "hash": "6dade7d90dfa",
           "bytes": 12672,
-          "durationMs": 2112
+          "durationMs": 2112,
+          "audio_fr": "audio/verbes-007-fr-bffcd4f0244f.mp3",
+          "hash_fr": "bffcd4f0244f",
+          "bytes_fr": 14112,
+          "durationMs_fr": 2352
         },
         {
           "id": "verbes-008",
@@ -454,7 +635,11 @@
           "audio": "audio/verbes-008-b0c8d2a6a66f.mp3",
           "hash": "b0c8d2a6a66f",
           "bytes": 11520,
-          "durationMs": 1920
+          "durationMs": 1920,
+          "audio_fr": "audio/verbes-008-fr-1cf67b41f40c.mp3",
+          "hash_fr": "1cf67b41f40c",
+          "bytes_fr": 12960,
+          "durationMs_fr": 2160
         },
         {
           "id": "verbes-009",
@@ -463,7 +648,11 @@
           "audio": "audio/verbes-009-7aec2c7e27bf.mp3",
           "hash": "7aec2c7e27bf",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/verbes-009-fr-0c954ac7bd55.mp3",
+          "hash_fr": "0c954ac7bd55",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "verbes-010",
@@ -472,7 +661,11 @@
           "audio": "audio/verbes-010-0c954a865e9a.mp3",
           "hash": "0c954a865e9a",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/verbes-010-fr-1723bb3d1878.mp3",
+          "hash_fr": "1723bb3d1878",
+          "bytes_fr": 12384,
+          "durationMs_fr": 2064
         },
         {
           "id": "verbes-011",
@@ -482,7 +675,11 @@
           "audio": "audio/verbes-011-6b45dd8429c4.mp3",
           "hash": "6b45dd8429c4",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/verbes-011-fr-51309b790192.mp3",
+          "hash_fr": "51309b790192",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "verbes-012",
@@ -491,7 +688,11 @@
           "audio": "audio/verbes-012-c2937df68ff5.mp3",
           "hash": "c2937df68ff5",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/verbes-012-fr-91993c94ec12.mp3",
+          "hash_fr": "91993c94ec12",
+          "bytes_fr": 11376,
+          "durationMs_fr": 1896
         },
         {
           "id": "verbes-013",
@@ -501,7 +702,11 @@
           "audio": "audio/verbes-013-27d163bc873c.mp3",
           "hash": "27d163bc873c",
           "bytes": 12528,
-          "durationMs": 2088
+          "durationMs": 2088,
+          "audio_fr": "audio/verbes-013-fr-24006c0676ec.mp3",
+          "hash_fr": "24006c0676ec",
+          "bytes_fr": 14544,
+          "durationMs_fr": 2424
         },
         {
           "id": "verbes-014",
@@ -510,7 +715,11 @@
           "audio": "audio/verbes-014-979f033e3208.mp3",
           "hash": "979f033e3208",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/verbes-014-fr-eb6ca846dba5.mp3",
+          "hash_fr": "eb6ca846dba5",
+          "bytes_fr": 11520,
+          "durationMs_fr": 1920
         },
         {
           "id": "verbes-015",
@@ -519,7 +728,11 @@
           "audio": "audio/verbes-015-baf408f4ba3e.mp3",
           "hash": "baf408f4ba3e",
           "bytes": 12672,
-          "durationMs": 2112
+          "durationMs": 2112,
+          "audio_fr": "audio/verbes-015-fr-b7c8731ac99c.mp3",
+          "hash_fr": "b7c8731ac99c",
+          "bytes_fr": 12384,
+          "durationMs_fr": 2064
         },
         {
           "id": "verbes-016",
@@ -529,7 +742,11 @@
           "audio": "audio/verbes-016-640114493e54.mp3",
           "hash": "640114493e54",
           "bytes": 15408,
-          "durationMs": 2568
+          "durationMs": 2568,
+          "audio_fr": "audio/verbes-016-fr-086a4814e391.mp3",
+          "hash_fr": "086a4814e391",
+          "bytes_fr": 16992,
+          "durationMs_fr": 2832
         },
         {
           "id": "verbes-017",
@@ -539,7 +756,11 @@
           "audio": "audio/verbes-017-8bd9aec21839.mp3",
           "hash": "8bd9aec21839",
           "bytes": 18720,
-          "durationMs": 3120
+          "durationMs": 3120,
+          "audio_fr": "audio/verbes-017-fr-052f9c9b5cbc.mp3",
+          "hash_fr": "052f9c9b5cbc",
+          "bytes_fr": 21024,
+          "durationMs_fr": 3504
         },
         {
           "id": "verbes-018",
@@ -548,7 +769,11 @@
           "audio": "audio/verbes-018-858a05979b73.mp3",
           "hash": "858a05979b73",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/verbes-018-fr-8eaf425118c7.mp3",
+          "hash_fr": "8eaf425118c7",
+          "bytes_fr": 11664,
+          "durationMs_fr": 1944
         },
         {
           "id": "verbes-019",
@@ -557,7 +782,11 @@
           "audio": "audio/verbes-019-c9dc844f612f.mp3",
           "hash": "c9dc844f612f",
           "bytes": 12960,
-          "durationMs": 2160
+          "durationMs": 2160,
+          "audio_fr": "audio/verbes-019-fr-a42b3bac7ca1.mp3",
+          "hash_fr": "a42b3bac7ca1",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "verbes-020",
@@ -566,7 +795,11 @@
           "audio": "audio/verbes-020-031802120962.mp3",
           "hash": "031802120962",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/verbes-020-fr-082d3cea8da4.mp3",
+          "hash_fr": "082d3cea8da4",
+          "bytes_fr": 11664,
+          "durationMs_fr": 1944
         }
       ]
     },
@@ -583,7 +816,11 @@
           "audio": "audio/cafe-001-56db69ec2d88.mp3",
           "hash": "56db69ec2d88",
           "bytes": 14400,
-          "durationMs": 2400
+          "durationMs": 2400,
+          "audio_fr": "audio/cafe-001-fr-e33759b8de1f.mp3",
+          "hash_fr": "e33759b8de1f",
+          "bytes_fr": 15696,
+          "durationMs_fr": 2616
         },
         {
           "id": "cafe-002",
@@ -592,7 +829,11 @@
           "audio": "audio/cafe-002-a5e3a2433715.mp3",
           "hash": "a5e3a2433715",
           "bytes": 17136,
-          "durationMs": 2856
+          "durationMs": 2856,
+          "audio_fr": "audio/cafe-002-fr-cefad0390123.mp3",
+          "hash_fr": "cefad0390123",
+          "bytes_fr": 17712,
+          "durationMs_fr": 2952
         },
         {
           "id": "cafe-003",
@@ -602,7 +843,11 @@
           "audio": "audio/cafe-003-5e5e46b4c464.mp3",
           "hash": "5e5e46b4c464",
           "bytes": 17424,
-          "durationMs": 2904
+          "durationMs": 2904,
+          "audio_fr": "audio/cafe-003-fr-e71dd6152cf9.mp3",
+          "hash_fr": "e71dd6152cf9",
+          "bytes_fr": 18864,
+          "durationMs_fr": 3144
         },
         {
           "id": "cafe-004",
@@ -611,7 +856,11 @@
           "audio": "audio/cafe-004-91179d237ebe.mp3",
           "hash": "91179d237ebe",
           "bytes": 11664,
-          "durationMs": 1944
+          "durationMs": 1944,
+          "audio_fr": "audio/cafe-004-fr-53915d086510.mp3",
+          "hash_fr": "53915d086510",
+          "bytes_fr": 12384,
+          "durationMs_fr": 2064
         },
         {
           "id": "cafe-005",
@@ -621,7 +870,11 @@
           "audio": "audio/cafe-005-1275407a5aed.mp3",
           "hash": "1275407a5aed",
           "bytes": 17136,
-          "durationMs": 2856
+          "durationMs": 2856,
+          "audio_fr": "audio/cafe-005-fr-0d8396f4c7df.mp3",
+          "hash_fr": "0d8396f4c7df",
+          "bytes_fr": 18144,
+          "durationMs_fr": 3024
         },
         {
           "id": "cafe-006",
@@ -631,7 +884,11 @@
           "audio": "audio/cafe-006-5962ebf53fd2.mp3",
           "hash": "5962ebf53fd2",
           "bytes": 15696,
-          "durationMs": 2616
+          "durationMs": 2616,
+          "audio_fr": "audio/cafe-006-fr-6a0fd7a97477.mp3",
+          "hash_fr": "6a0fd7a97477",
+          "bytes_fr": 15408,
+          "durationMs_fr": 2568
         },
         {
           "id": "cafe-007",
@@ -640,7 +897,11 @@
           "audio": "audio/cafe-007-43ee539844af.mp3",
           "hash": "43ee539844af",
           "bytes": 18000,
-          "durationMs": 3000
+          "durationMs": 3000,
+          "audio_fr": "audio/cafe-007-fr-f86d182910e1.mp3",
+          "hash_fr": "f86d182910e1",
+          "bytes_fr": 16848,
+          "durationMs_fr": 2808
         },
         {
           "id": "cafe-008",
@@ -650,7 +911,11 @@
           "audio": "audio/cafe-008-e878cebf7c47.mp3",
           "hash": "e878cebf7c47",
           "bytes": 15120,
-          "durationMs": 2520
+          "durationMs": 2520,
+          "audio_fr": "audio/cafe-008-fr-04886a800f48.mp3",
+          "hash_fr": "04886a800f48",
+          "bytes_fr": 16848,
+          "durationMs_fr": 2808
         },
         {
           "id": "cafe-009",
@@ -659,7 +924,11 @@
           "audio": "audio/cafe-009-415c7fb61cfb.mp3",
           "hash": "415c7fb61cfb",
           "bytes": 18720,
-          "durationMs": 3120
+          "durationMs": 3120,
+          "audio_fr": "audio/cafe-009-fr-f766a0671c10.mp3",
+          "hash_fr": "f766a0671c10",
+          "bytes_fr": 17712,
+          "durationMs_fr": 2952
         },
         {
           "id": "cafe-010",
@@ -669,7 +938,11 @@
           "audio": "audio/cafe-010-3247398f3928.mp3",
           "hash": "3247398f3928",
           "bytes": 15408,
-          "durationMs": 2568
+          "durationMs": 2568,
+          "audio_fr": "audio/cafe-010-fr-e01ad1559467.mp3",
+          "hash_fr": "e01ad1559467",
+          "bytes_fr": 15264,
+          "durationMs_fr": 2544
         },
         {
           "id": "cafe-011",
@@ -678,7 +951,11 @@
           "audio": "audio/cafe-011-3e623f2be84d.mp3",
           "hash": "3e623f2be84d",
           "bytes": 14544,
-          "durationMs": 2424
+          "durationMs": 2424,
+          "audio_fr": "audio/cafe-011-fr-38051d76d512.mp3",
+          "hash_fr": "38051d76d512",
+          "bytes_fr": 14256,
+          "durationMs_fr": 2376
         },
         {
           "id": "cafe-012",
@@ -688,7 +965,11 @@
           "audio": "audio/cafe-012-9a525ee374de.mp3",
           "hash": "9a525ee374de",
           "bytes": 16848,
-          "durationMs": 2808
+          "durationMs": 2808,
+          "audio_fr": "audio/cafe-012-fr-fe6a974544f5.mp3",
+          "hash_fr": "fe6a974544f5",
+          "bytes_fr": 17136,
+          "durationMs_fr": 2856
         },
         {
           "id": "cafe-013",
@@ -697,7 +978,11 @@
           "audio": "audio/cafe-013-19d1aebdd8de.mp3",
           "hash": "19d1aebdd8de",
           "bytes": 13248,
-          "durationMs": 2208
+          "durationMs": 2208,
+          "audio_fr": "audio/cafe-013-fr-fe97594089df.mp3",
+          "hash_fr": "fe97594089df",
+          "bytes_fr": 12528,
+          "durationMs_fr": 2088
         },
         {
           "id": "cafe-014",
@@ -706,7 +991,11 @@
           "audio": "audio/cafe-014-295fe9b42273.mp3",
           "hash": "295fe9b42273",
           "bytes": 18000,
-          "durationMs": 3000
+          "durationMs": 3000,
+          "audio_fr": "audio/cafe-014-fr-5dc2c70c62ac.mp3",
+          "hash_fr": "5dc2c70c62ac",
+          "bytes_fr": 20160,
+          "durationMs_fr": 3360
         },
         {
           "id": "cafe-015",
@@ -715,7 +1004,11 @@
           "audio": "audio/cafe-015-3bfa789f25c1.mp3",
           "hash": "3bfa789f25c1",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/cafe-015-fr-e879702bd424.mp3",
+          "hash_fr": "e879702bd424",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "cafe-016",
@@ -725,7 +1018,11 @@
           "audio": "audio/cafe-016-904f0cc5461c.mp3",
           "hash": "904f0cc5461c",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/cafe-016-fr-636360a64b71.mp3",
+          "hash_fr": "636360a64b71",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "cafe-017",
@@ -735,7 +1032,11 @@
           "audio": "audio/cafe-017-ebd150ea1cd9.mp3",
           "hash": "ebd150ea1cd9",
           "bytes": 14976,
-          "durationMs": 2496
+          "durationMs": 2496,
+          "audio_fr": "audio/cafe-017-fr-3eb7144fbaf6.mp3",
+          "hash_fr": "3eb7144fbaf6",
+          "bytes_fr": 20880,
+          "durationMs_fr": 3480
         },
         {
           "id": "cafe-018",
@@ -744,7 +1045,11 @@
           "audio": "audio/cafe-018-50cdd3a60b55.mp3",
           "hash": "50cdd3a60b55",
           "bytes": 17424,
-          "durationMs": 2904
+          "durationMs": 2904,
+          "audio_fr": "audio/cafe-018-fr-1e7fbad65ceb.mp3",
+          "hash_fr": "1e7fbad65ceb",
+          "bytes_fr": 16416,
+          "durationMs_fr": 2736
         },
         {
           "id": "cafe-019",
@@ -754,7 +1059,11 @@
           "audio": "audio/cafe-019-e6408bdf89ef.mp3",
           "hash": "e6408bdf89ef",
           "bytes": 16848,
-          "durationMs": 2808
+          "durationMs": 2808,
+          "audio_fr": "audio/cafe-019-fr-5ddb7c622779.mp3",
+          "hash_fr": "5ddb7c622779",
+          "bytes_fr": 15840,
+          "durationMs_fr": 2640
         },
         {
           "id": "cafe-020",
@@ -764,7 +1073,11 @@
           "audio": "audio/cafe-020-1e06ce5ea9f5.mp3",
           "hash": "1e06ce5ea9f5",
           "bytes": 13824,
-          "durationMs": 2304
+          "durationMs": 2304,
+          "audio_fr": "audio/cafe-020-fr-7f793790bdad.mp3",
+          "hash_fr": "7f793790bdad",
+          "bytes_fr": 11520,
+          "durationMs_fr": 1920
         }
       ]
     },
@@ -781,7 +1094,11 @@
           "audio": "audio/boodsch-001-d47ae86e2686.mp3",
           "hash": "d47ae86e2686",
           "bytes": 13824,
-          "durationMs": 2304
+          "durationMs": 2304,
+          "audio_fr": "audio/boodsch-001-fr-b4f1f7bab899.mp3",
+          "hash_fr": "b4f1f7bab899",
+          "bytes_fr": 15408,
+          "durationMs_fr": 2568
         },
         {
           "id": "boodsch-002",
@@ -790,7 +1107,11 @@
           "audio": "audio/boodsch-002-f29232e5d219.mp3",
           "hash": "f29232e5d219",
           "bytes": 12816,
-          "durationMs": 2136
+          "durationMs": 2136,
+          "audio_fr": "audio/boodsch-002-fr-44e6f3a575ff.mp3",
+          "hash_fr": "44e6f3a575ff",
+          "bytes_fr": 12672,
+          "durationMs_fr": 2112
         },
         {
           "id": "boodsch-003",
@@ -800,7 +1121,11 @@
           "audio": "audio/boodsch-003-d0cb8f1c768b.mp3",
           "hash": "d0cb8f1c768b",
           "bytes": 28512,
-          "durationMs": 4752
+          "durationMs": 4752,
+          "audio_fr": "audio/boodsch-003-fr-67d1f811c541.mp3",
+          "hash_fr": "67d1f811c541",
+          "bytes_fr": 27936,
+          "durationMs_fr": 4656
         },
         {
           "id": "boodsch-004",
@@ -810,7 +1135,11 @@
           "audio": "audio/boodsch-004-73cc9ddf6a90.mp3",
           "hash": "73cc9ddf6a90",
           "bytes": 14112,
-          "durationMs": 2352
+          "durationMs": 2352,
+          "audio_fr": "audio/boodsch-004-fr-df691eef1f89.mp3",
+          "hash_fr": "df691eef1f89",
+          "bytes_fr": 14976,
+          "durationMs_fr": 2496
         },
         {
           "id": "boodsch-005",
@@ -819,7 +1148,11 @@
           "audio": "audio/boodsch-005-d5a27d6b7c4c.mp3",
           "hash": "d5a27d6b7c4c",
           "bytes": 15840,
-          "durationMs": 2640
+          "durationMs": 2640,
+          "audio_fr": "audio/boodsch-005-fr-88457c9bbcf5.mp3",
+          "hash_fr": "88457c9bbcf5",
+          "bytes_fr": 14400,
+          "durationMs_fr": 2400
         },
         {
           "id": "boodsch-006",
@@ -828,7 +1161,11 @@
           "audio": "audio/boodsch-006-c947b0355b51.mp3",
           "hash": "c947b0355b51",
           "bytes": 19440,
-          "durationMs": 3240
+          "durationMs": 3240,
+          "audio_fr": "audio/boodsch-006-fr-1ac1cd4fb4e6.mp3",
+          "hash_fr": "1ac1cd4fb4e6",
+          "bytes_fr": 19296,
+          "durationMs_fr": 3216
         },
         {
           "id": "boodsch-007",
@@ -838,7 +1175,11 @@
           "audio": "audio/boodsch-007-94b011a952d1.mp3",
           "hash": "94b011a952d1",
           "bytes": 17856,
-          "durationMs": 2976
+          "durationMs": 2976,
+          "audio_fr": "audio/boodsch-007-fr-f7d4342b23c0.mp3",
+          "hash_fr": "f7d4342b23c0",
+          "bytes_fr": 17856,
+          "durationMs_fr": 2976
         },
         {
           "id": "boodsch-008",
@@ -848,7 +1189,11 @@
           "audio": "audio/boodsch-008-8152783c587b.mp3",
           "hash": "8152783c587b",
           "bytes": 12672,
-          "durationMs": 2112
+          "durationMs": 2112,
+          "audio_fr": "audio/boodsch-008-fr-bca0dbfab764.mp3",
+          "hash_fr": "bca0dbfab764",
+          "bytes_fr": 13968,
+          "durationMs_fr": 2328
         },
         {
           "id": "boodsch-009",
@@ -857,7 +1202,11 @@
           "audio": "audio/boodsch-009-99a9fc1313f6.mp3",
           "hash": "99a9fc1313f6",
           "bytes": 18720,
-          "durationMs": 3120
+          "durationMs": 3120,
+          "audio_fr": "audio/boodsch-009-fr-98db163ed37c.mp3",
+          "hash_fr": "98db163ed37c",
+          "bytes_fr": 18288,
+          "durationMs_fr": 3048
         },
         {
           "id": "boodsch-010",
@@ -866,7 +1215,11 @@
           "audio": "audio/boodsch-010-c7891846efed.mp3",
           "hash": "c7891846efed",
           "bytes": 11376,
-          "durationMs": 1896
+          "durationMs": 1896,
+          "audio_fr": "audio/boodsch-010-fr-1bcdefa890da.mp3",
+          "hash_fr": "1bcdefa890da",
+          "bytes_fr": 12096,
+          "durationMs_fr": 2016
         },
         {
           "id": "boodsch-011",
@@ -875,7 +1228,11 @@
           "audio": "audio/boodsch-011-21c6f5721af5.mp3",
           "hash": "21c6f5721af5",
           "bytes": 13104,
-          "durationMs": 2184
+          "durationMs": 2184,
+          "audio_fr": "audio/boodsch-011-fr-0903e6e1c145.mp3",
+          "hash_fr": "0903e6e1c145",
+          "bytes_fr": 12528,
+          "durationMs_fr": 2088
         },
         {
           "id": "boodsch-012",
@@ -884,7 +1241,11 @@
           "audio": "audio/boodsch-012-0752ed688f12.mp3",
           "hash": "0752ed688f12",
           "bytes": 14400,
-          "durationMs": 2400
+          "durationMs": 2400,
+          "audio_fr": "audio/boodsch-012-fr-468aa389cbed.mp3",
+          "hash_fr": "468aa389cbed",
+          "bytes_fr": 14688,
+          "durationMs_fr": 2448
         },
         {
           "id": "boodsch-013",
@@ -894,7 +1255,11 @@
           "audio": "audio/boodsch-013-18399561f5a9.mp3",
           "hash": "18399561f5a9",
           "bytes": 12384,
-          "durationMs": 2064
+          "durationMs": 2064,
+          "audio_fr": "audio/boodsch-013-fr-6bc13291e648.mp3",
+          "hash_fr": "6bc13291e648",
+          "bytes_fr": 12528,
+          "durationMs_fr": 2088
         },
         {
           "id": "boodsch-014",
@@ -903,7 +1268,11 @@
           "audio": "audio/boodsch-014-00ee308edc44.mp3",
           "hash": "00ee308edc44",
           "bytes": 14976,
-          "durationMs": 2496
+          "durationMs": 2496,
+          "audio_fr": "audio/boodsch-014-fr-55ed2dceffef.mp3",
+          "hash_fr": "55ed2dceffef",
+          "bytes_fr": 18144,
+          "durationMs_fr": 3024
         },
         {
           "id": "boodsch-015",
@@ -912,7 +1281,11 @@
           "audio": "audio/boodsch-015-fb0512e0b050.mp3",
           "hash": "fb0512e0b050",
           "bytes": 13248,
-          "durationMs": 2208
+          "durationMs": 2208,
+          "audio_fr": "audio/boodsch-015-fr-7abe141a53bf.mp3",
+          "hash_fr": "7abe141a53bf",
+          "bytes_fr": 13392,
+          "durationMs_fr": 2232
         },
         {
           "id": "boodsch-016",
@@ -921,7 +1294,11 @@
           "audio": "audio/boodsch-016-4332060dad99.mp3",
           "hash": "4332060dad99",
           "bytes": 12096,
-          "durationMs": 2016
+          "durationMs": 2016,
+          "audio_fr": "audio/boodsch-016-fr-25518b22af25.mp3",
+          "hash_fr": "25518b22af25",
+          "bytes_fr": 13392,
+          "durationMs_fr": 2232
         },
         {
           "id": "boodsch-017",
@@ -931,7 +1308,11 @@
           "audio": "audio/boodsch-017-b11e88ce0568.mp3",
           "hash": "b11e88ce0568",
           "bytes": 14832,
-          "durationMs": 2472
+          "durationMs": 2472,
+          "audio_fr": "audio/boodsch-017-fr-5ecbd8a40473.mp3",
+          "hash_fr": "5ecbd8a40473",
+          "bytes_fr": 15408,
+          "durationMs_fr": 2568
         },
         {
           "id": "boodsch-018",
@@ -940,7 +1321,11 @@
           "audio": "audio/boodsch-018-ec4115ecfd37.mp3",
           "hash": "ec4115ecfd37",
           "bytes": 14400,
-          "durationMs": 2400
+          "durationMs": 2400,
+          "audio_fr": "audio/boodsch-018-fr-4ad0d5c4f8e6.mp3",
+          "hash_fr": "4ad0d5c4f8e6",
+          "bytes_fr": 18720,
+          "durationMs_fr": 3120
         }
       ]
     },
@@ -957,7 +1342,11 @@
           "audio": "audio/werk-001-1dbfff2d3b0a.mp3",
           "hash": "1dbfff2d3b0a",
           "bytes": 20016,
-          "durationMs": 3336
+          "durationMs": 3336,
+          "audio_fr": "audio/werk-001-fr-e2f14fa00fc3.mp3",
+          "hash_fr": "e2f14fa00fc3",
+          "bytes_fr": 19584,
+          "durationMs_fr": 3264
         },
         {
           "id": "werk-002",
@@ -966,7 +1355,11 @@
           "audio": "audio/werk-002-914bcf7fc21d.mp3",
           "hash": "914bcf7fc21d",
           "bytes": 20016,
-          "durationMs": 3336
+          "durationMs": 3336,
+          "audio_fr": "audio/werk-002-fr-471a0f04bf89.mp3",
+          "hash_fr": "471a0f04bf89",
+          "bytes_fr": 20880,
+          "durationMs_fr": 3480
         },
         {
           "id": "werk-003",
@@ -975,7 +1368,11 @@
           "audio": "audio/werk-003-8a2b6a71b679.mp3",
           "hash": "8a2b6a71b679",
           "bytes": 21312,
-          "durationMs": 3552
+          "durationMs": 3552,
+          "audio_fr": "audio/werk-003-fr-81e621e86834.mp3",
+          "hash_fr": "81e621e86834",
+          "bytes_fr": 20592,
+          "durationMs_fr": 3432
         },
         {
           "id": "werk-004",
@@ -985,7 +1382,11 @@
           "audio": "audio/werk-004-085a27b62ed6.mp3",
           "hash": "085a27b62ed6",
           "bytes": 21600,
-          "durationMs": 3600
+          "durationMs": 3600,
+          "audio_fr": "audio/werk-004-fr-8f73ca51db77.mp3",
+          "hash_fr": "8f73ca51db77",
+          "bytes_fr": 23040,
+          "durationMs_fr": 3840
         },
         {
           "id": "werk-005",
@@ -994,7 +1395,11 @@
           "audio": "audio/werk-005-ffb2c59d120d.mp3",
           "hash": "ffb2c59d120d",
           "bytes": 19296,
-          "durationMs": 3216
+          "durationMs": 3216,
+          "audio_fr": "audio/werk-005-fr-1535bb876258.mp3",
+          "hash_fr": "1535bb876258",
+          "bytes_fr": 18144,
+          "durationMs_fr": 3024
         },
         {
           "id": "werk-006",
@@ -1004,7 +1409,11 @@
           "audio": "audio/werk-006-6b19dbc488c8.mp3",
           "hash": "6b19dbc488c8",
           "bytes": 16704,
-          "durationMs": 2784
+          "durationMs": 2784,
+          "audio_fr": "audio/werk-006-fr-57ef95867221.mp3",
+          "hash_fr": "57ef95867221",
+          "bytes_fr": 21168,
+          "durationMs_fr": 3528
         },
         {
           "id": "werk-007",
@@ -1013,7 +1422,11 @@
           "audio": "audio/werk-007-c449429b1143.mp3",
           "hash": "c449429b1143",
           "bytes": 24336,
-          "durationMs": 4056
+          "durationMs": 4056,
+          "audio_fr": "audio/werk-007-fr-ea968cbfeb0e.mp3",
+          "hash_fr": "ea968cbfeb0e",
+          "bytes_fr": 24912,
+          "durationMs_fr": 4152
         },
         {
           "id": "werk-008",
@@ -1022,7 +1435,11 @@
           "audio": "audio/werk-008-77b23b8fa176.mp3",
           "hash": "77b23b8fa176",
           "bytes": 15984,
-          "durationMs": 2664
+          "durationMs": 2664,
+          "audio_fr": "audio/werk-008-fr-532ef8af1f79.mp3",
+          "hash_fr": "532ef8af1f79",
+          "bytes_fr": 17280,
+          "durationMs_fr": 2880
         },
         {
           "id": "werk-009",
@@ -1031,7 +1448,11 @@
           "audio": "audio/werk-009-5752d5f7dc14.mp3",
           "hash": "5752d5f7dc14",
           "bytes": 17280,
-          "durationMs": 2880
+          "durationMs": 2880,
+          "audio_fr": "audio/werk-009-fr-c20ab6b127ed.mp3",
+          "hash_fr": "c20ab6b127ed",
+          "bytes_fr": 19008,
+          "durationMs_fr": 3168
         },
         {
           "id": "werk-010",
@@ -1040,7 +1461,11 @@
           "audio": "audio/werk-010-bb90337bc757.mp3",
           "hash": "bb90337bc757",
           "bytes": 21744,
-          "durationMs": 3624
+          "durationMs": 3624,
+          "audio_fr": "audio/werk-010-fr-e7be52c9ab64.mp3",
+          "hash_fr": "e7be52c9ab64",
+          "bytes_fr": 19008,
+          "durationMs_fr": 3168
         },
         {
           "id": "werk-011",
@@ -1049,7 +1474,11 @@
           "audio": "audio/werk-011-b6a4cd5cf1d0.mp3",
           "hash": "b6a4cd5cf1d0",
           "bytes": 20592,
-          "durationMs": 3432
+          "durationMs": 3432,
+          "audio_fr": "audio/werk-011-fr-59b7cac3f9a1.mp3",
+          "hash_fr": "59b7cac3f9a1",
+          "bytes_fr": 22032,
+          "durationMs_fr": 3672
         },
         {
           "id": "werk-012",
@@ -1059,7 +1488,11 @@
           "audio": "audio/werk-012-ba7632c3dc48.mp3",
           "hash": "ba7632c3dc48",
           "bytes": 17712,
-          "durationMs": 2952
+          "durationMs": 2952,
+          "audio_fr": "audio/werk-012-fr-dfa6888ffb60.mp3",
+          "hash_fr": "dfa6888ffb60",
+          "bytes_fr": 17424,
+          "durationMs_fr": 2904
         },
         {
           "id": "werk-013",
@@ -1068,7 +1501,11 @@
           "audio": "audio/werk-013-17a366b0d9bd.mp3",
           "hash": "17a366b0d9bd",
           "bytes": 22608,
-          "durationMs": 3768
+          "durationMs": 3768,
+          "audio_fr": "audio/werk-013-fr-17099fb17c7e.mp3",
+          "hash_fr": "17099fb17c7e",
+          "bytes_fr": 20736,
+          "durationMs_fr": 3456
         },
         {
           "id": "werk-014",
@@ -1077,7 +1514,11 @@
           "audio": "audio/werk-014-fd473f586a7b.mp3",
           "hash": "fd473f586a7b",
           "bytes": 19152,
-          "durationMs": 3192
+          "durationMs": 3192,
+          "audio_fr": "audio/werk-014-fr-bf424f9dbbe3.mp3",
+          "hash_fr": "bf424f9dbbe3",
+          "bytes_fr": 18864,
+          "durationMs_fr": 3144
         },
         {
           "id": "werk-015",
@@ -1086,7 +1527,11 @@
           "audio": "audio/werk-015-32bc97fd4e06.mp3",
           "hash": "32bc97fd4e06",
           "bytes": 20592,
-          "durationMs": 3432
+          "durationMs": 3432,
+          "audio_fr": "audio/werk-015-fr-786b20aea63a.mp3",
+          "hash_fr": "786b20aea63a",
+          "bytes_fr": 21024,
+          "durationMs_fr": 3504
         },
         {
           "id": "werk-016",
@@ -1095,7 +1540,11 @@
           "audio": "audio/werk-016-7ec022247cbe.mp3",
           "hash": "7ec022247cbe",
           "bytes": 25344,
-          "durationMs": 4224
+          "durationMs": 4224,
+          "audio_fr": "audio/werk-016-fr-e404dbd5f543.mp3",
+          "hash_fr": "e404dbd5f543",
+          "bytes_fr": 27216,
+          "durationMs_fr": 4536
         },
         {
           "id": "werk-017",
@@ -1105,7 +1554,11 @@
           "audio": "audio/werk-017-ea2ad5e3ede9.mp3",
           "hash": "ea2ad5e3ede9",
           "bytes": 16992,
-          "durationMs": 2832
+          "durationMs": 2832,
+          "audio_fr": "audio/werk-017-fr-df86d9b6dfc9.mp3",
+          "hash_fr": "df86d9b6dfc9",
+          "bytes_fr": 16416,
+          "durationMs_fr": 2736
         },
         {
           "id": "werk-018",
@@ -1115,7 +1568,11 @@
           "audio": "audio/werk-018-39ad593f63aa.mp3",
           "hash": "39ad593f63aa",
           "bytes": 19584,
-          "durationMs": 3264
+          "durationMs": 3264,
+          "audio_fr": "audio/werk-018-fr-868ca171b712.mp3",
+          "hash_fr": "868ca171b712",
+          "bytes_fr": 24192,
+          "durationMs_fr": 4032
         },
         {
           "id": "werk-019",
@@ -1124,7 +1581,11 @@
           "audio": "audio/werk-019-ec18c466cd19.mp3",
           "hash": "ec18c466cd19",
           "bytes": 21600,
-          "durationMs": 3600
+          "durationMs": 3600,
+          "audio_fr": "audio/werk-019-fr-c00d4ff8a851.mp3",
+          "hash_fr": "c00d4ff8a851",
+          "bytes_fr": 27648,
+          "durationMs_fr": 4608
         },
         {
           "id": "werk-020",
@@ -1133,7 +1594,11 @@
           "audio": "audio/werk-020-9c81251d1dbd.mp3",
           "hash": "9c81251d1dbd",
           "bytes": 23184,
-          "durationMs": 3864
+          "durationMs": 3864,
+          "audio_fr": "audio/werk-020-fr-f7c76dd3dd5f.mp3",
+          "hash_fr": "f7c76dd3dd5f",
+          "bytes_fr": 24336,
+          "durationMs_fr": 4056
         }
       ]
     },
@@ -1150,7 +1615,11 @@
           "audio": "audio/stad-001-3dfcc0cc87f1.mp3",
           "hash": "3dfcc0cc87f1",
           "bytes": 17280,
-          "durationMs": 2880
+          "durationMs": 2880,
+          "audio_fr": "audio/stad-001-fr-da883a81d955.mp3",
+          "hash_fr": "da883a81d955",
+          "bytes_fr": 19872,
+          "durationMs_fr": 3312
         },
         {
           "id": "stad-002",
@@ -1160,7 +1629,11 @@
           "audio": "audio/stad-002-4cdaeba7a916.mp3",
           "hash": "4cdaeba7a916",
           "bytes": 20304,
-          "durationMs": 3384
+          "durationMs": 3384,
+          "audio_fr": "audio/stad-002-fr-e32e64efbf84.mp3",
+          "hash_fr": "e32e64efbf84",
+          "bytes_fr": 19296,
+          "durationMs_fr": 3216
         },
         {
           "id": "stad-003",
@@ -1170,7 +1643,11 @@
           "audio": "audio/stad-003-473513d01595.mp3",
           "hash": "473513d01595",
           "bytes": 19152,
-          "durationMs": 3192
+          "durationMs": 3192,
+          "audio_fr": "audio/stad-003-fr-ed4880076c19.mp3",
+          "hash_fr": "ed4880076c19",
+          "bytes_fr": 22752,
+          "durationMs_fr": 3792
         },
         {
           "id": "stad-004",
@@ -1179,7 +1656,11 @@
           "audio": "audio/stad-004-e50469eb617b.mp3",
           "hash": "e50469eb617b",
           "bytes": 19008,
-          "durationMs": 3168
+          "durationMs": 3168,
+          "audio_fr": "audio/stad-004-fr-64d54d4d8be2.mp3",
+          "hash_fr": "64d54d4d8be2",
+          "bytes_fr": 21456,
+          "durationMs_fr": 3576
         },
         {
           "id": "stad-005",
@@ -1188,7 +1669,11 @@
           "audio": "audio/stad-005-e1faea824177.mp3",
           "hash": "e1faea824177",
           "bytes": 20880,
-          "durationMs": 3480
+          "durationMs": 3480,
+          "audio_fr": "audio/stad-005-fr-69ee4e1d4f6e.mp3",
+          "hash_fr": "69ee4e1d4f6e",
+          "bytes_fr": 22320,
+          "durationMs_fr": 3720
         },
         {
           "id": "stad-006",
@@ -1197,7 +1682,11 @@
           "audio": "audio/stad-006-66ae18dbf115.mp3",
           "hash": "66ae18dbf115",
           "bytes": 21168,
-          "durationMs": 3528
+          "durationMs": 3528,
+          "audio_fr": "audio/stad-006-fr-ffd56c4eda71.mp3",
+          "hash_fr": "ffd56c4eda71",
+          "bytes_fr": 22608,
+          "durationMs_fr": 3768
         },
         {
           "id": "stad-007",
@@ -1206,7 +1695,11 @@
           "audio": "audio/stad-007-c111578e7d45.mp3",
           "hash": "c111578e7d45",
           "bytes": 22320,
-          "durationMs": 3720
+          "durationMs": 3720,
+          "audio_fr": "audio/stad-007-fr-3b3da2101832.mp3",
+          "hash_fr": "3b3da2101832",
+          "bytes_fr": 25056,
+          "durationMs_fr": 4176
         },
         {
           "id": "stad-008",
@@ -1215,7 +1708,11 @@
           "audio": "audio/stad-008-9aade9160bcc.mp3",
           "hash": "9aade9160bcc",
           "bytes": 19584,
-          "durationMs": 3264
+          "durationMs": 3264,
+          "audio_fr": "audio/stad-008-fr-8e350e589c92.mp3",
+          "hash_fr": "8e350e589c92",
+          "bytes_fr": 18000,
+          "durationMs_fr": 3000
         },
         {
           "id": "stad-009",
@@ -1224,7 +1721,11 @@
           "audio": "audio/stad-009-3f433ab414f7.mp3",
           "hash": "3f433ab414f7",
           "bytes": 21168,
-          "durationMs": 3528
+          "durationMs": 3528,
+          "audio_fr": "audio/stad-009-fr-bced46110b71.mp3",
+          "hash_fr": "bced46110b71",
+          "bytes_fr": 25344,
+          "durationMs_fr": 4224
         },
         {
           "id": "stad-010",
@@ -1233,7 +1734,11 @@
           "audio": "audio/stad-010-4d2995bb28d6.mp3",
           "hash": "4d2995bb28d6",
           "bytes": 20880,
-          "durationMs": 3480
+          "durationMs": 3480,
+          "audio_fr": "audio/stad-010-fr-e4fdd64b954e.mp3",
+          "hash_fr": "e4fdd64b954e",
+          "bytes_fr": 20304,
+          "durationMs_fr": 3384
         },
         {
           "id": "stad-011",
@@ -1242,7 +1747,11 @@
           "audio": "audio/stad-011-44e694c353ea.mp3",
           "hash": "44e694c353ea",
           "bytes": 18000,
-          "durationMs": 3000
+          "durationMs": 3000,
+          "audio_fr": "audio/stad-011-fr-fb0fd6ef6097.mp3",
+          "hash_fr": "fb0fd6ef6097",
+          "bytes_fr": 21168,
+          "durationMs_fr": 3528
         },
         {
           "id": "stad-012",
@@ -1251,7 +1760,11 @@
           "audio": "audio/stad-012-51d90ce44334.mp3",
           "hash": "51d90ce44334",
           "bytes": 20016,
-          "durationMs": 3336
+          "durationMs": 3336,
+          "audio_fr": "audio/stad-012-fr-e064fdf52107.mp3",
+          "hash_fr": "e064fdf52107",
+          "bytes_fr": 18864,
+          "durationMs_fr": 3144
         },
         {
           "id": "stad-013",
@@ -1261,7 +1774,11 @@
           "audio": "audio/stad-013-b53ff734c64c.mp3",
           "hash": "b53ff734c64c",
           "bytes": 17136,
-          "durationMs": 2856
+          "durationMs": 2856,
+          "audio_fr": "audio/stad-013-fr-a68686421913.mp3",
+          "hash_fr": "a68686421913",
+          "bytes_fr": 16848,
+          "durationMs_fr": 2808
         },
         {
           "id": "stad-014",
@@ -1270,7 +1787,11 @@
           "audio": "audio/stad-014-352d43d6ef82.mp3",
           "hash": "352d43d6ef82",
           "bytes": 21024,
-          "durationMs": 3504
+          "durationMs": 3504,
+          "audio_fr": "audio/stad-014-fr-7520ffa620fb.mp3",
+          "hash_fr": "7520ffa620fb",
+          "bytes_fr": 20880,
+          "durationMs_fr": 3480
         },
         {
           "id": "stad-015",
@@ -1279,7 +1800,11 @@
           "audio": "audio/stad-015-45305101aed1.mp3",
           "hash": "45305101aed1",
           "bytes": 17568,
-          "durationMs": 2928
+          "durationMs": 2928,
+          "audio_fr": "audio/stad-015-fr-a68de35f277c.mp3",
+          "hash_fr": "a68de35f277c",
+          "bytes_fr": 20880,
+          "durationMs_fr": 3480
         },
         {
           "id": "stad-016",
@@ -1289,7 +1814,11 @@
           "audio": "audio/stad-016-37292e6b5f21.mp3",
           "hash": "37292e6b5f21",
           "bytes": 18576,
-          "durationMs": 3096
+          "durationMs": 3096,
+          "audio_fr": "audio/stad-016-fr-76be6c68da38.mp3",
+          "hash_fr": "76be6c68da38",
+          "bytes_fr": 20304,
+          "durationMs_fr": 3384
         },
         {
           "id": "stad-017",
@@ -1299,7 +1828,11 @@
           "audio": "audio/stad-017-0eccae31e8bf.mp3",
           "hash": "0eccae31e8bf",
           "bytes": 13680,
-          "durationMs": 2280
+          "durationMs": 2280,
+          "audio_fr": "audio/stad-017-fr-d82df6cb16b4.mp3",
+          "hash_fr": "d82df6cb16b4",
+          "bytes_fr": 13248,
+          "durationMs_fr": 2208
         },
         {
           "id": "stad-018",
@@ -1309,7 +1842,11 @@
           "audio": "audio/stad-018-857c44858ed9.mp3",
           "hash": "857c44858ed9",
           "bytes": 17712,
-          "durationMs": 2952
+          "durationMs": 2952,
+          "audio_fr": "audio/stad-018-fr-71e8d492371c.mp3",
+          "hash_fr": "71e8d492371c",
+          "bytes_fr": 19584,
+          "durationMs_fr": 3264
         }
       ]
     },
@@ -1327,7 +1864,11 @@
           "audio": "audio/tijd-001-8e3a8ce7efa7.mp3",
           "hash": "8e3a8ce7efa7",
           "bytes": 12528,
-          "durationMs": 2088
+          "durationMs": 2088,
+          "audio_fr": "audio/tijd-001-fr-996e96f3a409.mp3",
+          "hash_fr": "996e96f3a409",
+          "bytes_fr": 12672,
+          "durationMs_fr": 2112
         },
         {
           "id": "tijd-002",
@@ -1336,7 +1877,11 @@
           "audio": "audio/tijd-002-7025ee472012.mp3",
           "hash": "7025ee472012",
           "bytes": 12960,
-          "durationMs": 2160
+          "durationMs": 2160,
+          "audio_fr": "audio/tijd-002-fr-da7a358eb07d.mp3",
+          "hash_fr": "da7a358eb07d",
+          "bytes_fr": 13392,
+          "durationMs_fr": 2232
         },
         {
           "id": "tijd-003",
@@ -1345,7 +1890,11 @@
           "audio": "audio/tijd-003-8e61c54e803e.mp3",
           "hash": "8e61c54e803e",
           "bytes": 13248,
-          "durationMs": 2208
+          "durationMs": 2208,
+          "audio_fr": "audio/tijd-003-fr-29073f05fb9a.mp3",
+          "hash_fr": "29073f05fb9a",
+          "bytes_fr": 14400,
+          "durationMs_fr": 2400
         },
         {
           "id": "tijd-004",
@@ -1355,7 +1904,11 @@
           "audio": "audio/tijd-004-474412cdc4bf.mp3",
           "hash": "474412cdc4bf",
           "bytes": 14544,
-          "durationMs": 2424
+          "durationMs": 2424,
+          "audio_fr": "audio/tijd-004-fr-f25799232618.mp3",
+          "hash_fr": "f25799232618",
+          "bytes_fr": 14832,
+          "durationMs_fr": 2472
         },
         {
           "id": "tijd-005",
@@ -1364,7 +1917,11 @@
           "audio": "audio/tijd-005-8a1576bdb084.mp3",
           "hash": "8a1576bdb084",
           "bytes": 16128,
-          "durationMs": 2688
+          "durationMs": 2688,
+          "audio_fr": "audio/tijd-005-fr-8e864f4ebb16.mp3",
+          "hash_fr": "8e864f4ebb16",
+          "bytes_fr": 14400,
+          "durationMs_fr": 2400
         },
         {
           "id": "tijd-006",
@@ -1373,7 +1930,11 @@
           "audio": "audio/tijd-006-d8ba7dcaf437.mp3",
           "hash": "d8ba7dcaf437",
           "bytes": 13392,
-          "durationMs": 2232
+          "durationMs": 2232,
+          "audio_fr": "audio/tijd-006-fr-eec1aa985ef4.mp3",
+          "hash_fr": "eec1aa985ef4",
+          "bytes_fr": 14112,
+          "durationMs_fr": 2352
         },
         {
           "id": "tijd-007",
@@ -1383,7 +1944,11 @@
           "audio": "audio/tijd-007-7c7a1e9a475b.mp3",
           "hash": "7c7a1e9a475b",
           "bytes": 19728,
-          "durationMs": 3288
+          "durationMs": 3288,
+          "audio_fr": "audio/tijd-007-fr-40d2a5626fdc.mp3",
+          "hash_fr": "40d2a5626fdc",
+          "bytes_fr": 20304,
+          "durationMs_fr": 3384
         },
         {
           "id": "tijd-008",
@@ -1392,7 +1957,11 @@
           "audio": "audio/tijd-008-140d2d19be20.mp3",
           "hash": "140d2d19be20",
           "bytes": 15552,
-          "durationMs": 2592
+          "durationMs": 2592,
+          "audio_fr": "audio/tijd-008-fr-3ca3619c94ba.mp3",
+          "hash_fr": "3ca3619c94ba",
+          "bytes_fr": 15984,
+          "durationMs_fr": 2664
         },
         {
           "id": "tijd-009",
@@ -1401,7 +1970,11 @@
           "audio": "audio/tijd-009-006a6e470271.mp3",
           "hash": "006a6e470271",
           "bytes": 18288,
-          "durationMs": 3048
+          "durationMs": 3048,
+          "audio_fr": "audio/tijd-009-fr-0b563ae3724f.mp3",
+          "hash_fr": "0b563ae3724f",
+          "bytes_fr": 16704,
+          "durationMs_fr": 2784
         },
         {
           "id": "tijd-010",
@@ -1410,7 +1983,11 @@
           "audio": "audio/tijd-010-672be88b7eb9.mp3",
           "hash": "672be88b7eb9",
           "bytes": 13680,
-          "durationMs": 2280
+          "durationMs": 2280,
+          "audio_fr": "audio/tijd-010-fr-f3bcef6911f8.mp3",
+          "hash_fr": "f3bcef6911f8",
+          "bytes_fr": 13968,
+          "durationMs_fr": 2328
         },
         {
           "id": "tijd-011",
@@ -1419,7 +1996,11 @@
           "audio": "audio/tijd-011-9749f076a2ac.mp3",
           "hash": "9749f076a2ac",
           "bytes": 12528,
-          "durationMs": 2088
+          "durationMs": 2088,
+          "audio_fr": "audio/tijd-011-fr-540011d5032b.mp3",
+          "hash_fr": "540011d5032b",
+          "bytes_fr": 12672,
+          "durationMs_fr": 2112
         },
         {
           "id": "tijd-012",
@@ -1428,7 +2009,11 @@
           "audio": "audio/tijd-012-09b7d18e620c.mp3",
           "hash": "09b7d18e620c",
           "bytes": 15840,
-          "durationMs": 2640
+          "durationMs": 2640,
+          "audio_fr": "audio/tijd-012-fr-5000a1dff8ca.mp3",
+          "hash_fr": "5000a1dff8ca",
+          "bytes_fr": 16560,
+          "durationMs_fr": 2760
         },
         {
           "id": "tijd-013",
@@ -1437,7 +2022,11 @@
           "audio": "audio/tijd-013-843eb30bdce3.mp3",
           "hash": "843eb30bdce3",
           "bytes": 14400,
-          "durationMs": 2400
+          "durationMs": 2400,
+          "audio_fr": "audio/tijd-013-fr-e2ff95422923.mp3",
+          "hash_fr": "e2ff95422923",
+          "bytes_fr": 13968,
+          "durationMs_fr": 2328
         },
         {
           "id": "tijd-014",
@@ -1446,7 +2035,11 @@
           "audio": "audio/tijd-014-e298be0667dc.mp3",
           "hash": "e298be0667dc",
           "bytes": 15552,
-          "durationMs": 2592
+          "durationMs": 2592,
+          "audio_fr": "audio/tijd-014-fr-9bbfcf3def8a.mp3",
+          "hash_fr": "9bbfcf3def8a",
+          "bytes_fr": 18000,
+          "durationMs_fr": 3000
         },
         {
           "id": "tijd-015",
@@ -1455,7 +2048,11 @@
           "audio": "audio/tijd-015-444c6e94679b.mp3",
           "hash": "444c6e94679b",
           "bytes": 16992,
-          "durationMs": 2832
+          "durationMs": 2832,
+          "audio_fr": "audio/tijd-015-fr-47b84dad8cea.mp3",
+          "hash_fr": "47b84dad8cea",
+          "bytes_fr": 14976,
+          "durationMs_fr": 2496
         },
         {
           "id": "tijd-016",
@@ -1464,7 +2061,11 @@
           "audio": "audio/tijd-016-0a9cc8d2b14d.mp3",
           "hash": "0a9cc8d2b14d",
           "bytes": 17856,
-          "durationMs": 2976
+          "durationMs": 2976,
+          "audio_fr": "audio/tijd-016-fr-87a81f3ba85f.mp3",
+          "hash_fr": "87a81f3ba85f",
+          "bytes_fr": 21312,
+          "durationMs_fr": 3552
         },
         {
           "id": "tijd-017",
@@ -1473,7 +2074,11 @@
           "audio": "audio/tijd-017-df9919c33265.mp3",
           "hash": "df9919c33265",
           "bytes": 11520,
-          "durationMs": 1920
+          "durationMs": 1920,
+          "audio_fr": "audio/tijd-017-fr-aa408789243f.mp3",
+          "hash_fr": "aa408789243f",
+          "bytes_fr": 13248,
+          "durationMs_fr": 2208
         },
         {
           "id": "tijd-018",
@@ -1482,7 +2087,11 @@
           "audio": "audio/tijd-018-90e8c03a3fa0.mp3",
           "hash": "90e8c03a3fa0",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/tijd-018-fr-f3ff40833cec.mp3",
+          "hash_fr": "f3ff40833cec",
+          "bytes_fr": 15552,
+          "durationMs_fr": 2592
         }
       ]
     },
@@ -1499,7 +2108,11 @@
           "audio": "audio/trein-001-6a58662c58b2.mp3",
           "hash": "6a58662c58b2",
           "bytes": 17712,
-          "durationMs": 2952
+          "durationMs": 2952,
+          "audio_fr": "audio/trein-001-fr-a7ea4945da5c.mp3",
+          "hash_fr": "a7ea4945da5c",
+          "bytes_fr": 16848,
+          "durationMs_fr": 2808
         },
         {
           "id": "trein-002",
@@ -1508,7 +2121,11 @@
           "audio": "audio/trein-002-87d8bc7bbbbd.mp3",
           "hash": "87d8bc7bbbbd",
           "bytes": 14544,
-          "durationMs": 2424
+          "durationMs": 2424,
+          "audio_fr": "audio/trein-002-fr-7b940d49509d.mp3",
+          "hash_fr": "7b940d49509d",
+          "bytes_fr": 14688,
+          "durationMs_fr": 2448
         },
         {
           "id": "trein-003",
@@ -1517,7 +2134,11 @@
           "audio": "audio/trein-003-e3e1a8f06ae4.mp3",
           "hash": "e3e1a8f06ae4",
           "bytes": 15840,
-          "durationMs": 2640
+          "durationMs": 2640,
+          "audio_fr": "audio/trein-003-fr-4a9f09e9b166.mp3",
+          "hash_fr": "4a9f09e9b166",
+          "bytes_fr": 16128,
+          "durationMs_fr": 2688
         },
         {
           "id": "trein-004",
@@ -1527,7 +2148,11 @@
           "audio": "audio/trein-004-8a02dfb51f48.mp3",
           "hash": "8a02dfb51f48",
           "bytes": 19872,
-          "durationMs": 3312
+          "durationMs": 3312,
+          "audio_fr": "audio/trein-004-fr-b8eb917178d5.mp3",
+          "hash_fr": "b8eb917178d5",
+          "bytes_fr": 15984,
+          "durationMs_fr": 2664
         },
         {
           "id": "trein-005",
@@ -1536,7 +2161,11 @@
           "audio": "audio/trein-005-fcc62de6831e.mp3",
           "hash": "fcc62de6831e",
           "bytes": 12240,
-          "durationMs": 2040
+          "durationMs": 2040,
+          "audio_fr": "audio/trein-005-fr-5a128302bcfc.mp3",
+          "hash_fr": "5a128302bcfc",
+          "bytes_fr": 13392,
+          "durationMs_fr": 2232
         },
         {
           "id": "trein-006",
@@ -1545,7 +2174,11 @@
           "audio": "audio/trein-006-1b9013ae5799.mp3",
           "hash": "1b9013ae5799",
           "bytes": 18288,
-          "durationMs": 3048
+          "durationMs": 3048,
+          "audio_fr": "audio/trein-006-fr-390126b86759.mp3",
+          "hash_fr": "390126b86759",
+          "bytes_fr": 17280,
+          "durationMs_fr": 2880
         },
         {
           "id": "trein-007",
@@ -1554,7 +2187,11 @@
           "audio": "audio/trein-007-92a6c074d751.mp3",
           "hash": "92a6c074d751",
           "bytes": 13248,
-          "durationMs": 2208
+          "durationMs": 2208,
+          "audio_fr": "audio/trein-007-fr-0ba144c8cad3.mp3",
+          "hash_fr": "0ba144c8cad3",
+          "bytes_fr": 14256,
+          "durationMs_fr": 2376
         },
         {
           "id": "trein-008",
@@ -1563,7 +2200,11 @@
           "audio": "audio/trein-008-bed0d8e61765.mp3",
           "hash": "bed0d8e61765",
           "bytes": 16416,
-          "durationMs": 2736
+          "durationMs": 2736,
+          "audio_fr": "audio/trein-008-fr-227776134cba.mp3",
+          "hash_fr": "227776134cba",
+          "bytes_fr": 14688,
+          "durationMs_fr": 2448
         },
         {
           "id": "trein-009",
@@ -1572,7 +2213,11 @@
           "audio": "audio/trein-009-ab6ec42e0fed.mp3",
           "hash": "ab6ec42e0fed",
           "bytes": 18288,
-          "durationMs": 3048
+          "durationMs": 3048,
+          "audio_fr": "audio/trein-009-fr-bc7b5264a46f.mp3",
+          "hash_fr": "bc7b5264a46f",
+          "bytes_fr": 17712,
+          "durationMs_fr": 2952
         },
         {
           "id": "trein-010",
@@ -1581,7 +2226,11 @@
           "audio": "audio/trein-010-70ebeeefca70.mp3",
           "hash": "70ebeeefca70",
           "bytes": 20448,
-          "durationMs": 3408
+          "durationMs": 3408,
+          "audio_fr": "audio/trein-010-fr-ebf078a949be.mp3",
+          "hash_fr": "ebf078a949be",
+          "bytes_fr": 22176,
+          "durationMs_fr": 3696
         },
         {
           "id": "trein-011",
@@ -1590,7 +2239,11 @@
           "audio": "audio/trein-011-e2c9b88244fe.mp3",
           "hash": "e2c9b88244fe",
           "bytes": 18432,
-          "durationMs": 3072
+          "durationMs": 3072,
+          "audio_fr": "audio/trein-011-fr-8d45273f0aa6.mp3",
+          "hash_fr": "8d45273f0aa6",
+          "bytes_fr": 19152,
+          "durationMs_fr": 3192
         },
         {
           "id": "trein-012",
@@ -1600,7 +2253,11 @@
           "audio": "audio/trein-012-9a028a8a2cf0.mp3",
           "hash": "9a028a8a2cf0",
           "bytes": 13392,
-          "durationMs": 2232
+          "durationMs": 2232,
+          "audio_fr": "audio/trein-012-fr-48ae8698593b.mp3",
+          "hash_fr": "48ae8698593b",
+          "bytes_fr": 12384,
+          "durationMs_fr": 2064
         },
         {
           "id": "trein-013",
@@ -1610,7 +2267,11 @@
           "audio": "audio/trein-013-9cc5540803f6.mp3",
           "hash": "9cc5540803f6",
           "bytes": 14256,
-          "durationMs": 2376
+          "durationMs": 2376,
+          "audio_fr": "audio/trein-013-fr-706cc4a7a173.mp3",
+          "hash_fr": "706cc4a7a173",
+          "bytes_fr": 16992,
+          "durationMs_fr": 2832
         },
         {
           "id": "trein-014",
@@ -1620,7 +2281,11 @@
           "audio": "audio/trein-014-3c738e44742b.mp3",
           "hash": "3c738e44742b",
           "bytes": 11664,
-          "durationMs": 1944
+          "durationMs": 1944,
+          "audio_fr": "audio/trein-014-fr-223e41a2d96f.mp3",
+          "hash_fr": "223e41a2d96f",
+          "bytes_fr": 12672,
+          "durationMs_fr": 2112
         },
         {
           "id": "trein-015",
@@ -1629,7 +2294,11 @@
           "audio": "audio/trein-015-241ae80b9fdd.mp3",
           "hash": "241ae80b9fdd",
           "bytes": 12528,
-          "durationMs": 2088
+          "durationMs": 2088,
+          "audio_fr": "audio/trein-015-fr-868db6d53f0f.mp3",
+          "hash_fr": "868db6d53f0f",
+          "bytes_fr": 11520,
+          "durationMs_fr": 1920
         },
         {
           "id": "trein-016",
@@ -1639,7 +2308,11 @@
           "audio": "audio/trein-016-ae98592dcda5.mp3",
           "hash": "ae98592dcda5",
           "bytes": 17568,
-          "durationMs": 2928
+          "durationMs": 2928,
+          "audio_fr": "audio/trein-016-fr-d3df41ff248a.mp3",
+          "hash_fr": "d3df41ff248a",
+          "bytes_fr": 18000,
+          "durationMs_fr": 3000
         }
       ]
     },
@@ -1656,7 +2329,11 @@
           "audio": "audio/smalltalk-001-38b1ee51f384.mp3",
           "hash": "38b1ee51f384",
           "bytes": 13968,
-          "durationMs": 2328
+          "durationMs": 2328,
+          "audio_fr": "audio/smalltalk-001-fr-129af0090f9a.mp3",
+          "hash_fr": "129af0090f9a",
+          "bytes_fr": 13680,
+          "durationMs_fr": 2280
         },
         {
           "id": "smalltalk-002",
@@ -1665,7 +2342,11 @@
           "audio": "audio/smalltalk-002-826f9074053a.mp3",
           "hash": "826f9074053a",
           "bytes": 12528,
-          "durationMs": 2088
+          "durationMs": 2088,
+          "audio_fr": "audio/smalltalk-002-fr-4b35e94d7ff0.mp3",
+          "hash_fr": "4b35e94d7ff0",
+          "bytes_fr": 11808,
+          "durationMs_fr": 1968
         },
         {
           "id": "smalltalk-003",
@@ -1675,7 +2356,11 @@
           "audio": "audio/smalltalk-003-ac584de43b03.mp3",
           "hash": "ac584de43b03",
           "bytes": 13104,
-          "durationMs": 2184
+          "durationMs": 2184,
+          "audio_fr": "audio/smalltalk-003-fr-9cc8a694b303.mp3",
+          "hash_fr": "9cc8a694b303",
+          "bytes_fr": 13104,
+          "durationMs_fr": 2184
         },
         {
           "id": "smalltalk-004",
@@ -1684,7 +2369,11 @@
           "audio": "audio/smalltalk-004-5d39cac5b875.mp3",
           "hash": "5d39cac5b875",
           "bytes": 13824,
-          "durationMs": 2304
+          "durationMs": 2304,
+          "audio_fr": "audio/smalltalk-004-fr-bfc2adba8b8d.mp3",
+          "hash_fr": "bfc2adba8b8d",
+          "bytes_fr": 17136,
+          "durationMs_fr": 2856
         },
         {
           "id": "smalltalk-005",
@@ -1693,7 +2382,11 @@
           "audio": "audio/smalltalk-005-61c73ac98c19.mp3",
           "hash": "61c73ac98c19",
           "bytes": 14976,
-          "durationMs": 2496
+          "durationMs": 2496,
+          "audio_fr": "audio/smalltalk-005-fr-7290b67120f5.mp3",
+          "hash_fr": "7290b67120f5",
+          "bytes_fr": 15552,
+          "durationMs_fr": 2592
         },
         {
           "id": "smalltalk-006",
@@ -1702,7 +2395,11 @@
           "audio": "audio/smalltalk-006-ce06a6656856.mp3",
           "hash": "ce06a6656856",
           "bytes": 15264,
-          "durationMs": 2544
+          "durationMs": 2544,
+          "audio_fr": "audio/smalltalk-006-fr-dacc37de9945.mp3",
+          "hash_fr": "dacc37de9945",
+          "bytes_fr": 16992,
+          "durationMs_fr": 2832
         },
         {
           "id": "smalltalk-007",
@@ -1711,7 +2408,11 @@
           "audio": "audio/smalltalk-007-c6500cad7399.mp3",
           "hash": "c6500cad7399",
           "bytes": 11952,
-          "durationMs": 1992
+          "durationMs": 1992,
+          "audio_fr": "audio/smalltalk-007-fr-e0e1a8b0b588.mp3",
+          "hash_fr": "e0e1a8b0b588",
+          "bytes_fr": 15120,
+          "durationMs_fr": 2520
         },
         {
           "id": "smalltalk-008",
@@ -1720,7 +2421,11 @@
           "audio": "audio/smalltalk-008-1759d2133426.mp3",
           "hash": "1759d2133426",
           "bytes": 21888,
-          "durationMs": 3648
+          "durationMs": 3648,
+          "audio_fr": "audio/smalltalk-008-fr-63d83c155632.mp3",
+          "hash_fr": "63d83c155632",
+          "bytes_fr": 22752,
+          "durationMs_fr": 3792
         },
         {
           "id": "smalltalk-009",
@@ -1729,7 +2434,11 @@
           "audio": "audio/smalltalk-009-3c6f2d06ccf0.mp3",
           "hash": "3c6f2d06ccf0",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/smalltalk-009-fr-b280ce71adf8.mp3",
+          "hash_fr": "b280ce71adf8",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "smalltalk-010",
@@ -1738,7 +2447,11 @@
           "audio": "audio/smalltalk-010-a25c6224a762.mp3",
           "hash": "a25c6224a762",
           "bytes": 12096,
-          "durationMs": 2016
+          "durationMs": 2016,
+          "audio_fr": "audio/smalltalk-010-fr-2064c9df672c.mp3",
+          "hash_fr": "2064c9df672c",
+          "bytes_fr": 13968,
+          "durationMs_fr": 2328
         },
         {
           "id": "smalltalk-011",
@@ -1748,7 +2461,11 @@
           "audio": "audio/smalltalk-011-17fd2d2b8669.mp3",
           "hash": "17fd2d2b8669",
           "bytes": 15264,
-          "durationMs": 2544
+          "durationMs": 2544,
+          "audio_fr": "audio/smalltalk-011-fr-a0a613571bfe.mp3",
+          "hash_fr": "a0a613571bfe",
+          "bytes_fr": 13392,
+          "durationMs_fr": 2232
         },
         {
           "id": "smalltalk-012",
@@ -1757,7 +2474,11 @@
           "audio": "audio/smalltalk-012-0d0a562a78c2.mp3",
           "hash": "0d0a562a78c2",
           "bytes": 15408,
-          "durationMs": 2568
+          "durationMs": 2568,
+          "audio_fr": "audio/smalltalk-012-fr-39faa5f882f5.mp3",
+          "hash_fr": "39faa5f882f5",
+          "bytes_fr": 14976,
+          "durationMs_fr": 2496
         },
         {
           "id": "smalltalk-013",
@@ -1766,7 +2487,11 @@
           "audio": "audio/smalltalk-013-52fc5ef01f18.mp3",
           "hash": "52fc5ef01f18",
           "bytes": 14688,
-          "durationMs": 2448
+          "durationMs": 2448,
+          "audio_fr": "audio/smalltalk-013-fr-466e44b6af46.mp3",
+          "hash_fr": "466e44b6af46",
+          "bytes_fr": 15984,
+          "durationMs_fr": 2664
         },
         {
           "id": "smalltalk-014",
@@ -1776,7 +2501,11 @@
           "audio": "audio/smalltalk-014-6ddee2efc8a8.mp3",
           "hash": "6ddee2efc8a8",
           "bytes": 16560,
-          "durationMs": 2760
+          "durationMs": 2760,
+          "audio_fr": "audio/smalltalk-014-fr-78114e9df2fc.mp3",
+          "hash_fr": "78114e9df2fc",
+          "bytes_fr": 17280,
+          "durationMs_fr": 2880
         },
         {
           "id": "smalltalk-015",
@@ -1785,7 +2514,11 @@
           "audio": "audio/smalltalk-015-b7ceaaafb24d.mp3",
           "hash": "b7ceaaafb24d",
           "bytes": 12096,
-          "durationMs": 2016
+          "durationMs": 2016,
+          "audio_fr": "audio/smalltalk-015-fr-2969093ba8b4.mp3",
+          "hash_fr": "2969093ba8b4",
+          "bytes_fr": 12384,
+          "durationMs_fr": 2064
         },
         {
           "id": "smalltalk-016",
@@ -1794,7 +2527,11 @@
           "audio": "audio/smalltalk-016-0eb1c12fa17e.mp3",
           "hash": "0eb1c12fa17e",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/smalltalk-016-fr-29f45faa9b3b.mp3",
+          "hash_fr": "29f45faa9b3b",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         }
       ]
     },
@@ -1811,7 +2548,11 @@
           "audio": "audio/praten-001-3152bccc4733.mp3",
           "hash": "3152bccc4733",
           "bytes": 14256,
-          "durationMs": 2376
+          "durationMs": 2376,
+          "audio_fr": "audio/praten-001-fr-5d84554649cb.mp3",
+          "hash_fr": "5d84554649cb",
+          "bytes_fr": 15552,
+          "durationMs_fr": 2592
         },
         {
           "id": "praten-002",
@@ -1820,7 +2561,11 @@
           "audio": "audio/praten-002-45249e3aad87.mp3",
           "hash": "45249e3aad87",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/praten-002-fr-9239e1897032.mp3",
+          "hash_fr": "9239e1897032",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "praten-003",
@@ -1829,7 +2574,11 @@
           "audio": "audio/praten-003-14f43e1f5e93.mp3",
           "hash": "14f43e1f5e93",
           "bytes": 12816,
-          "durationMs": 2136
+          "durationMs": 2136,
+          "audio_fr": "audio/praten-003-fr-30b914772da3.mp3",
+          "hash_fr": "30b914772da3",
+          "bytes_fr": 14544,
+          "durationMs_fr": 2424
         },
         {
           "id": "praten-004",
@@ -1838,7 +2587,11 @@
           "audio": "audio/praten-004-2590f417f42b.mp3",
           "hash": "2590f417f42b",
           "bytes": 16704,
-          "durationMs": 2784
+          "durationMs": 2784,
+          "audio_fr": "audio/praten-004-fr-9c75a8ca7aa7.mp3",
+          "hash_fr": "9c75a8ca7aa7",
+          "bytes_fr": 18432,
+          "durationMs_fr": 3072
         },
         {
           "id": "praten-005",
@@ -1847,7 +2600,11 @@
           "audio": "audio/praten-005-9e8ad4c26d99.mp3",
           "hash": "9e8ad4c26d99",
           "bytes": 14544,
-          "durationMs": 2424
+          "durationMs": 2424,
+          "audio_fr": "audio/praten-005-fr-d16b8fdfdcd2.mp3",
+          "hash_fr": "d16b8fdfdcd2",
+          "bytes_fr": 16416,
+          "durationMs_fr": 2736
         },
         {
           "id": "praten-006",
@@ -1856,7 +2613,11 @@
           "audio": "audio/praten-006-9c35557e3994.mp3",
           "hash": "9c35557e3994",
           "bytes": 13248,
-          "durationMs": 2208
+          "durationMs": 2208,
+          "audio_fr": "audio/praten-006-fr-6575752729b7.mp3",
+          "hash_fr": "6575752729b7",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "praten-007",
@@ -1865,7 +2626,11 @@
           "audio": "audio/praten-007-a9113ebdf59c.mp3",
           "hash": "a9113ebdf59c",
           "bytes": 12672,
-          "durationMs": 2112
+          "durationMs": 2112,
+          "audio_fr": "audio/praten-007-fr-2b41134588ca.mp3",
+          "hash_fr": "2b41134588ca",
+          "bytes_fr": 13248,
+          "durationMs_fr": 2208
         },
         {
           "id": "praten-008",
@@ -1874,7 +2639,11 @@
           "audio": "audio/praten-008-d69893626d8c.mp3",
           "hash": "d69893626d8c",
           "bytes": 13968,
-          "durationMs": 2328
+          "durationMs": 2328,
+          "audio_fr": "audio/praten-008-fr-4d793de8c861.mp3",
+          "hash_fr": "4d793de8c861",
+          "bytes_fr": 14544,
+          "durationMs_fr": 2424
         },
         {
           "id": "praten-009",
@@ -1883,7 +2652,11 @@
           "audio": "audio/praten-009-4f57f382ce35.mp3",
           "hash": "4f57f382ce35",
           "bytes": 12528,
-          "durationMs": 2088
+          "durationMs": 2088,
+          "audio_fr": "audio/praten-009-fr-630af4d469e1.mp3",
+          "hash_fr": "630af4d469e1",
+          "bytes_fr": 12240,
+          "durationMs_fr": 2040
         },
         {
           "id": "praten-010",
@@ -1893,7 +2666,11 @@
           "audio": "audio/praten-010-0c8b00ca0257.mp3",
           "hash": "0c8b00ca0257",
           "bytes": 13680,
-          "durationMs": 2280
+          "durationMs": 2280,
+          "audio_fr": "audio/praten-010-fr-b511f93a6b71.mp3",
+          "hash_fr": "b511f93a6b71",
+          "bytes_fr": 12528,
+          "durationMs_fr": 2088
         },
         {
           "id": "praten-011",
@@ -1902,7 +2679,11 @@
           "audio": "audio/praten-011-8a00b04e888d.mp3",
           "hash": "8a00b04e888d",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/praten-011-fr-34f0552c487a.mp3",
+          "hash_fr": "34f0552c487a",
+          "bytes_fr": 11520,
+          "durationMs_fr": 1920
         },
         {
           "id": "praten-012",
@@ -1911,7 +2692,11 @@
           "audio": "audio/praten-012-4572886e73e6.mp3",
           "hash": "4572886e73e6",
           "bytes": 12672,
-          "durationMs": 2112
+          "durationMs": 2112,
+          "audio_fr": "audio/praten-012-fr-a1a721822392.mp3",
+          "hash_fr": "a1a721822392",
+          "bytes_fr": 13248,
+          "durationMs_fr": 2208
         },
         {
           "id": "praten-013",
@@ -1921,7 +2706,11 @@
           "audio": "audio/praten-013-591b009cdb91.mp3",
           "hash": "591b009cdb91",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/praten-013-fr-6145ed090f7f.mp3",
+          "hash_fr": "6145ed090f7f",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "praten-014",
@@ -1931,7 +2720,11 @@
           "audio": "audio/praten-014-be062ac8da9d.mp3",
           "hash": "be062ac8da9d",
           "bytes": 11808,
-          "durationMs": 1968
+          "durationMs": 1968,
+          "audio_fr": "audio/praten-014-fr-42f8c9436b1a.mp3",
+          "hash_fr": "42f8c9436b1a",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         },
         {
           "id": "praten-015",
@@ -1941,7 +2734,11 @@
           "audio": "audio/praten-015-3c468827a002.mp3",
           "hash": "3c468827a002",
           "bytes": 17136,
-          "durationMs": 2856
+          "durationMs": 2856,
+          "audio_fr": "audio/praten-015-fr-a9748972e3d8.mp3",
+          "hash_fr": "a9748972e3d8",
+          "bytes_fr": 15984,
+          "durationMs_fr": 2664
         },
         {
           "id": "praten-016",
@@ -1951,7 +2748,11 @@
           "audio": "audio/praten-016-cf0fcf9e7ea6.mp3",
           "hash": "cf0fcf9e7ea6",
           "bytes": 13536,
-          "durationMs": 2256
+          "durationMs": 2256,
+          "audio_fr": "audio/praten-016-fr-0cc02bb0ebb8.mp3",
+          "hash_fr": "0cc02bb0ebb8",
+          "bytes_fr": 12816,
+          "durationMs_fr": 2136
         },
         {
           "id": "praten-017",
@@ -1960,7 +2761,11 @@
           "audio": "audio/praten-017-ef831b0b9216.mp3",
           "hash": "ef831b0b9216",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/praten-017-fr-3a15109a646c.mp3",
+          "hash_fr": "3a15109a646c",
+          "bytes_fr": 11232,
+          "durationMs_fr": 1872
         }
       ]
     },
@@ -1977,7 +2782,11 @@
           "audio": "audio/hobby-001-c12d69e1511f.mp3",
           "hash": "c12d69e1511f",
           "bytes": 17280,
-          "durationMs": 2880
+          "durationMs": 2880,
+          "audio_fr": "audio/hobby-001-fr-3d09240d194c.mp3",
+          "hash_fr": "3d09240d194c",
+          "bytes_fr": 18288,
+          "durationMs_fr": 3048
         },
         {
           "id": "hobby-002",
@@ -1987,7 +2796,11 @@
           "audio": "audio/hobby-002-d7ec158ff62b.mp3",
           "hash": "d7ec158ff62b",
           "bytes": 18864,
-          "durationMs": 3144
+          "durationMs": 3144,
+          "audio_fr": "audio/hobby-002-fr-b3eb38d4274a.mp3",
+          "hash_fr": "b3eb38d4274a",
+          "bytes_fr": 21600,
+          "durationMs_fr": 3600
         },
         {
           "id": "hobby-003",
@@ -1996,7 +2809,11 @@
           "audio": "audio/hobby-003-2b35e92cb7a0.mp3",
           "hash": "2b35e92cb7a0",
           "bytes": 20160,
-          "durationMs": 3360
+          "durationMs": 3360,
+          "audio_fr": "audio/hobby-003-fr-7f61eb7e490b.mp3",
+          "hash_fr": "7f61eb7e490b",
+          "bytes_fr": 18144,
+          "durationMs_fr": 3024
         },
         {
           "id": "hobby-004",
@@ -2005,7 +2822,11 @@
           "audio": "audio/hobby-004-927bab5b9b3d.mp3",
           "hash": "927bab5b9b3d",
           "bytes": 17856,
-          "durationMs": 2976
+          "durationMs": 2976,
+          "audio_fr": "audio/hobby-004-fr-60efea75344a.mp3",
+          "hash_fr": "60efea75344a",
+          "bytes_fr": 23904,
+          "durationMs_fr": 3984
         },
         {
           "id": "hobby-005",
@@ -2014,7 +2835,11 @@
           "audio": "audio/hobby-005-20d2c9745e98.mp3",
           "hash": "20d2c9745e98",
           "bytes": 17712,
-          "durationMs": 2952
+          "durationMs": 2952,
+          "audio_fr": "audio/hobby-005-fr-6f9aac2cf54a.mp3",
+          "hash_fr": "6f9aac2cf54a",
+          "bytes_fr": 19296,
+          "durationMs_fr": 3216
         },
         {
           "id": "hobby-006",
@@ -2024,7 +2849,11 @@
           "audio": "audio/hobby-006-ec16f65c7d0f.mp3",
           "hash": "ec16f65c7d0f",
           "bytes": 15696,
-          "durationMs": 2616
+          "durationMs": 2616,
+          "audio_fr": "audio/hobby-006-fr-6054c86e6251.mp3",
+          "hash_fr": "6054c86e6251",
+          "bytes_fr": 16992,
+          "durationMs_fr": 2832
         },
         {
           "id": "hobby-007",
@@ -2034,7 +2863,11 @@
           "audio": "audio/hobby-007-d21c30983781.mp3",
           "hash": "d21c30983781",
           "bytes": 18144,
-          "durationMs": 3024
+          "durationMs": 3024,
+          "audio_fr": "audio/hobby-007-fr-196fd97ee437.mp3",
+          "hash_fr": "196fd97ee437",
+          "bytes_fr": 20160,
+          "durationMs_fr": 3360
         },
         {
           "id": "hobby-008",
@@ -2043,7 +2876,11 @@
           "audio": "audio/hobby-008-be19944f66ef.mp3",
           "hash": "be19944f66ef",
           "bytes": 15696,
-          "durationMs": 2616
+          "durationMs": 2616,
+          "audio_fr": "audio/hobby-008-fr-ca48cc3bf00c.mp3",
+          "hash_fr": "ca48cc3bf00c",
+          "bytes_fr": 16848,
+          "durationMs_fr": 2808
         },
         {
           "id": "hobby-009",
@@ -2053,7 +2890,11 @@
           "audio": "audio/hobby-009-33196a0cc477.mp3",
           "hash": "33196a0cc477",
           "bytes": 18864,
-          "durationMs": 3144
+          "durationMs": 3144,
+          "audio_fr": "audio/hobby-009-fr-e3979abdcd40.mp3",
+          "hash_fr": "e3979abdcd40",
+          "bytes_fr": 19728,
+          "durationMs_fr": 3288
         },
         {
           "id": "hobby-010",
@@ -2062,7 +2903,11 @@
           "audio": "audio/hobby-010-9450e3d7ccf8.mp3",
           "hash": "9450e3d7ccf8",
           "bytes": 16848,
-          "durationMs": 2808
+          "durationMs": 2808,
+          "audio_fr": "audio/hobby-010-fr-f6a01df29f0e.mp3",
+          "hash_fr": "f6a01df29f0e",
+          "bytes_fr": 17856,
+          "durationMs_fr": 2976
         },
         {
           "id": "hobby-011",
@@ -2072,7 +2917,11 @@
           "audio": "audio/hobby-011-82bbccaf880d.mp3",
           "hash": "82bbccaf880d",
           "bytes": 27648,
-          "durationMs": 4608
+          "durationMs": 4608,
+          "audio_fr": "audio/hobby-011-fr-a3cccf4abca8.mp3",
+          "hash_fr": "a3cccf4abca8",
+          "bytes_fr": 31392,
+          "durationMs_fr": 5232
         },
         {
           "id": "hobby-012",
@@ -2081,7 +2930,11 @@
           "audio": "audio/hobby-012-6f14e2526278.mp3",
           "hash": "6f14e2526278",
           "bytes": 22176,
-          "durationMs": 3696
+          "durationMs": 3696,
+          "audio_fr": "audio/hobby-012-fr-cb0f9c241144.mp3",
+          "hash_fr": "cb0f9c241144",
+          "bytes_fr": 28512,
+          "durationMs_fr": 4752
         },
         {
           "id": "hobby-013",
@@ -2090,7 +2943,11 @@
           "audio": "audio/hobby-013-099fe0191ef9.mp3",
           "hash": "099fe0191ef9",
           "bytes": 17424,
-          "durationMs": 2904
+          "durationMs": 2904,
+          "audio_fr": "audio/hobby-013-fr-d3bbdf452ec2.mp3",
+          "hash_fr": "d3bbdf452ec2",
+          "bytes_fr": 19872,
+          "durationMs_fr": 3312
         },
         {
           "id": "hobby-014",
@@ -2099,7 +2956,11 @@
           "audio": "audio/hobby-014-f7139bd84997.mp3",
           "hash": "f7139bd84997",
           "bytes": 16848,
-          "durationMs": 2808
+          "durationMs": 2808,
+          "audio_fr": "audio/hobby-014-fr-3860f271a976.mp3",
+          "hash_fr": "3860f271a976",
+          "bytes_fr": 17424,
+          "durationMs_fr": 2904
         },
         {
           "id": "hobby-015",
@@ -2108,7 +2969,11 @@
           "audio": "audio/hobby-015-5b6e23633781.mp3",
           "hash": "5b6e23633781",
           "bytes": 18288,
-          "durationMs": 3048
+          "durationMs": 3048,
+          "audio_fr": "audio/hobby-015-fr-c8fa441ed559.mp3",
+          "hash_fr": "c8fa441ed559",
+          "bytes_fr": 21024,
+          "durationMs_fr": 3504
         },
         {
           "id": "hobby-016",
@@ -2117,7 +2982,11 @@
           "audio": "audio/hobby-016-f1694c3c406d.mp3",
           "hash": "f1694c3c406d",
           "bytes": 16992,
-          "durationMs": 2832
+          "durationMs": 2832,
+          "audio_fr": "audio/hobby-016-fr-25e7db5b71ee.mp3",
+          "hash_fr": "25e7db5b71ee",
+          "bytes_fr": 17136,
+          "durationMs_fr": 2856
         },
         {
           "id": "hobby-017",
@@ -2127,7 +2996,11 @@
           "audio": "audio/hobby-017-ae20590f1ae2.mp3",
           "hash": "ae20590f1ae2",
           "bytes": 14688,
-          "durationMs": 2448
+          "durationMs": 2448,
+          "audio_fr": "audio/hobby-017-fr-672981524165.mp3",
+          "hash_fr": "672981524165",
+          "bytes_fr": 15408,
+          "durationMs_fr": 2568
         },
         {
           "id": "hobby-018",
@@ -2136,7 +3009,11 @@
           "audio": "audio/hobby-018-0600abe1d748.mp3",
           "hash": "0600abe1d748",
           "bytes": 20592,
-          "durationMs": 3432
+          "durationMs": 3432,
+          "audio_fr": "audio/hobby-018-fr-b4c32a096f54.mp3",
+          "hash_fr": "b4c32a096f54",
+          "bytes_fr": 20736,
+          "durationMs_fr": 3456
         }
       ]
     },
@@ -2153,7 +3030,11 @@
           "audio": "audio/familie-001-f9c677c802b4.mp3",
           "hash": "f9c677c802b4",
           "bytes": 15120,
-          "durationMs": 2520
+          "durationMs": 2520,
+          "audio_fr": "audio/familie-001-fr-15f5ff6a8fd1.mp3",
+          "hash_fr": "15f5ff6a8fd1",
+          "bytes_fr": 14544,
+          "durationMs_fr": 2424
         },
         {
           "id": "familie-002",
@@ -2162,7 +3043,11 @@
           "audio": "audio/familie-002-07336130a1e4.mp3",
           "hash": "07336130a1e4",
           "bytes": 16848,
-          "durationMs": 2808
+          "durationMs": 2808,
+          "audio_fr": "audio/familie-002-fr-ce74cdefd040.mp3",
+          "hash_fr": "ce74cdefd040",
+          "bytes_fr": 16416,
+          "durationMs_fr": 2736
         },
         {
           "id": "familie-003",
@@ -2172,7 +3057,11 @@
           "audio": "audio/familie-003-8ed66a051de0.mp3",
           "hash": "8ed66a051de0",
           "bytes": 24768,
-          "durationMs": 4128
+          "durationMs": 4128,
+          "audio_fr": "audio/familie-003-fr-85df386b9fcd.mp3",
+          "hash_fr": "85df386b9fcd",
+          "bytes_fr": 20016,
+          "durationMs_fr": 3336
         },
         {
           "id": "familie-004",
@@ -2181,7 +3070,11 @@
           "audio": "audio/familie-004-b234df905c8d.mp3",
           "hash": "b234df905c8d",
           "bytes": 16128,
-          "durationMs": 2688
+          "durationMs": 2688,
+          "audio_fr": "audio/familie-004-fr-37e02e5664b1.mp3",
+          "hash_fr": "37e02e5664b1",
+          "bytes_fr": 16128,
+          "durationMs_fr": 2688
         },
         {
           "id": "familie-005",
@@ -2191,7 +3084,11 @@
           "audio": "audio/familie-005-df0b89442945.mp3",
           "hash": "df0b89442945",
           "bytes": 16416,
-          "durationMs": 2736
+          "durationMs": 2736,
+          "audio_fr": "audio/familie-005-fr-38cd8894e06b.mp3",
+          "hash_fr": "38cd8894e06b",
+          "bytes_fr": 17136,
+          "durationMs_fr": 2856
         },
         {
           "id": "familie-006",
@@ -2201,7 +3098,11 @@
           "audio": "audio/familie-006-7472442b07b9.mp3",
           "hash": "7472442b07b9",
           "bytes": 12096,
-          "durationMs": 2016
+          "durationMs": 2016,
+          "audio_fr": "audio/familie-006-fr-adfd25fe2b03.mp3",
+          "hash_fr": "adfd25fe2b03",
+          "bytes_fr": 13392,
+          "durationMs_fr": 2232
         },
         {
           "id": "familie-007",
@@ -2210,7 +3111,11 @@
           "audio": "audio/familie-007-634b52bad3a7.mp3",
           "hash": "634b52bad3a7",
           "bytes": 17856,
-          "durationMs": 2976
+          "durationMs": 2976,
+          "audio_fr": "audio/familie-007-fr-75e8819193ff.mp3",
+          "hash_fr": "75e8819193ff",
+          "bytes_fr": 17136,
+          "durationMs_fr": 2856
         },
         {
           "id": "familie-008",
@@ -2219,7 +3124,11 @@
           "audio": "audio/familie-008-fcf11260e30c.mp3",
           "hash": "fcf11260e30c",
           "bytes": 19008,
-          "durationMs": 3168
+          "durationMs": 3168,
+          "audio_fr": "audio/familie-008-fr-4ae08fdd84ef.mp3",
+          "hash_fr": "4ae08fdd84ef",
+          "bytes_fr": 19872,
+          "durationMs_fr": 3312
         },
         {
           "id": "familie-009",
@@ -2228,7 +3137,11 @@
           "audio": "audio/familie-009-ef0a04fb9211.mp3",
           "hash": "ef0a04fb9211",
           "bytes": 16560,
-          "durationMs": 2760
+          "durationMs": 2760,
+          "audio_fr": "audio/familie-009-fr-56889288536f.mp3",
+          "hash_fr": "56889288536f",
+          "bytes_fr": 16128,
+          "durationMs_fr": 2688
         },
         {
           "id": "familie-010",
@@ -2237,7 +3150,11 @@
           "audio": "audio/familie-010-c8d4d2619f76.mp3",
           "hash": "c8d4d2619f76",
           "bytes": 19728,
-          "durationMs": 3288
+          "durationMs": 3288,
+          "audio_fr": "audio/familie-010-fr-53107f48e2c4.mp3",
+          "hash_fr": "53107f48e2c4",
+          "bytes_fr": 14544,
+          "durationMs_fr": 2424
         },
         {
           "id": "familie-011",
@@ -2246,7 +3163,11 @@
           "audio": "audio/familie-011-0bba25f29321.mp3",
           "hash": "0bba25f29321",
           "bytes": 21888,
-          "durationMs": 3648
+          "durationMs": 3648,
+          "audio_fr": "audio/familie-011-fr-97ef52bc6bf9.mp3",
+          "hash_fr": "97ef52bc6bf9",
+          "bytes_fr": 22320,
+          "durationMs_fr": 3720
         },
         {
           "id": "familie-012",
@@ -2255,7 +3176,11 @@
           "audio": "audio/familie-012-ee45932cc390.mp3",
           "hash": "ee45932cc390",
           "bytes": 13824,
-          "durationMs": 2304
+          "durationMs": 2304,
+          "audio_fr": "audio/familie-012-fr-0c631c925c23.mp3",
+          "hash_fr": "0c631c925c23",
+          "bytes_fr": 11808,
+          "durationMs_fr": 1968
         },
         {
           "id": "familie-013",
@@ -2265,7 +3190,11 @@
           "audio": "audio/familie-013-8fa957cccb38.mp3",
           "hash": "8fa957cccb38",
           "bytes": 14256,
-          "durationMs": 2376
+          "durationMs": 2376,
+          "audio_fr": "audio/familie-013-fr-b748d7bdab28.mp3",
+          "hash_fr": "b748d7bdab28",
+          "bytes_fr": 14832,
+          "durationMs_fr": 2472
         },
         {
           "id": "familie-014",
@@ -2275,7 +3204,11 @@
           "audio": "audio/familie-014-c88d395c6a9f.mp3",
           "hash": "c88d395c6a9f",
           "bytes": 17424,
-          "durationMs": 2904
+          "durationMs": 2904,
+          "audio_fr": "audio/familie-014-fr-20b8cb6a2d73.mp3",
+          "hash_fr": "20b8cb6a2d73",
+          "bytes_fr": 16848,
+          "durationMs_fr": 2808
         },
         {
           "id": "familie-015",
@@ -2285,7 +3218,11 @@
           "audio": "audio/familie-015-40200b6007b2.mp3",
           "hash": "40200b6007b2",
           "bytes": 14976,
-          "durationMs": 2496
+          "durationMs": 2496,
+          "audio_fr": "audio/familie-015-fr-337fc9cddf0b.mp3",
+          "hash_fr": "337fc9cddf0b",
+          "bytes_fr": 14832,
+          "durationMs_fr": 2472
         }
       ]
     },
@@ -2302,7 +3239,11 @@
           "audio": "audio/gezond-001-b181592a58f8.mp3",
           "hash": "b181592a58f8",
           "bytes": 12240,
-          "durationMs": 2040
+          "durationMs": 2040,
+          "audio_fr": "audio/gezond-001-fr-307c3b5573f1.mp3",
+          "hash_fr": "307c3b5573f1",
+          "bytes_fr": 13104,
+          "durationMs_fr": 2184
         },
         {
           "id": "gezond-002",
@@ -2311,7 +3252,11 @@
           "audio": "audio/gezond-002-d155f352c0a9.mp3",
           "hash": "d155f352c0a9",
           "bytes": 11808,
-          "durationMs": 1968
+          "durationMs": 1968,
+          "audio_fr": "audio/gezond-002-fr-b4246ae95b68.mp3",
+          "hash_fr": "b4246ae95b68",
+          "bytes_fr": 13248,
+          "durationMs_fr": 2208
         },
         {
           "id": "gezond-003",
@@ -2320,7 +3265,11 @@
           "audio": "audio/gezond-003-269a24b41357.mp3",
           "hash": "269a24b41357",
           "bytes": 16416,
-          "durationMs": 2736
+          "durationMs": 2736,
+          "audio_fr": "audio/gezond-003-fr-0cfe46b66a2b.mp3",
+          "hash_fr": "0cfe46b66a2b",
+          "bytes_fr": 17568,
+          "durationMs_fr": 2928
         },
         {
           "id": "gezond-004",
@@ -2330,7 +3279,11 @@
           "audio": "audio/gezond-004-07aff60e343e.mp3",
           "hash": "07aff60e343e",
           "bytes": 13104,
-          "durationMs": 2184
+          "durationMs": 2184,
+          "audio_fr": "audio/gezond-004-fr-bc9ca99926de.mp3",
+          "hash_fr": "bc9ca99926de",
+          "bytes_fr": 15264,
+          "durationMs_fr": 2544
         },
         {
           "id": "gezond-005",
@@ -2339,7 +3292,11 @@
           "audio": "audio/gezond-005-6db7eccb792d.mp3",
           "hash": "6db7eccb792d",
           "bytes": 11520,
-          "durationMs": 1920
+          "durationMs": 1920,
+          "audio_fr": "audio/gezond-005-fr-a3c39f9eede0.mp3",
+          "hash_fr": "a3c39f9eede0",
+          "bytes_fr": 11952,
+          "durationMs_fr": 1992
         },
         {
           "id": "gezond-006",
@@ -2349,7 +3306,11 @@
           "audio": "audio/gezond-006-068a1c684b66.mp3",
           "hash": "068a1c684b66",
           "bytes": 20880,
-          "durationMs": 3480
+          "durationMs": 3480,
+          "audio_fr": "audio/gezond-006-fr-32992c3cd043.mp3",
+          "hash_fr": "32992c3cd043",
+          "bytes_fr": 22896,
+          "durationMs_fr": 3816
         },
         {
           "id": "gezond-007",
@@ -2358,7 +3319,11 @@
           "audio": "audio/gezond-007-4c18d034bd81.mp3",
           "hash": "4c18d034bd81",
           "bytes": 15264,
-          "durationMs": 2544
+          "durationMs": 2544,
+          "audio_fr": "audio/gezond-007-fr-3ad44f40f07e.mp3",
+          "hash_fr": "3ad44f40f07e",
+          "bytes_fr": 15552,
+          "durationMs_fr": 2592
         },
         {
           "id": "gezond-008",
@@ -2367,7 +3332,11 @@
           "audio": "audio/gezond-008-8ccd5aeddc35.mp3",
           "hash": "8ccd5aeddc35",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/gezond-008-fr-a7467115611b.mp3",
+          "hash_fr": "a7467115611b",
+          "bytes_fr": 11520,
+          "durationMs_fr": 1920
         },
         {
           "id": "gezond-009",
@@ -2376,7 +3345,11 @@
           "audio": "audio/gezond-009-1fefbc32cd25.mp3",
           "hash": "1fefbc32cd25",
           "bytes": 11376,
-          "durationMs": 1896
+          "durationMs": 1896,
+          "audio_fr": "audio/gezond-009-fr-15770289ca13.mp3",
+          "hash_fr": "15770289ca13",
+          "bytes_fr": 11664,
+          "durationMs_fr": 1944
         },
         {
           "id": "gezond-010",
@@ -2385,7 +3358,11 @@
           "audio": "audio/gezond-010-4e3552d1a266.mp3",
           "hash": "4e3552d1a266",
           "bytes": 14256,
-          "durationMs": 2376
+          "durationMs": 2376,
+          "audio_fr": "audio/gezond-010-fr-fa2878fbff75.mp3",
+          "hash_fr": "fa2878fbff75",
+          "bytes_fr": 12240,
+          "durationMs_fr": 2040
         },
         {
           "id": "gezond-011",
@@ -2394,7 +3371,11 @@
           "audio": "audio/gezond-011-27759b09715a.mp3",
           "hash": "27759b09715a",
           "bytes": 14688,
-          "durationMs": 2448
+          "durationMs": 2448,
+          "audio_fr": "audio/gezond-011-fr-2f3d61e66fdb.mp3",
+          "hash_fr": "2f3d61e66fdb",
+          "bytes_fr": 20016,
+          "durationMs_fr": 3336
         },
         {
           "id": "gezond-012",
@@ -2403,7 +3384,11 @@
           "audio": "audio/gezond-012-0fe6c09014ae.mp3",
           "hash": "0fe6c09014ae",
           "bytes": 17280,
-          "durationMs": 2880
+          "durationMs": 2880,
+          "audio_fr": "audio/gezond-012-fr-264617c0965e.mp3",
+          "hash_fr": "264617c0965e",
+          "bytes_fr": 18144,
+          "durationMs_fr": 3024
         },
         {
           "id": "gezond-013",
@@ -2412,7 +3397,11 @@
           "audio": "audio/gezond-013-ab979bc9a0e3.mp3",
           "hash": "ab979bc9a0e3",
           "bytes": 18720,
-          "durationMs": 3120
+          "durationMs": 3120,
+          "audio_fr": "audio/gezond-013-fr-dd6f7a1bf134.mp3",
+          "hash_fr": "dd6f7a1bf134",
+          "bytes_fr": 22752,
+          "durationMs_fr": 3792
         },
         {
           "id": "gezond-014",
@@ -2422,7 +3411,11 @@
           "audio": "audio/gezond-014-dfbc53fe087a.mp3",
           "hash": "dfbc53fe087a",
           "bytes": 15120,
-          "durationMs": 2520
+          "durationMs": 2520,
+          "audio_fr": "audio/gezond-014-fr-b105fa990497.mp3",
+          "hash_fr": "b105fa990497",
+          "bytes_fr": 18720,
+          "durationMs_fr": 3120
         },
         {
           "id": "gezond-015",
@@ -2431,7 +3424,11 @@
           "audio": "audio/gezond-015-1a2c7060dfaf.mp3",
           "hash": "1a2c7060dfaf",
           "bytes": 11232,
-          "durationMs": 1872
+          "durationMs": 1872,
+          "audio_fr": "audio/gezond-015-fr-271a281d5768.mp3",
+          "hash_fr": "271a281d5768",
+          "bytes_fr": 12240,
+          "durationMs_fr": 2040
         },
         {
           "id": "gezond-016",
@@ -2441,7 +3438,11 @@
           "audio": "audio/gezond-016-e482b13ab137.mp3",
           "hash": "e482b13ab137",
           "bytes": 13248,
-          "durationMs": 2208
+          "durationMs": 2208,
+          "audio_fr": "audio/gezond-016-fr-38175be4851f.mp3",
+          "hash_fr": "38175be4851f",
+          "bytes_fr": 12384,
+          "durationMs_fr": 2064
         }
       ]
     },
@@ -2459,7 +3460,11 @@
           "audio": "audio/admin-001-7c701a1712f5.mp3",
           "hash": "7c701a1712f5",
           "bytes": 16848,
-          "durationMs": 2808
+          "durationMs": 2808,
+          "audio_fr": "audio/admin-001-fr-9b2a5f77d875.mp3",
+          "hash_fr": "9b2a5f77d875",
+          "bytes_fr": 16704,
+          "durationMs_fr": 2784
         },
         {
           "id": "admin-002",
@@ -2468,7 +3473,11 @@
           "audio": "audio/admin-002-a00d00b0d187.mp3",
           "hash": "a00d00b0d187",
           "bytes": 16128,
-          "durationMs": 2688
+          "durationMs": 2688,
+          "audio_fr": "audio/admin-002-fr-9cbe717c475a.mp3",
+          "hash_fr": "9cbe717c475a",
+          "bytes_fr": 14976,
+          "durationMs_fr": 2496
         },
         {
           "id": "admin-003",
@@ -2478,7 +3487,11 @@
           "audio": "audio/admin-003-6c7dbd73ad27.mp3",
           "hash": "6c7dbd73ad27",
           "bytes": 16704,
-          "durationMs": 2784
+          "durationMs": 2784,
+          "audio_fr": "audio/admin-003-fr-e521d9c0fdc4.mp3",
+          "hash_fr": "e521d9c0fdc4",
+          "bytes_fr": 16416,
+          "durationMs_fr": 2736
         },
         {
           "id": "admin-004",
@@ -2487,7 +3500,11 @@
           "audio": "audio/admin-004-2fa4119f1076.mp3",
           "hash": "2fa4119f1076",
           "bytes": 13968,
-          "durationMs": 2328
+          "durationMs": 2328,
+          "audio_fr": "audio/admin-004-fr-c51ce5afaec5.mp3",
+          "hash_fr": "c51ce5afaec5",
+          "bytes_fr": 13536,
+          "durationMs_fr": 2256
         },
         {
           "id": "admin-005",
@@ -2496,7 +3513,11 @@
           "audio": "audio/admin-005-a22746b3dfc9.mp3",
           "hash": "a22746b3dfc9",
           "bytes": 15696,
-          "durationMs": 2616
+          "durationMs": 2616,
+          "audio_fr": "audio/admin-005-fr-7a0f24020599.mp3",
+          "hash_fr": "7a0f24020599",
+          "bytes_fr": 14976,
+          "durationMs_fr": 2496
         },
         {
           "id": "admin-006",
@@ -2505,7 +3526,11 @@
           "audio": "audio/admin-006-549dab7fd08e.mp3",
           "hash": "549dab7fd08e",
           "bytes": 18000,
-          "durationMs": 3000
+          "durationMs": 3000,
+          "audio_fr": "audio/admin-006-fr-9cefc4234a32.mp3",
+          "hash_fr": "9cefc4234a32",
+          "bytes_fr": 19296,
+          "durationMs_fr": 3216
         },
         {
           "id": "admin-007",
@@ -2514,7 +3539,11 @@
           "audio": "audio/admin-007-885b632eeb89.mp3",
           "hash": "885b632eeb89",
           "bytes": 19152,
-          "durationMs": 3192
+          "durationMs": 3192,
+          "audio_fr": "audio/admin-007-fr-a9896f7e95c9.mp3",
+          "hash_fr": "a9896f7e95c9",
+          "bytes_fr": 20880,
+          "durationMs_fr": 3480
         },
         {
           "id": "admin-008",
@@ -2523,7 +3552,11 @@
           "audio": "audio/admin-008-5a0225661eeb.mp3",
           "hash": "5a0225661eeb",
           "bytes": 13248,
-          "durationMs": 2208
+          "durationMs": 2208,
+          "audio_fr": "audio/admin-008-fr-6e0db9863e7c.mp3",
+          "hash_fr": "6e0db9863e7c",
+          "bytes_fr": 13824,
+          "durationMs_fr": 2304
         },
         {
           "id": "admin-009",
@@ -2533,7 +3566,11 @@
           "audio": "audio/admin-009-ec166cd41203.mp3",
           "hash": "ec166cd41203",
           "bytes": 14976,
-          "durationMs": 2496
+          "durationMs": 2496,
+          "audio_fr": "audio/admin-009-fr-ca6afe916d3e.mp3",
+          "hash_fr": "ca6afe916d3e",
+          "bytes_fr": 15984,
+          "durationMs_fr": 2664
         },
         {
           "id": "admin-010",
@@ -2542,7 +3579,11 @@
           "audio": "audio/admin-010-52abe85901ca.mp3",
           "hash": "52abe85901ca",
           "bytes": 12528,
-          "durationMs": 2088
+          "durationMs": 2088,
+          "audio_fr": "audio/admin-010-fr-66bf4f065232.mp3",
+          "hash_fr": "66bf4f065232",
+          "bytes_fr": 12096,
+          "durationMs_fr": 2016
         },
         {
           "id": "admin-011",
@@ -2551,7 +3592,11 @@
           "audio": "audio/admin-011-03e1701e3d62.mp3",
           "hash": "03e1701e3d62",
           "bytes": 17280,
-          "durationMs": 2880
+          "durationMs": 2880,
+          "audio_fr": "audio/admin-011-fr-778d54e6aff5.mp3",
+          "hash_fr": "778d54e6aff5",
+          "bytes_fr": 18288,
+          "durationMs_fr": 3048
         },
         {
           "id": "admin-012",
@@ -2560,7 +3605,11 @@
           "audio": "audio/admin-012-5dc09c6f9965.mp3",
           "hash": "5dc09c6f9965",
           "bytes": 16416,
-          "durationMs": 2736
+          "durationMs": 2736,
+          "audio_fr": "audio/admin-012-fr-8e849391373e.mp3",
+          "hash_fr": "8e849391373e",
+          "bytes_fr": 15120,
+          "durationMs_fr": 2520
         },
         {
           "id": "admin-013",
@@ -2569,7 +3618,11 @@
           "audio": "audio/admin-013-190da87cc618.mp3",
           "hash": "190da87cc618",
           "bytes": 14688,
-          "durationMs": 2448
+          "durationMs": 2448,
+          "audio_fr": "audio/admin-013-fr-0cba88d3507c.mp3",
+          "hash_fr": "0cba88d3507c",
+          "bytes_fr": 12672,
+          "durationMs_fr": 2112
         },
         {
           "id": "admin-014",
@@ -2578,7 +3631,11 @@
           "audio": "audio/admin-014-bcb4c3207e9d.mp3",
           "hash": "bcb4c3207e9d",
           "bytes": 15408,
-          "durationMs": 2568
+          "durationMs": 2568,
+          "audio_fr": "audio/admin-014-fr-f6a856a1ad04.mp3",
+          "hash_fr": "f6a856a1ad04",
+          "bytes_fr": 15840,
+          "durationMs_fr": 2640
         },
         {
           "id": "admin-015",
@@ -2587,7 +3644,11 @@
           "audio": "audio/admin-015-b341e72f4eff.mp3",
           "hash": "b341e72f4eff",
           "bytes": 18432,
-          "durationMs": 3072
+          "durationMs": 3072,
+          "audio_fr": "audio/admin-015-fr-fe753999f30c.mp3",
+          "hash_fr": "fe753999f30c",
+          "bytes_fr": 17856,
+          "durationMs_fr": 2976
         },
         {
           "id": "admin-016",
@@ -2596,7 +3657,11 @@
           "audio": "audio/admin-016-dffd00363240.mp3",
           "hash": "dffd00363240",
           "bytes": 22176,
-          "durationMs": 3696
+          "durationMs": 3696,
+          "audio_fr": "audio/admin-016-fr-82d502a2647f.mp3",
+          "hash_fr": "82d502a2647f",
+          "bytes_fr": 19728,
+          "durationMs_fr": 3288
         }
       ]
     }
